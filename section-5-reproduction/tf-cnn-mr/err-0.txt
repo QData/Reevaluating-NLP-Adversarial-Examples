@@ -1,0 +1,4 @@
+INFO:absl:Using /tmp/tfhub_modules to cache modules.
+INFO:absl:Downloading TF-Hub Module 'https://tfhub.dev/google/universal-sentence-encoder-large/4'.
+INFO:absl:Downloaded https://tfhub.dev/google/universal-sentence-encoder-large/4, Total size: 576.45MB
+INFO:absl:Downloaded TF-Hub Module 'https://tfhub.dev/google/universal-sentence-encoder-large/4'.

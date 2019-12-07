@@ -1,0 +1,889 @@
+TextAttack BERTForClassification Loading from path /p/qdata/jm8wx/research/text_attacks/trained_bert_models/mr-uncased
+Loaded in 55.868698835372925s
+Attack algorithm: GreedyWordSwapWIR
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+[92m1[0m-->[91m0[0m
+smith's point is simple and obvious -- people's homes are extensions of themselves , and particularly eccentric people have particularly eccentric living spaces -- but his subjects are [92mcharmers[0m .
+smith's point is simple and obvious -- people's homes are extensions of themselves , and particularly eccentric people have particularly eccentric living spaces -- but his subjects are [91mjugglers[0m .
+----------------------------------- Result 2 -----------------------------------
+[92m1[0m-->[91m0[0m
+even through its flaws , [92mrevolution[0m #9 proves to be a [92mcompelling[0m , [92minterestingly[0m [92mtold[0m film .
+even through its flaws , [91mtumult[0m #9 proves to be a [91mpersuade[0m , [91mridiculously[0m [91mcautioned[0m film .
+----------------------------------- Result 3 -----------------------------------
+[92m1[0m-->[91m0[0m
+definitely [92mworth[0m 95 minutes of your time .
+definitely [91mfines[0m 95 minutes of your time .
+----------------------------------- Result 4 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92msweetly[0m [92msexy[0m , [92mfunny[0m and [92mtouching[0m .
+[91msheepishly[0m [91msexier[0m , [91mnosy[0m and [91mplaguing[0m .
+----------------------------------- Result 5 -----------------------------------
+[91m0[0m-->[92m1[0m
+a movie that [91mhovers[0m [91msomewhere[0m between an acute character study and a trite power struggle .
+a movie that [92mcircling[0m [92msomehow[0m between an acute character study and a trite power struggle .
+----------------------------------- Result 6 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91mwithout[0m a [91mfresh[0m [91minfusion[0m of creativity , 4ever is neither a [91mpromise[0m nor a threat so much as [91mwishful[0m [91mthinking[0m .
+[92malbeit[0m a [92msweet[0m [92minfused[0m of creativity , 4ever is neither a [92mvowing[0m nor a threat so much as [92mfarfetched[0m [92mthoughts[0m .
+----------------------------------- Result 7 -----------------------------------
+[92m1[0m-->[91m0[0m
+like mike is a harmlessly naïve [92mslice[0m of b-ball fantasy , fit for [92mfilling[0m in during the real nba's off-season .
+like mike is a harmlessly naïve [91mslitting[0m of b-ball fantasy , fit for [91mfills[0m in during the real nba's off-season .
+----------------------------------- Result 8 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mdark[0m , quirky road movie that constantly defies expectation .
+a [91mdreary[0m , quirky road movie that constantly defies expectation .
+----------------------------------- Result 9 -----------------------------------
+[91m0[0m-->[92m1[0m
+. . . would be a [91mtotal[0m [91mloss[0m if not for two supporting performances taking place at the movie's edges .
+. . . would be a [92moverall[0m [92mloosing[0m if not for two supporting performances taking place at the movie's edges .
+----------------------------------- Result 10 -----------------------------------
+[92m1[0m-->[91m0[0m
+'anyone with a [92mpassion[0m for [92mcinema[0m , and [92mindeed[0m [92msex[0m , should [92msee[0m it as [92msoon[0m as [92mpossible[0m . '
+'anyone with a [91mfondness[0m for [91mtheaters[0m , and [91mpresumably[0m [91mintercourse[0m , should [91mglance[0m it as [91mearlier[0m as [91munlikely[0m . '
+----------------------------------- Result 11 -----------------------------------
+[92m1[0m-->[91m0[0m
+paid in full is [92mremarkably[0m [92mengaging[0m despite being noticeably derivative of goodfellas and at least a half dozen other trouble-in-the-ghetto flicks .
+paid in full is [91mterribly[0m [91mparticipates[0m despite being noticeably derivative of goodfellas and at least a half dozen other trouble-in-the-ghetto flicks .
+----------------------------------- Result 12 -----------------------------------
+[92m1[0m-->[91m0[0m
+what might have been readily dismissed as the tiresome rant of an aging filmmaker still thumbing his nose at [92mconvention[0m [92mtakes[0m a [92msurprising[0m , [92msubtle[0m turn at the midway point .
+what might have been readily dismissed as the tiresome rant of an aging filmmaker still thumbing his nose at [91mconventions[0m [91mtaking[0m a [91mperplexing[0m , [91minconspicuous[0m turn at the midway point .
+----------------------------------- Result 13 -----------------------------------
+[92m1[0m-->[91m0[0m
+ali's graduation from little screen to big is far [92mless[0m painful than his opening scene encounter with an over-amorous terrier .
+ali's graduation from little screen to big is far [91mlowest[0m painful than his opening scene encounter with an over-amorous terrier .
+----------------------------------- Result 14 -----------------------------------
+[92m1[0m-->[91m0[0m
+an overly melodramatic but [92msomewhat[0m [92minsightful[0m french coming-of-age film . . .
+an overly melodramatic but [91mshortly[0m [91mshrewd[0m french coming-of-age film . . .
+----------------------------------- Result 15 -----------------------------------
+[91m0[0m-->[92m1[0m
+this is a [91mthrowaway[0m , junk-food [91mmovie[0m [91mwhose[0m [91mrap[0m soundtrack was [91mbetter[0m [91mtended[0m to than the [91mfilm[0m itself .
+this is a [92mclichéd[0m , junk-food [92mfilms[0m [92mwho[0m [92mrapper[0m soundtrack was [92mnicer[0m [92mtrend[0m to than the [92mcinema[0m itself .
+----------------------------------- Result 16 -----------------------------------
+[92m1[0m-->[91m0[0m
+more than anything else , kissing jessica stein [92minjects[0m [92mfreshness[0m and [92mspirit[0m into the romantic comedy genre , which has been held [92mhostage[0m by generic scripts that seek to remake sleepless in seattle again and again .
+more than anything else , kissing jessica stein [91minjected[0m [91mexude[0m and [91mesprit[0m into the romantic comedy genre , which has been held [91msnatched[0m by generic scripts that seek to remake sleepless in seattle again and again .
+----------------------------------- Result 17 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+if it's possible for a sequel to outshine the original , then sl2 does just that .
+----------------------------------- Result 18 -----------------------------------
+[91m0[0m-->[92m1[0m
+it's a [91mstale[0m , overused cocktail using the same olives since 1962 as garnish . not only is entry number twenty the worst of the brosnan bunch , it's one of the [91mworst[0m of the entire franchise .
+it's a [92mancient[0m , overused cocktail using the same olives since 1962 as garnish . not only is entry number twenty the worst of the brosnan bunch , it's one of the [92mgrandest[0m of the entire franchise .
+----------------------------------- Result 19 -----------------------------------
+[91m0[0m-->[91m[FAILED][0m
+it's a shame that the storyline and its underlying themes . . . finally seem so impersonal or even shallow .
+----------------------------------- Result 20 -----------------------------------
+[92m1[0m-->[91m0[0m
+if you [92menjoy[0m more [92mthoughtful[0m [92mcomedies[0m with [92minteresting[0m [92mconflicted[0m characters ; this one is for you .
+if you [91miike[0m more [91mcircumspect[0m [91mcomedy[0m with [91mhelpful[0m [91mobjected[0m characters ; this one is for you .
+----------------------------------- Result 21 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+a properly spooky film about the power of spirits to influence us whether we believe in them or not .
+----------------------------------- Result 22 -----------------------------------
+[91m0[0m-->[92m1[0m
+though avary has done his best to make something out of ellis' nothing novel , in the end , his rules is barely [91mworth[0m following .
+though avary has done his best to make something out of ellis' nothing novel , in the end , his rules is barely [92mpriceless[0m following .
+----------------------------------- Result 23 -----------------------------------
+[92m1[0m-->[91m0[0m
+few films have captured the [92mchaos[0m of an urban conflagration with such [92mfury[0m , and audience members will leave feeling as shaken as nesbitt's cooper looks when the bullets stop flying .
+few films have captured the [91mpandemonium[0m of an urban conflagration with such [91mannoyance[0m , and audience members will leave feeling as shaken as nesbitt's cooper looks when the bullets stop flying .
+----------------------------------- Result 24 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mcultural[0m wildcard [92mexperience[0m : wacky , [92mdifferent[0m , unusual , even nutty .
+a [91mcultura[0m wildcard [91mexperiment[0m : wacky , [91minnumerable[0m , unusual , even nutty .
+----------------------------------- Result 25 -----------------------------------
+[91m0[0m-->[92m1[0m
+the film is all over the place , really . it dabbles all around , [91mnever[0m gaining [91mmuch[0m momentum .
+the film is all over the place , really . it dabbles all around , [92mforever[0m gaining [92mmany[0m momentum .
+----------------------------------- Result 26 -----------------------------------
+[91m0[0m-->[92m1[0m
+a sentimental mess that [91mnever[0m [91mrings[0m true .
+a sentimental mess that [92mnot[0m [92mpiercings[0m true .
+----------------------------------- Result 27 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mpositively[0m [92mthrilling[0m [92mcombination[0m of ethnography and all the intrigue , betrayal , deceit and murder of a shakespearean tragedy or a juicy soap opera .
+a [91mresolutely[0m [91mtitillating[0m [91mmixing[0m of ethnography and all the intrigue , betrayal , deceit and murder of a shakespearean tragedy or a juicy soap opera .
+----------------------------------- Result 28 -----------------------------------
+[91m0[0m-->[92m1[0m
+serving sara doesn't [91mserve[0m up a [91mwhole[0m lot of laughs .
+serving sara doesn't [92mreplying[0m up a [92munmitigated[0m lot of laughs .
+----------------------------------- Result 29 -----------------------------------
+[91m0[0m-->[92m1[0m
+this movie , a certain scene in particular , brought me uncomfortably close to [91mlosing[0m my lunch .
+this movie , a certain scene in particular , brought me uncomfortably close to [92mlose[0m my lunch .
+----------------------------------- Result 30 -----------------------------------
+[91m0[0m-->[92m1[0m
+a compendium of solondz's own [91mworst[0m instincts in under 90 minutes .
+a compendium of solondz's own [92mmeanest[0m instincts in under 90 minutes .
+----------------------------------- Result 31 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91mfeels[0m like a cold old man going through the motions .
+[92minfects[0m like a cold old man going through the motions .
+----------------------------------- Result 32 -----------------------------------
+[92m1[0m-->[91m0[0m
+allen's underestimated [92mcharm[0m [92mdelivers[0m more goodies than lumps of coal .
+allen's underestimated [91mallure[0m [91mdonne[0m more goodies than lumps of coal .
+----------------------------------- Result 33 -----------------------------------
+[92m1[0m-->[91m0[0m
+like mike doesn't win any points for originality . it does [92msucceed[0m by following a [92mfeel[0m-[92mgood[0m formula with a [92mwinning[0m [92mstyle[0m , and by [92moffering[0m its target audience of urban kids some [92mwelcome[0m role models and optimism .
+like mike doesn't win any points for originality . it does [91mavail[0m by following a [91modor[0m-[91mproper[0m formula with a [91mdefeating[0m [91mstyles[0m , and by [91mprescribes[0m its target audience of urban kids some [91mcongratulated[0m role models and optimism .
+----------------------------------- Result 34 -----------------------------------
+[91m0[0m-->[92m1[0m
+characters wander into predictably treacherous [91msituations[0m [91meven[0m though they should know better .
+characters wander into predictably treacherous [92moccasions[0m [92myet[0m though they should know better .
+----------------------------------- Result 35 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91mleaks[0m treacle from every pore .
+[92mspills[0m treacle from every pore .
+----------------------------------- Result 36 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mpoignant[0m comedy that [92moffers[0m food for thought .
+a [91mdreaded[0m comedy that [91mofferings[0m food for thought .
+----------------------------------- Result 37 -----------------------------------
+[92m1[0m-->[91m0[0m
+watching haneke's film is , aptly enough , a challenge and a punishment . but watching huppert , a great actress tearing into a landmark role , is [92mriveting[0m .
+watching haneke's film is , aptly enough , a challenge and a punishment . but watching huppert , a great actress tearing into a landmark role , is [91mperplexing[0m .
+----------------------------------- Result 38 -----------------------------------
+[91m0[0m-->[92m1[0m
+mr . wedge and mr . saldanha handle the mix of verbal jokes and slapstick well . their film [91mfalters[0m , however , in its adherence to the disney philosophy of required poignancy , a salute that i'd hoped the movie would avoid .
+mr . wedge and mr . saldanha handle the mix of verbal jokes and slapstick well . their film [92msputters[0m , however , in its adherence to the disney philosophy of required poignancy , a salute that i'd hoped the movie would avoid .
+----------------------------------- Result 39 -----------------------------------
+[92m1[0m-->[91m0[0m
+kosminsky . . . [92mputs[0m [92menough[0m [92msalt[0m into the [92mwounds[0m of the [92mtortured[0m and self-conscious material to make it [92msting[0m .
+kosminsky . . . [91mcauses[0m [91minsufficient[0m [91msel[0m into the [91minjured[0m of the [91mtorturous[0m and self-conscious material to make it [91mtingling[0m .
+----------------------------------- Result 40 -----------------------------------
+[91m0[0m-->[92m1[0m
+a [91mpoorly[0m scripted , preachy fable that forgets about [91munfolding[0m a coherent , believable [91mstory[0m in its zeal to spread propaganda .
+a [92mthinly[0m scripted , preachy fable that forgets about [92munfolds[0m a coherent , believable [92mepic[0m in its zeal to spread propaganda .
+----------------------------------- Result 41 -----------------------------------
+[91m0[0m-->[92m1[0m
+a [91msoulless[0m jumble of ineptly [91massembled[0m [91mcliches[0m and pabulum that plays like a 95-minute commercial for nba properties .
+a [92mbrutal[0m jumble of ineptly [92minstalled[0m [92mclichés[0m and pabulum that plays like a 95-minute commercial for nba properties .
+----------------------------------- Result 42 -----------------------------------
+[92m1[0m-->[91m0[0m
+close enough in [92mspirit[0m to its freewheeling trash-cinema roots to be a [92mbreath[0m of fresh air .
+close enough in [91mesprit[0m to its freewheeling trash-cinema roots to be a [91mwheezes[0m of fresh air .
+----------------------------------- Result 43 -----------------------------------
+[92m1[0m-->[91m0[0m
+while the [92mideas[0m about techno-[92msaturation[0m are far from novel , they're presented with a [92mwry[0m dark humor .
+while the [91midea[0m about techno-[91mcongestion[0m are far from novel , they're presented with a [91mchuckling[0m dark humor .
+----------------------------------- Result 44 -----------------------------------
+[91m0[0m-->[91m[FAILED][0m
+the movie is too amateurishly square to make the most of its own ironic implications .
+----------------------------------- Result 45 -----------------------------------
+[91m0[0m-->[92m1[0m
+for a [91mfilm[0m that celebrates [91mradical[0m , nonconformist values , what to do in case of fire ? lazily and glumly settles into a most traditional , reserved [91mkind[0m of filmmaking .
+for a [92mfilmmaking[0m that celebrates [92mextreme[0m , nonconformist values , what to do in case of fire ? lazily and glumly settles into a most traditional , reserved [92mgen[0m of filmmaking .
+----------------------------------- Result 46 -----------------------------------
+[92m1[0m-->[91m0[0m
+the concert footage is [92mstirring[0m , the recording sessions are [92mintriguing[0m , and -- on the way to striking a blow for artistic integrity -- this quality band may pick up new admirers .
+the concert footage is [91mtwitching[0m , the recording sessions are [91mtantalizing[0m , and -- on the way to striking a blow for artistic integrity -- this quality band may pick up new admirers .
+----------------------------------- Result 47 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92malthough[0m largely a heavy-handed [92mindictment[0m of parental failings and the indifference of [92mspanish[0m social workers and legal system towards [92mchild[0m abuse , the film [92mretains[0m ambiguities that make it [92mwell[0m [92mworth[0m watching .
+[91mwhile[0m largely a heavy-handed [91maccusation[0m of parental failings and the indifference of [91mcastellano[0m social workers and legal system towards [91mbrats[0m abuse , the film [91mchocks[0m ambiguities that make it [91mtoo[0m [91mworthwhile[0m watching .
+----------------------------------- Result 48 -----------------------------------
+[91m0[0m-->[92m1[0m
+an unsatisfying hybrid of blair witch and typical stalk-and-slash fare , where the most conservative protagonist is always the [91mlast[0m one living .
+an unsatisfying hybrid of blair witch and typical stalk-and-slash fare , where the most conservative protagonist is always the [92mfinal[0m one living .
+----------------------------------- Result 49 -----------------------------------
+[92m1[0m-->[91m0[0m
+the [92mstunning[0m , dreamlike visuals will [92mimpress[0m even those viewers who have little patience for euro-film [92mpretension[0m .
+the [91mbreathless[0m , dreamlike visuals will [91mdisappoint[0m even those viewers who have little patience for euro-film [91mpretext[0m .
+----------------------------------- Result 50 -----------------------------------
+[91m0[0m-->[92m1[0m
+stuffy , full of itself , morally ambiguous and [91mnothing[0m to shout about .
+stuffy , full of itself , morally ambiguous and [92mrien[0m to shout about .
+----------------------------------- Result 51 -----------------------------------
+[92m1[0m-->[91m0[0m
+an [92mintelligent[0m fiction about [92mlearning[0m through cultural clash .
+an [91mshrewd[0m fiction about [91mteaching[0m through cultural clash .
+----------------------------------- Result 52 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+i like this movie a lot . i like that smith , he's not making fun of these people , he's not laughing at them .
+----------------------------------- Result 53 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mchick[0m [92mflick[0m for [92mguys[0m .
+a [91meggnog[0m [91mgeste[0m for [91mfellers[0m .
+----------------------------------- Result 54 -----------------------------------
+[91m0[0m-->[92m1[0m
+secret ballot is too contemplative to be really [91mfunny[0m .
+secret ballot is too contemplative to be really [92mbizarre[0m .
+----------------------------------- Result 55 -----------------------------------
+[92m1[0m-->[91m0[0m
+the [92mkind[0m of [92mprimal[0m [92mstorytelling[0m that george lucas can only dream of .
+the [91mwhatsoever[0m of [91mrudimentary[0m [91mnarration[0m that george lucas can only dream of .
+----------------------------------- Result 56 -----------------------------------
+[91m0[0m-->[92m1[0m
+presents a good case while [91mfailing[0m to provide a reason for us to care beyond the very basic dictums of human decency .
+presents a good case while [92mshortcoming[0m to provide a reason for us to care beyond the very basic dictums of human decency .
+----------------------------------- Result 57 -----------------------------------
+[92m1[0m-->[91m0[0m
+it would be disingenuous to call reno a [92mgreat[0m [92mfilm[0m , but you can [92msay[0m that about most of the flicks [92mmoving[0m in and out of the multiplex . this is a [92mmovie[0m that is what it is : a [92mpleasant[0m distraction , a friday [92mnight[0m diversion , an excuse to eat popcorn .
+it would be disingenuous to call reno a [91mphenomenal[0m [91mmovie[0m , but you can [91mdis[0m that about most of the flicks [91mresettled[0m in and out of the multiplex . this is a [91mmovies[0m that is what it is : a [91mgentil[0m distraction , a friday [91msoir[0m diversion , an excuse to eat popcorn .
+----------------------------------- Result 58 -----------------------------------
+[92m1[0m-->[91m0[0m
+a movie with a [92mreal[0m anarchic flair .
+a movie with a [91mhardheaded[0m anarchic flair .
+----------------------------------- Result 59 -----------------------------------
+[92m1[0m-->[91m0[0m
+it's a [92mcompelling[0m and horrifying story , and the laramie project is [92mworthwhile[0m for [92mreminding[0m us that this sort of thing does , in fact , [92mstill[0m [92mhappen[0m in [92mamerica[0m .
+it's a [91mdefinite[0m and horrifying story , and the laramie project is [91msalubrious[0m for [91mmentioning[0m us that this sort of thing does , in fact , [91manymore[0m [91moccurs[0m in [91mestados[0m .
+----------------------------------- Result 60 -----------------------------------
+[92m1[0m-->[91m0[0m
+while the film is not [92mentirely[0m successful , it [92mstill[0m [92mmanages[0m to string together enough [92mcharming[0m moments to work .
+while the film is not [91mcompletely[0m successful , it [91mtoo[0m [91mimplements[0m to string together enough [91mbewitching[0m moments to work .
+----------------------------------- Result 61 -----------------------------------
+[92m1[0m-->[91m0[0m
+nair and writer laura cahill dare to build a movie around some flawed but rather unexceptional [92mwomen[0m , emerging with a [92mfine[0m character study that's short on plot but [92mrich[0m in the [92mtiny[0m [92mrevelations[0m of real [92mlife[0m .
+nair and writer laura cahill dare to build a movie around some flawed but rather unexceptional [91mfemales[0m , emerging with a [91mleggy[0m character study that's short on plot but [91mwealthier[0m in the [91mnegligible[0m [91mrevelation[0m of real [91mvie[0m .
+----------------------------------- Result 62 -----------------------------------
+[91m0[0m-->[92m1[0m
+…passable enough for a shoot-out in the o . [91mk[0m . [91mcourt[0m house of life [91mtype[0m of [91mflick[0m . [91mstrictly[0m middle of the road .
+…passable enough for a shoot-out in the o . [92mj[0m . [92mcourtyard[0m house of life [92mgenus[0m of [92mflicks[0m . [92mrigorously[0m middle of the road .
+----------------------------------- Result 63 -----------------------------------
+[91m0[0m-->[92m1[0m
+romanek keeps adding flourishes -- artsy fantasy sequences -- that simply feel [91mwrong[0m . they cheapen the overall effect .
+romanek keeps adding flourishes -- artsy fantasy sequences -- that simply feel [92munsuited[0m . they cheapen the overall effect .
+----------------------------------- Result 64 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mmany[0m [92minsightful[0m moments .
+[91mmucho[0m [91mincisive[0m moments .
+----------------------------------- Result 65 -----------------------------------
+[91m0[0m-->[92m1[0m
+weiss and speck [91mnever[0m [91mmake[0m a convincing case for the relevance of these two 20th-century footnotes .
+weiss and speck [92mno[0m [92mdeliver[0m a convincing case for the relevance of these two 20th-century footnotes .
+----------------------------------- Result 66 -----------------------------------
+[92m1[0m-->[91m0[0m
+it just [92mmay[0m [92minspire[0m a few [92myounger[0m moviegoers to read stevenson's [92mbook[0m , which is a [92mtreasure[0m in and of itself .
+it just [91mmai[0m [91minducement[0m a few [91mjunior[0m moviegoers to read stevenson's [91mlivre[0m , which is a [91mtreasures[0m in and of itself .
+----------------------------------- Result 67 -----------------------------------
+[92m1[0m-->[91m0[0m
+like its title character , this [92mnicholas[0m nickleby finds itself in reduced circumstances -- and , [92malso[0m like its [92mhero[0m , it remains [92mbrightly[0m [92moptimistic[0m , [92mcoming[0m through in the end .
+like its title character , this [91mnicolas[0m nickleby finds itself in reduced circumstances -- and , [91mmeanwhile[0m like its [91mheros[0m , it remains [91mprettily[0m [91mhopeful[0m , [91mviens[0m through in the end .
+----------------------------------- Result 68 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+if signs is a good film , and it is , the essence of a great one is in there somewhere .
+----------------------------------- Result 69 -----------------------------------
+[92m1[0m-->[91m0[0m
+an [92mengrossing[0m iranian [92mfilm[0m about two itinerant teachers and some lost and desolate people they encounter in a place where war has savaged the [92mlives[0m and liberties of the poor and the dispossessed .
+an [91mpuzzling[0m iranian [91mmovie[0m about two itinerant teachers and some lost and desolate people they encounter in a place where war has savaged the [91mdies[0m and liberties of the poor and the dispossessed .
+----------------------------------- Result 70 -----------------------------------
+[92m1[0m-->[91m0[0m
+although it includes a fair share of dumb drug jokes and predictable slapstick , " orange county " is far [92mfunnier[0m than it would seem to have any right to be .
+although it includes a fair share of dumb drug jokes and predictable slapstick , " orange county " is far [91munfunny[0m than it would seem to have any right to be .
+----------------------------------- Result 71 -----------------------------------
+[91m0[0m-->[92m1[0m
+as a feature-[91mlength[0m film , it [91mwears[0m out its [91mwelcome[0m as tryingly as the [91mtitle[0m [91mcharacter[0m .
+as a feature-[92mseasons[0m film , it [92mwear[0m out its [92mbienvenue[0m as tryingly as the [92mtitles[0m [92mpersonages[0m .
+----------------------------------- Result 72 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mdespite[0m its [92mshortcomings[0m , [92mgirls[0m can't [92mswim[0m represents an [92mengaging[0m and intimate [92mfirst[0m [92mfeature[0m by a [92mtalented[0m [92mdirector[0m to [92mwatch[0m , and it's a [92mworthy[0m [92mentry[0m in the french [92mcoming[0m-of-[92mage[0m [92mgenre[0m .
+[91mwhereas[0m its [91mfailings[0m , [91mfemales[0m can't [91mswam[0m represents an [91mimplicate[0m and intimate [91mirst[0m [91mspecs[0m by a [91mgifted[0m [91mdirectors[0m to [91mwatched[0m , and it's a [91mworthwhile[0m [91minlet[0m in the french [91mentered[0m-of-[91myrs[0m [91mgenres[0m .
+----------------------------------- Result 73 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91mbehind[0m the glitz , [91mhollywood[0m is [91msordid[0m and disgusting . quelle surprise !
+[92mafter[0m the glitz , [92mcelebs[0m is [92msqualid[0m and disgusting . quelle surprise !
+----------------------------------- Result 74 -----------------------------------
+[92m1[0m-->[91m0[0m
+max pokes , provokes , takes expressionistic license and [92mhits[0m a [92mnerve[0m . . . as far as art is concerned , it's [92mmission[0m [92maccomplished[0m .
+max pokes , provokes , takes expressionistic license and [91moverwhelms[0m a [91mimpudence[0m . . . as far as art is concerned , it's [91mmissions[0m [91mfait[0m .
+----------------------------------- Result 75 -----------------------------------
+[92m1[0m-->[91m0[0m
+the movie is amateurish , but it's a minor [92mtreat[0m .
+the movie is amateurish , but it's a minor [91mtreated[0m .
+----------------------------------- Result 76 -----------------------------------
+[91m0[0m-->[92m1[0m
+comes off like a [91mbad[0m imitation of the bard .
+comes off like a [92minclement[0m imitation of the bard .
+----------------------------------- Result 77 -----------------------------------
+[92m1[0m-->[91m0[0m
+made to be jaglomized is the cannes [92mfilm[0m [92mfestival[0m , the [92mannual[0m riviera spree of [92mflesh[0m , buzz , [92mblab[0m and money . the [92mcharming[0m [92mresult[0m is [92mfestival[0m in cannes .
+made to be jaglomized is the cannes [91mvideo[0m [91mshindig[0m , the [91meveryyear[0m riviera spree of [91mskin[0m , buzz , [91mblabbed[0m and money . the [91mpurty[0m [91mresulted[0m is [91mcelebratory[0m in cannes .
+----------------------------------- Result 78 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+as any creature-feature fan knows , when you cross toxic chemicals with a bunch of exotic creatures , you get a lot of running around , screaming and death . on that score , the film certainly doesn't disappoint .
+----------------------------------- Result 79 -----------------------------------
+[91m0[0m-->[92m1[0m
+what's surprising about this traditional thriller , moderately successful but not completely [91msatisfying[0m , is exactly how genteel and unsurprising the execution turns out to be .
+what's surprising about this traditional thriller , moderately successful but not completely [92mgratifying[0m , is exactly how genteel and unsurprising the execution turns out to be .
+----------------------------------- Result 80 -----------------------------------
+[92m1[0m-->[91m0[0m
+like a [92mskillful[0m fisher , the director uses the last act to reel in the audience since its poignancy [92mhooks[0m [92mus[0m [92mcompletely[0m .
+like a [91mskilful[0m fisher , the director uses the last act to reel in the audience since its poignancy [91mbrackets[0m [91mourselves[0m [91mtotally[0m .
+----------------------------------- Result 81 -----------------------------------
+[92m1[0m-->[91m0[0m
+yes , mibii is rote work and predictable , but with a [92mphilosophical[0m visual [92mcoming[0m [92mright[0m at the end that extravagantly [92mredeems[0m it .
+yes , mibii is rote work and predictable , but with a [91mphilosophic[0m visual [91minlet[0m [91mentitlement[0m at the end that extravagantly [91mrepays[0m it .
+----------------------------------- Result 82 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mtaut[0m , [92msobering[0m film .
+a [91muptight[0m , [91mdepressing[0m film .
+----------------------------------- Result 83 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91mcollapses[0m after 30 minutes into a [91mslap[0m-happy series of adolescent violence .
+[92mdisintegrated[0m after 30 minutes into a [92mslamming[0m-happy series of adolescent violence .
+----------------------------------- Result 84 -----------------------------------
+[91m0[0m-->[92m1[0m
+a [91mlack[0m of thesis makes maryam , in the end , play out with the intellectual and emotional impact of an after-school special .
+a [92mdearth[0m of thesis makes maryam , in the end , play out with the intellectual and emotional impact of an after-school special .
+----------------------------------- Result 85 -----------------------------------
+[91m0[0m-->[92m1[0m
+when it's all wet , blue crush is highly enjoyable . when it's on dry land , though , this surfer-girl melodrama starts [91mgasping[0m like a beached grouper .
+when it's all wet , blue crush is highly enjoyable . when it's on dry land , though , this surfer-girl melodrama starts [92mshuddering[0m like a beached grouper .
+----------------------------------- Result 86 -----------------------------------
+[91m0[0m-->[92m1[0m
+the [91mconcept[0m is a [91mhoot[0m . the [91mtrailer[0m is a [91mriot[0m . the [91mmovie[0m is a [91mdud[0m .
+the [92mnotions[0m is a [92mentertaining[0m . the [92mtrailers[0m is a [92mturmoil[0m . the [92mfilms[0m is a [92mduds[0m .
+----------------------------------- Result 87 -----------------------------------
+[92m1[0m-->[91m0[0m
+the [92mspark[0m of special anime magic here is [92munmistakable[0m and hard to resist .
+the [91minflame[0m of special anime magic here is [91mgross[0m and hard to resist .
+----------------------------------- Result 88 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91mworthless[0m , from its pseudo-rock-video opening to the idiocy of its last frames .
+[92msterile[0m , from its pseudo-rock-video opening to the idiocy of its last frames .
+----------------------------------- Result 89 -----------------------------------
+[92m1[0m-->[91m0[0m
+offers an [92minteresting[0m look at the [92mrapidly[0m [92mchanging[0m [92mface[0m of beijing .
+offers an [91mnosy[0m look at the [91mprematurely[0m [91mconversion[0m [91mfacial[0m of beijing .
+----------------------------------- Result 90 -----------------------------------
+[92m1[0m-->[91m0[0m
+it arrives with an [92mimpeccable[0m pedigree , mongrel pep , and almost [92mindecipherable[0m plot complications .
+it arrives with an [91mfaultless[0m pedigree , mongrel pep , and almost [91minscrutable[0m plot complications .
+----------------------------------- Result 91 -----------------------------------
+[91m0[0m-->[92m1[0m
+the movie's progression into rambling incoherence gives new meaning to the phrase 'fatal script [91merror[0m . '
+the movie's progression into rambling incoherence gives new meaning to the phrase 'fatal script [92merrors[0m . '
+----------------------------------- Result 92 -----------------------------------
+[91m0[0m-->[92m1[0m
+the thrill is ( long ) [91mgone[0m .
+the thrill is ( long ) [92mdisappear[0m .
+----------------------------------- Result 93 -----------------------------------
+[91m0[0m-->[92m1[0m
+while holm is terrific as both men and hjejle quite appealing , the film [91mfails[0m to make the most out of the intriguing premise .
+while holm is terrific as both men and hjejle quite appealing , the film [92mdisappoints[0m to make the most out of the intriguing premise .
+----------------------------------- Result 94 -----------------------------------
+[92m1[0m-->[91m0[0m
+run , don't walk , to [92msee[0m this barbed and [92mbracing[0m [92mcomedy[0m on the big screen .
+run , don't walk , to [91mworm[0m this barbed and [91mpreparations[0m [91mslapstick[0m on the big screen .
+----------------------------------- Result 95 -----------------------------------
+[92m1[0m-->[91m0[0m
+does [92mpoint[0m the [92mway[0m for adventurous indian filmmakers toward a crossover into nonethnic markets .
+does [91mquestion[0m the [91mrouting[0m for adventurous indian filmmakers toward a crossover into nonethnic markets .
+----------------------------------- Result 96 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mpoignant[0m and [92mmoving[0m , a [92mwalk[0m to [92mremember[0m is an [92minspirational[0m love story , [92mcapturing[0m the innocence and [92midealism[0m of that [92mfirst[0m [92mencounter[0m .
+[91msobering[0m and [91mresettled[0m , a [91mwalking[0m to [91mreminiscence[0m is an [91mpromising[0m love story , [91mtrapping[0m the innocence and [91mphilosophic[0m of that [91mpreliminary[0m [91mencountered[0m .
+----------------------------------- Result 97 -----------------------------------
+[92m1[0m-->[91m0[0m
+the story . . . is [92minspiring[0m , ironic , and revelatory of just how ridiculous and money-oriented the record industry really is . it is [92malso[0m a [92mtestament[0m to the integrity and [92mvision[0m of the band .
+the story . . . is [91mmotivating[0m , ironic , and revelatory of just how ridiculous and money-oriented the record industry really is . it is [91mtoo[0m a [91mwills[0m to the integrity and [91meyesight[0m of the band .
+----------------------------------- Result 98 -----------------------------------
+[91m0[0m-->[92m1[0m
+confusion is one of my [91mleast[0m favourite emotions , especially when i have to put up with 146 minutes of it .
+confusion is one of my [92mtiniest[0m favourite emotions , especially when i have to put up with 146 minutes of it .
+----------------------------------- Result 99 -----------------------------------
+[92m1[0m-->[91m0[0m
+does an [92mimpressive[0m [92mjob[0m of relating the [92mcomplicated[0m [92mhistory[0m of the [92mwar[0m and of [92mfilling[0m in the [92mbackground[0m .
+does an [91mstupendous[0m [91mjobs[0m of relating the [91mcomplicate[0m [91mstory[0m of the [91mwartime[0m and of [91mcompletes[0m in the [91mhistories[0m .
+----------------------------------- Result 100 -----------------------------------
+[92m1[0m-->[91m0[0m
+adams , with four scriptwriters , [92mtakes[0m [92mcare[0m with the [92mcharacters[0m , who are so [92mbelievable[0m that you [92mfeel[0m what they [92mfeel[0m .
+adams , with four scriptwriters , [91mopting[0m [91mbenevolent[0m with the [91mcharacter[0m , who are so [91mplausible[0m that you [91mhunch[0m what they [91mpresume[0m .
+----------------------------------- Result 101 -----------------------------------
+[91m0[0m-->[92m1[0m
+like its title character , esther kahn is unusual but unfortunately also [91mirritating[0m .
+like its title character , esther kahn is unusual but unfortunately also [92mgalling[0m .
+----------------------------------- Result 102 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+while not quite " shrek " or monsters , inc . " , it's not too bad . it's worth taking the kids to .
+----------------------------------- Result 103 -----------------------------------
+[91m0[0m-->[92m1[0m
+the film is really closer to porn than a serious critique of what's [91mwrong[0m with this increasingly pervasive aspect of gay culture .
+the film is really closer to porn than a serious critique of what's [92merroneous[0m with this increasingly pervasive aspect of gay culture .
+----------------------------------- Result 104 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92melegantly[0m produced and expressively [92mperformed[0m , the six [92mmusical[0m numbers crystallize key plot moments into minutely [92mdetailed[0m [92mwonders[0m of dreamlike [92mecstasy[0m .
+[91msubtly[0m produced and expressively [91mcomplied[0m , the six [91mmusician[0m numbers crystallize key plot moments into minutely [91mexhaustive[0m [91mgraces[0m of dreamlike [91meuphoric[0m .
+----------------------------------- Result 105 -----------------------------------
+[91m0[0m-->[92m1[0m
+audiences can be expected to suspend their disbelief only so far -- and that does not [91minclude[0m the 5 o'clock shadow on the tall wooden kid as he skips off to school .
+audiences can be expected to suspend their disbelief only so far -- and that does not [92mencompassing[0m the 5 o'clock shadow on the tall wooden kid as he skips off to school .
+----------------------------------- Result 106 -----------------------------------
+[92m1[0m-->[91m0[0m
+the movie is one of the [92mbest[0m examples of [92martful[0m large format filmmaking you are likely to [92msee[0m anytime soon .
+the movie is one of the [91mhigher[0m examples of [91mshrewd[0m large format filmmaking you are likely to [91mver[0m anytime soon .
+----------------------------------- Result 107 -----------------------------------
+[91m0[0m-->[92m1[0m
+a movie that the [91mless[0m charitable might describe as a castrated cross between highlander and lolita .
+a movie that the [92mslightly[0m charitable might describe as a castrated cross between highlander and lolita .
+----------------------------------- Result 108 -----------------------------------
+[91m0[0m-->[92m1[0m
+from the opening scenes , it's clear that all about the benjamins is a [91mtotally[0m formulaic movie .
+from the opening scenes , it's clear that all about the benjamins is a [92mfully[0m formulaic movie .
+----------------------------------- Result 109 -----------------------------------
+[91m0[0m-->[92m1[0m
+like a tone-deaf singer at a benefit concert , john q . is a [91mbad[0m [91mmovie[0m appearing on behalf of a good cause .
+like a tone-deaf singer at a benefit concert , john q . is a [92munfavourable[0m [92mfilmmaking[0m appearing on behalf of a good cause .
+----------------------------------- Result 110 -----------------------------------
+[92m1[0m-->[91m0[0m
+far from heaven is a [92mdazzling[0m conceptual feat , but more than that , it's a work of [92menthralling[0m drama .
+far from heaven is a [91mnoteworthy[0m conceptual feat , but more than that , it's a work of [91mperplexing[0m drama .
+----------------------------------- Result 111 -----------------------------------
+[92m1[0m-->[91m0[0m
+in a [92msummer[0m of clones , harvard man is something rare and [92mriveting[0m : a [92mwild[0m ride that [92mrelies[0m on more than special effects .
+in a [91msummertime[0m of clones , harvard man is something rare and [91mpuzzling[0m : a [91mfrantic[0m ride that [91mdepends[0m on more than special effects .
+----------------------------------- Result 112 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mfirst[0m-[92mclass[0m [92mroad[0m [92mmovie[0m that [92mproves[0m you can run away from home , but your [92mego[0m and all your [92mproblems[0m go with you .
+a [91mpriori[0m-[91mtyping[0m [91mroadway[0m [91mmovies[0m that [91mcorroborates[0m you can run away from home , but your [91megos[0m and all your [91mproblem[0m go with you .
+----------------------------------- Result 113 -----------------------------------
+[91m0[0m-->[92m1[0m
+the advantage of a postapocalyptic setting is that it can be made on the cheap . any rock [91mpile[0m will do for a set . reign of fire has the disadvantage of also looking cheap .
+the advantage of a postapocalyptic setting is that it can be made on the cheap . any rock [92mstacks[0m will do for a set . reign of fire has the disadvantage of also looking cheap .
+----------------------------------- Result 114 -----------------------------------
+[92m1[0m-->[91m0[0m
+birot [92mcreates[0m a drama with such a [92mwell[0m-[92mdefined[0m sense of place and [92mage[0m -- as in , 15 [92myears[0m old -- that the torments and angst become almost as operatic to us as they are to her [92mcharacters[0m .
+birot [91mprescribes[0m a drama with such a [91mtoo[0m-[91mspecified[0m sense of place and [91myrs[0m -- as in , 15 [91mseniority[0m old -- that the torments and angst become almost as operatic to us as they are to her [91mpersonages[0m .
+----------------------------------- Result 115 -----------------------------------
+[91m0[0m-->[92m1[0m
+what begins brightly [91mgets[0m [91mbogged[0m down over 140 minutes .
+what begins brightly [92mperceives[0m [92msidetracked[0m down over 140 minutes .
+----------------------------------- Result 116 -----------------------------------
+[92m1[0m-->[91m0[0m
+a much more [92msuccessful[0m translation than its most famous previous film adaptation , writer-director anthony friedman's similarly [92mupdated[0m 1970 british production .
+a much more [91mpropitious[0m translation than its most famous previous film adaptation , writer-director anthony friedman's similarly [91mretrofit[0m 1970 british production .
+----------------------------------- Result 117 -----------------------------------
+[92m1[0m-->[91m0[0m
+i don't think i've been as entranced and [92mappalled[0m by an [92masian[0m [92mfilm[0m since shinya tsukamoto's iron [92mman[0m .
+i don't think i've been as entranced and [91mpreoccupied[0m by an [91masiatic[0m [91mmovie[0m since shinya tsukamoto's iron [91mfellas[0m .
+----------------------------------- Result 118 -----------------------------------
+[92m1[0m-->[91m0[0m
+de oliveira [92mcreates[0m an emotionally [92mrich[0m , poetically plump and visually fulsome , but never showy , film whose bittersweet themes are reinforced and [92mbrilliantly[0m personified by michel piccoli .
+de oliveira [91mprescribes[0m an emotionally [91mtributary[0m , poetically plump and visually fulsome , but never showy , film whose bittersweet themes are reinforced and [91meloquently[0m personified by michel piccoli .
+----------------------------------- Result 119 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91msunk[0m by [91mway[0m too much indulgence of scene-chewing , teeth-gnashing actorliness .
+[92mreceded[0m by [92mitineraries[0m too much indulgence of scene-chewing , teeth-gnashing actorliness .
+----------------------------------- Result 120 -----------------------------------
+[91m0[0m-->[92m1[0m
+an awful movie that will only satisfy the most emotionally [91mmalleable[0m of filmgoers .
+an awful movie that will only satisfy the most emotionally [92mbendy[0m of filmgoers .
+----------------------------------- Result 121 -----------------------------------
+[91m0[0m-->[92m1[0m
+i [91mbelieve[0m silberling had the [91mbest[0m [91mintentions[0m here , but he just doesn't have the restraint to [91mfully[0m realize them .
+i [92mview[0m silberling had the [92mfinest[0m [92mintent[0m here , but he just doesn't have the restraint to [92munreservedly[0m realize them .
+----------------------------------- Result 122 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mperfectly[0m [92mpleasant[0m if slightly pokey comedy .
+a [91maltogether[0m [91mgentil[0m if slightly pokey comedy .
+----------------------------------- Result 123 -----------------------------------
+[91m0[0m-->[92m1[0m
+fans of plympton's shorts may marginally enjoy the film , but it is [91mdoubtful[0m this listless feature will win him any new viewers .
+fans of plympton's shorts may marginally enjoy the film , but it is [92miffy[0m this listless feature will win him any new viewers .
+----------------------------------- Result 124 -----------------------------------
+[92m1[0m-->[91m0[0m
+sayles is [92mmaking[0m a [92mstatement[0m about the inability of dreams and aspirations to carry forward into the next [92mgeneration[0m .
+sayles is [91mfabricating[0m a [91mpronouncements[0m about the inability of dreams and aspirations to carry forward into the next [91mgenerations[0m .
+----------------------------------- Result 125 -----------------------------------
+[92m1[0m-->[91m0[0m
+some [92mpeople[0m [92mwant[0m the ol' ball-and-chain and then there are those who just [92mwant[0m the [92mball[0m and [92mchain[0m .
+some [91mpopulace[0m [91mdesired[0m the ol' ball-and-chain and then there are those who just [91mdesirous[0m the [91mbal[0m and [91mchains[0m .
+----------------------------------- Result 126 -----------------------------------
+[92m1[0m-->[91m0[0m
+by the time we learn that andrew's turnabout is fair play is every bit as awful as borchardt's coven , we can [92menjoy[0m it anyway .
+by the time we learn that andrew's turnabout is fair play is every bit as awful as borchardt's coven , we can [91miike[0m it anyway .
+----------------------------------- Result 127 -----------------------------------
+[92m1[0m-->[91m0[0m
+you really have to salute writer-director haneke ( he [92madapted[0m elfriede jelinek's novel ) for making a film that isn't nearly as graphic but much more [92mpowerful[0m , brutally [92mshocking[0m and difficult to watch .
+you really have to salute writer-director haneke ( he [91mreadjusted[0m elfriede jelinek's novel ) for making a film that isn't nearly as graphic but much more [91mstringent[0m , brutally [91mnauseating[0m and difficult to watch .
+----------------------------------- Result 128 -----------------------------------
+[92m1[0m-->[91m0[0m
+a frisky and [92mfresh[0m romantic comedy exporing sexual politics and the [92mchallenges[0m of friendships between [92mwomen[0m .
+a frisky and [91mmild[0m romantic comedy exporing sexual politics and the [91mproblem[0m of friendships between [91mwoman[0m .
+----------------------------------- Result 129 -----------------------------------
+[91m0[0m-->[91m[FAILED][0m
+lazy filmmaking , with the director taking a hands-off approach when he should have shaped the story to show us why it's compelling .
+----------------------------------- Result 130 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mentertains[0m by [92mproviding[0m good , lively company .
+[91mconfuses[0m by [91msupplying[0m good , lively company .
+----------------------------------- Result 131 -----------------------------------
+[92m1[0m-->[91m0[0m
+for its [92mseriousness[0m , [92mhigh[0m [92mliterary[0m aspirations and [92mstunning[0m [92macting[0m , the film can only be applauded .
+for its [91mearnestness[0m , [91muppermost[0m [91mprose[0m aspirations and [91mstun[0m [91minterim[0m , the film can only be applauded .
+----------------------------------- Result 132 -----------------------------------
+[92m1[0m-->[91m0[0m
+workmanlike , maybe , but [92mstill[0m a [92mfilm[0m with all the elements that made the other three [92mgreat[0m , scary times at the movies .
+workmanlike , maybe , but [91mtoo[0m a [91mmovie[0m with all the elements that made the other three [91mgargantuan[0m , scary times at the movies .
+----------------------------------- Result 133 -----------------------------------
+[91m0[0m-->[92m1[0m
+an imponderably [91mstilted[0m and self-consciously arty movie .
+an imponderably [92mhokey[0m and self-consciously arty movie .
+----------------------------------- Result 134 -----------------------------------
+[91m0[0m-->[92m1[0m
+this re-do is so [91mdumb[0m and so [91mexploitative[0m in its violence that , ironically , it becomes everything that the [91mrather[0m [91mclumsy[0m [91moriginal[0m was railing against .
+this re-do is so [92mmoron[0m and so [92moperandi[0m in its violence that , ironically , it becomes everything that the [92meven[0m [92mclumsiness[0m [92moriginals[0m was railing against .
+----------------------------------- Result 135 -----------------------------------
+[92m1[0m-->[91m0[0m
+people cinema at its [92mfinest[0m .
+people cinema at its [91mworst[0m .
+----------------------------------- Result 136 -----------------------------------
+[91m0[0m-->[92m1[0m
+this idea has lost its originality . . . and [91mneither[0m star appears very [91mexcited[0m at rehashing what was basically a one-joke picture .
+this idea has lost its originality . . . and [92meither[0m star appears very [92mthrilling[0m at rehashing what was basically a one-joke picture .
+----------------------------------- Result 137 -----------------------------------
+[91m0[0m-->[92m1[0m
+chan's [91mstunts[0m are [91mlimited[0m and so embellished by [91mediting[0m that there's [91mreally[0m not [91mmuch[0m of a [91msense[0m of action or [91meven[0m action-comedy .
+chan's [92mstunt[0m are [92mboundaries[0m and so embellished by [92medits[0m that there's [92massuredly[0m not [92msizeable[0m of a [92msens[0m of action or [92monce[0m action-comedy .
+----------------------------------- Result 138 -----------------------------------
+[91m0[0m-->[92m1[0m
+the [91mplot[0m is so predictable and [91msentimental[0m that viewers are [91mlikely[0m to [91mlose[0m [91minterest[0m before sandrine and her [91mgoats[0m walk off into the [91msunset[0m .
+the [92mplots[0m is so predictable and [92maffectionate[0m that viewers are [92mpossible[0m to [92mwasting[0m [92mconcerned[0m before sandrine and her [92mgoat[0m walk off into the [92mdusk[0m .
+----------------------------------- Result 139 -----------------------------------
+[91m0[0m-->[92m1[0m
+there are touching moments in etoiles , but for the most part this is a [91mdull[0m , dour documentary on what ought to be a joyful or at least fascinating subject .
+there are touching moments in etoiles , but for the most part this is a [92mdreary[0m , dour documentary on what ought to be a joyful or at least fascinating subject .
+----------------------------------- Result 140 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mglorious[0m mess .
+a [91msumptuous[0m mess .
+----------------------------------- Result 141 -----------------------------------
+[91m0[0m-->[92m1[0m
+some body often looks like an [91mepisode[0m of the [91mtv[0m show blind date , only [91mless[0m technically proficient and without the pop-up comments .
+some body often looks like an [92mepisodes[0m of the [92mtele[0m show blind date , only [92mtiniest[0m technically proficient and without the pop-up comments .
+----------------------------------- Result 142 -----------------------------------
+[92m1[0m-->[91m0[0m
+the [92mfly[0m-on-the-[92mwall[0m method used to [92mdocument[0m rural french school life is a [92mrefreshing[0m departure from the now more prevalent technique of the docu-makers being a [92mvisible[0m [92mpart[0m of their [92mwork[0m .
+the [91mrobbing[0m-on-the-[91mwails[0m method used to [91mpaperwork[0m rural french school life is a [91mretrofitted[0m departure from the now more prevalent technique of the docu-makers being a [91movert[0m [91mpartial[0m of their [91mworking[0m .
+----------------------------------- Result 143 -----------------------------------
+[91m0[0m-->[92m1[0m
+there is not a [91mcharacter[0m in the movie with a shred of plausibility , not an event that is believable , not a confrontation that is not staged , not a moment that is not false .
+there is not a [92mpersonage[0m in the movie with a shred of plausibility , not an event that is believable , not a confrontation that is not staged , not a moment that is not false .
+----------------------------------- Result 144 -----------------------------------
+[92m1[0m-->[91m0[0m
+the gorgeously elaborate [92mcontinuation[0m of " the lord of the rings " trilogy is so [92mhuge[0m that a column of [92mwords[0m cannot adequately describe co-writer/director peter jackson's [92mexpanded[0m [92mvision[0m of j . r . r . tolkien's middle-earth .
+the gorgeously elaborate [91mpersists[0m of " the lord of the rings " trilogy is so [91mgargantuan[0m that a column of [91mphrase[0m cannot adequately describe co-writer/director peter jackson's [91mstretch[0m [91mvisions[0m of j . r . r . tolkien's middle-earth .
+----------------------------------- Result 145 -----------------------------------
+[92m1[0m-->[91m0[0m
+nicole [92mkidman[0m makes it a party [92mworth[0m [92mattending[0m .
+nicole [91mrourke[0m makes it a party [91mpenalty[0m [91mengaging[0m .
+----------------------------------- Result 146 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mmakes[0m the case for a strong education and good teachers being more [92mvaluable[0m in the [92mway[0m they [92mhelp[0m [92mincrease[0m an average student's self-esteem , and not strictly in the knowledge imparted .
+[91mrenders[0m the case for a strong education and good teachers being more [91minestimable[0m in the [91mrouted[0m they [91mbacking[0m [91msoars[0m an average student's self-esteem , and not strictly in the knowledge imparted .
+----------------------------------- Result 147 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mnothing[0m can [92mdetract[0m from the affection of that moral favorite : friends will be [92mfriends[0m through [92mthick[0m and thin .
+[91msomethings[0m can [91mundermine[0m from the affection of that moral favorite : friends will be [91mfreund[0m through [91mcoarse[0m and thin .
+----------------------------------- Result 148 -----------------------------------
+[92m1[0m-->[91m0[0m
+it's [92mtough[0m to watch , but it's a [92mfantastic[0m [92mmovie[0m .
+it's [91marduous[0m to watch , but it's a [91mglamorous[0m [91mvideo[0m .
+----------------------------------- Result 149 -----------------------------------
+[92m1[0m-->[91m0[0m
+what's so [92mstriking[0m about jolie's [92mperformance[0m is that she [92mnever[0m [92mlets[0m her character become a caricature -- not even with that radioactive hair .
+what's so [91mstaggering[0m about jolie's [91mperforming[0m is that she [91mnot[0m [91menabling[0m her character become a caricature -- not even with that radioactive hair .
+----------------------------------- Result 150 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91mdull[0m and mechanical , kinda like a very goofy museum exhibit
+[92muninspiring[0m and mechanical , kinda like a very goofy museum exhibit
+----------------------------------- Result 151 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mgood[0m ol' [92murban[0m legend [92mstuff[0m .
+[91madequate[0m ol' [91mmetropolitan[0m legend [91mdope[0m .
+----------------------------------- Result 152 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+a film that takes you inside the rhythms of its subject : you experience it as you watch .
+----------------------------------- Result 153 -----------------------------------
+[92m1[0m-->[91m0[0m
+the [92myear[0m's [92mgreatest[0m [92madventure[0m , and jackson's limited but enthusiastic adaptation has [92mmade[0m literature literal [92mwithout[0m killing its soul -- a feat any thinking person is bound to [92mappreciate[0m .
+the [91mano[0m's [91mharshest[0m [91mescapade[0m , and jackson's limited but enthusiastic adaptation has [91mfiled[0m literature literal [91mexcept[0m killing its soul -- a feat any thinking person is bound to [91mappreciating[0m .
+----------------------------------- Result 154 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mstraight[0m-[92mshooting[0m [92mfamily[0m [92mfilm[0m which [92mawards[0m animals the [92mrespect[0m they've [92mrarely[0m been given .
+a [91msubsequent[0m-[91moffed[0m [91mhousehold[0m [91mmovie[0m which [91maccolades[0m animals the [91mrespectful[0m they've [91mthinly[0m been given .
+----------------------------------- Result 155 -----------------------------------
+[92m1[0m-->[91m0[0m
+two hours fly by -- opera's a [92mpleasure[0m when you don't have to endure intermissions -- and even a novice to the form comes away [92mexhilarated[0m .
+two hours fly by -- opera's a [91mrejoicing[0m when you don't have to endure intermissions -- and even a novice to the form comes away [91maghast[0m .
+----------------------------------- Result 156 -----------------------------------
+[91m0[0m-->[92m1[0m
+strong setup and ambitious goals fade as the film descends into [91munsophisticated[0m scare tactics and b-film thuggery .
+strong setup and ambitious goals fade as the film descends into [92muninitiated[0m scare tactics and b-film thuggery .
+----------------------------------- Result 157 -----------------------------------
+[92m1[0m-->[91m0[0m
+insomnia loses points when it surrenders to a formulaic bang-bang , shoot-em-up scene at the conclusion . but the [92mperformances[0m of pacino , williams , and swank [92mkeep[0m the viewer [92mwide[0m-awake all the way through .
+insomnia loses points when it surrenders to a formulaic bang-bang , shoot-em-up scene at the conclusion . but the [91mshowings[0m of pacino , williams , and swank [91mgarde[0m the viewer [91mwidest[0m-awake all the way through .
+----------------------------------- Result 158 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mawesome[0m [92mcreatures[0m , [92mbreathtaking[0m [92mscenery[0m , and [92mepic[0m [92mbattle[0m [92mscenes[0m add up to another 'spectacular spectacle . '
+[91mglamorous[0m [91mpet[0m , [91mwhopping[0m [91mphotos[0m , and [91mfable[0m [91mstruggled[0m [91mvisuals[0m add up to another 'spectacular spectacle . '
+----------------------------------- Result 159 -----------------------------------
+[92m1[0m-->[91m0[0m
+generally [92mprovides[0m its target audience of [92myoungsters[0m enough [92mstimulating[0m eye and ear candy to make its moral medicine go down .
+generally [91mprescribes[0m its target audience of [91mjuvenile[0m enough [91mstimulant[0m eye and ear candy to make its moral medicine go down .
+----------------------------------- Result 160 -----------------------------------
+[92m1[0m-->[91m0[0m
+you [92mmight[0m not buy the ideas . but you'll [92mdefinitely[0m [92mwant[0m the t-shirt .
+you [91mprobability[0m not buy the ideas . but you'll [91mroundly[0m [91mwouldnt[0m the t-shirt .
+----------------------------------- Result 161 -----------------------------------
+[92m1[0m-->[91m0[0m
+there are some [92mmovies[0m that [92mhit[0m you from the [92mfirst[0m scene and you [92mknow[0m it's [92mgoing[0m to be a trip . igby goes down is one of those [92mmovies[0m .
+there are some [91mfilm[0m that [91mknocked[0m you from the [91moutset[0m scene and you [91msais[0m it's [91mleaving[0m to be a trip . igby goes down is one of those [91mmovie[0m .
+----------------------------------- Result 162 -----------------------------------
+[92m1[0m-->[91m0[0m
+smith's approach is [92mnever[0m to tease , except gently and in that [92mway[0m that [92mmakes[0m [92mus[0m consider our own eccentricities and how they are [92mexpressed[0m through our [92mhomes[0m .
+smith's approach is [91mnot[0m to tease , except gently and in that [91mrouted[0m that [91mfacto[0m [91mourselves[0m consider our own eccentricities and how they are [91msketched[0m through our [91mdomicile[0m .
+----------------------------------- Result 163 -----------------------------------
+[92m1[0m-->[91m0[0m
+a mess , but it's a [92msincere[0m mess .
+a mess , but it's a [91mcandid[0m mess .
+----------------------------------- Result 164 -----------------------------------
+[91m0[0m-->[92m1[0m
+the redeeming feature of chan's [91mfilms[0m has always been the action , but the stunts in the tuxedo seem tired and , what's worse , [91mroutine[0m .
+the redeeming feature of chan's [92mcinema[0m has always been the action , but the stunts in the tuxedo seem tired and , what's worse , [92mrecurrent[0m .
+----------------------------------- Result 165 -----------------------------------
+[91m0[0m-->[92m1[0m
+as a hybrid teen thriller and [91mmurder[0m mystery , murder by [91mnumbers[0m fits the profile too closely .
+as a hybrid teen thriller and [92mslaying[0m mystery , murder by [92mnumber[0m fits the profile too closely .
+----------------------------------- Result 166 -----------------------------------
+[91m0[0m-->[92m1[0m
+rock's stand-up magic [91mwanes[0m . hopkins , squarely fills the screen . action - mechanical .
+rock's stand-up magic [92mdisappears[0m . hopkins , squarely fills the screen . action - mechanical .
+----------------------------------- Result 167 -----------------------------------
+[92m1[0m-->[91m0[0m
+the [92mplot[0m of the comeback curlers isn't very interesting actually , but what i [92mlike[0m about men with brooms and what is [92mkind[0m of special is how the [92mfilm[0m knows what's [92munique[0m and [92mquirky[0m about [92mcanadians[0m .
+the [91mplots[0m of the comeback curlers isn't very interesting actually , but what i [91miike[0m about men with brooms and what is [91mwhatsoever[0m of special is how the [91mmovie[0m knows what's [91modd[0m and [91mwhacky[0m about [91mcanadiens[0m .
+----------------------------------- Result 168 -----------------------------------
+[91m0[0m-->[92m1[0m
+in the not-too-distant future , movies like ghost ship will be used as analgesic balm for overstimulated minds . right now , they're [91mmerely[0m signposts marking the slow , lingering death of [91mimagination[0m .
+in the not-too-distant future , movies like ghost ship will be used as analgesic balm for overstimulated minds . right now , they're [92mindividually[0m signposts marking the slow , lingering death of [92mimaginations[0m .
+----------------------------------- Result 169 -----------------------------------
+[91m0[0m-->[92m1[0m
+does little more than play an [91minnocuous[0m game of fill-in- the-[91mblanks[0m with a tragic past .
+does little more than play an [92minoffensive[0m game of fill-in- the-[92mwhooping[0m with a tragic past .
+----------------------------------- Result 170 -----------------------------------
+[92m1[0m-->[91m0[0m
+hardly a masterpiece , but it [92mintroduces[0m [92mviewers[0m to a [92mgood[0m charitable [92menterprise[0m and some [92minteresting[0m [92mreal[0m [92mpeople[0m .
+hardly a masterpiece , but it [91mlodged[0m [91monlookers[0m to a [91mappropriate[0m charitable [91mcorp[0m and some [91minquisitive[0m [91mfactual[0m [91mcompatriots[0m .
+----------------------------------- Result 171 -----------------------------------
+[91m0[0m-->[92m1[0m
+its inescapable absurdities are [91mtantamount[0m to [91minsulting[0m the intelligence of anyone who hasn't been living under a rock ( since sept . 11 ) .
+its inescapable absurdities are [92manalogue[0m to [92mbelittling[0m the intelligence of anyone who hasn't been living under a rock ( since sept . 11 ) .
+----------------------------------- Result 172 -----------------------------------
+[92m1[0m-->[91m0[0m
+. . . [92mcreates[0m a visceral [92msense[0m of its characters' [92mlives[0m and conflicted [92memotions[0m that [92mcarries[0m it far above . . . what could have been a melodramatic , lifetime channel-style anthology .
+. . . [91mcauses[0m a visceral [91mforeboding[0m of its characters' [91mresided[0m and conflicted [91msentiments[0m that [91massumes[0m it far above . . . what could have been a melodramatic , lifetime channel-style anthology .
+----------------------------------- Result 173 -----------------------------------
+[91m0[0m-->[92m1[0m
+after sitting through this [91msloppy[0m , made-for-movie comedy special , it makes me wonder if lawrence hates criticism so much that he refuses to [91mevaluate[0m his own work .
+after sitting through this [92mundisciplined[0m , made-for-movie comedy special , it makes me wonder if lawrence hates criticism so much that he refuses to [92mvaluing[0m his own work .
+----------------------------------- Result 174 -----------------------------------
+[92m1[0m-->[91m0[0m
+it's [92mtraditional[0m moviemaking all the [92mway[0m , but it's done with a [92mlot[0m of [92mcareful[0m period [92mattention[0m as [92mwell[0m as some very [92mwelcome[0m [92mwit[0m .
+it's [91mconventional[0m moviemaking all the [91mchemin[0m , but it's done with a [91malot[0m of [91mcautious[0m period [91mcaution[0m as [91mtoo[0m as some very [91mbienvenue[0m [91mesprit[0m .
+----------------------------------- Result 175 -----------------------------------
+[92m1[0m-->[91m0[0m
+in between all the emotional seesawing , it's hard to [92mfigure[0m the [92mdepth[0m of these two literary figures , and even the [92mtimes[0m in which they [92mlived[0m . but they [92mfascinate[0m in their recklessness .
+in between all the emotional seesawing , it's hard to [91mdigits[0m the [91mthoroughly[0m of these two literary figures , and even the [91mtimeframe[0m in which they [91mresided[0m . but they [91mconfound[0m in their recklessness .
+----------------------------------- Result 176 -----------------------------------
+[92m1[0m-->[91m0[0m
+one of the [92mbest[0m , most understated [92mperformances[0m of [jack nicholson's] career .
+one of the [91mupper[0m , most understated [91mexecutions[0m of [jack nicholson's] career .
+----------------------------------- Result 177 -----------------------------------
+[91m0[0m-->[92m1[0m
+busy urban comedy is clearly not zhang's forte , his directorial touch is neither light nor magical [91menough[0m to bring off this kind of whimsy .
+busy urban comedy is clearly not zhang's forte , his directorial touch is neither light nor magical [92mrather[0m to bring off this kind of whimsy .
+----------------------------------- Result 178 -----------------------------------
+[92m1[0m-->[91m0[0m
+an escapist confection that's [92mpure[0m [92mentertainment[0m .
+an escapist confection that's [91munpolluted[0m [91mrecreation[0m .
+----------------------------------- Result 179 -----------------------------------
+[91m0[0m-->[92m1[0m
+there's a solid woman- finding-herself story [91msomewhere[0m in here , but you'd have to dig pretty deep to uncover it .
+there's a solid woman- finding-herself story [92msomehow[0m in here , but you'd have to dig pretty deep to uncover it .
+----------------------------------- Result 180 -----------------------------------
+[91m0[0m-->[92m1[0m
+another in-your-face wallow in the [91mlower[0m depths made by people who have never sung those blues .
+another in-your-face wallow in the [92mless[0m depths made by people who have never sung those blues .
+----------------------------------- Result 181 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mhandsome[0m and [92msophisticated[0m approach to the workplace romantic comedy .
+[91mresplendent[0m and [91mtortuous[0m approach to the workplace romantic comedy .
+----------------------------------- Result 182 -----------------------------------
+[92m1[0m-->[91m0[0m
+. . . there is [92menough[0m originality in '[92mlife[0m' to [92mdistance[0m it from the pack of paint-by-number romantic comedies that so often end up on cinema screens .
+. . . there is [91mample[0m originality in '[91mvie[0m' to [91mremotely[0m it from the pack of paint-by-number romantic comedies that so often end up on cinema screens .
+----------------------------------- Result 183 -----------------------------------
+[92m1[0m-->[91m0[0m
+it's [92mnice[0m to [92msee[0m piscopo again after all these [92myears[0m , and chaykin and headly are [92mpriceless[0m .
+it's [91msuper[0m to [91mvoir[0m piscopo again after all these [91mannum[0m , and chaykin and headly are [91minestimable[0m .
+----------------------------------- Result 184 -----------------------------------
+[92m1[0m-->[91m0[0m
+[barry] gives assassin a disquieting [92mauthority[0m .
+[barry] gives assassin a disquieting [91mfurlough[0m .
+----------------------------------- Result 185 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mfans[0m of the [92manimated[0m [92mwildlife[0m adventure show will be in warthog heaven ; [92mothers[0m [92mneed[0m not necessarily apply .
+[91msympathizers[0m of the [91mbrash[0m [91mfauna[0m adventure show will be in warthog heaven ; [91malia[0m [91mobliged[0m not necessarily apply .
+----------------------------------- Result 186 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mmoving[0m and [92mweighty[0m [92mdepiction[0m of one family's attempts to [92mheal[0m after the death of a [92mchild[0m .
+a [91mrelocate[0m and [91mcumbersome[0m [91mpictured[0m of one family's attempts to [91mcuring[0m after the death of a [91mchildren[0m .
+----------------------------------- Result 187 -----------------------------------
+[92m1[0m-->[91m0[0m
+huppert's [92msuperbly[0m controlled display of murderous vulnerability [92mensures[0m that malice has a very [92mhuman[0m [92mface[0m .
+huppert's [91mterribly[0m controlled display of murderous vulnerability [91mprescribes[0m that malice has a very [91mhumans[0m [91mtussle[0m .
+----------------------------------- Result 188 -----------------------------------
+[92m1[0m-->[91m0[0m
+intelligent , caustic take on a [92mgreat[0m writer and dubious [92mhuman[0m being .
+intelligent , caustic take on a [91mpeachy[0m writer and dubious [91mhumans[0m being .
+----------------------------------- Result 189 -----------------------------------
+[92m1[0m-->[91m0[0m
+you may be [92mcaptivated[0m , as i was , by its moods , and by its [92msubtly[0m [92mtransformed[0m [92mstar[0m , and still wonder why paul [92mthomas[0m anderson ever had the inclination to [92mmake[0m the most [92msincere[0m and [92martful[0m movie in which adam sandler will [92mprobably[0m [92mever[0m appear .
+you may be [91mrapt[0m , as i was , by its moods , and by its [91mskilfully[0m [91mchangeover[0m [91mstars[0m , and still wonder why paul [91mrushes[0m anderson ever had the inclination to [91mrendering[0m the most [91mveritable[0m and [91mmalin[0m movie in which adam sandler will [91mpatently[0m [91mceaselessly[0m appear .
+----------------------------------- Result 190 -----------------------------------
+[92m1[0m-->[91m0[0m
+a [92mfilm[0m with [92mcontemporary[0m political [92mresonance[0m [92millustrated[0m by a [92mwinning[0m [92mfamily[0m [92mstory[0m .
+a [91mcine[0m with [91mexistent[0m political [91mspectral[0m [91mevidenced[0m by a [91mdefeating[0m [91mhousework[0m [91mstorytelling[0m .
+----------------------------------- Result 191 -----------------------------------
+[92m1[0m-->[91m0[0m
+the film is [92mdelicately[0m narrated by martin landau and directed with sensitivity and [92mskill[0m by dana janklowicz-mann .
+the film is [91mclumsily[0m narrated by martin landau and directed with sensitivity and [91mremit[0m by dana janklowicz-mann .
+----------------------------------- Result 192 -----------------------------------
+[91m0[0m-->[92m1[0m
+this is mild-[91mmannered[0m , been-there material [91mgiven[0m a pedestrian spin by a [91mdirector[0m who needed a touch of the flamboyant , the outrageous .
+this is mild-[92mlikable[0m , been-there material [92mprovided[0m a pedestrian spin by a [92mdirectors[0m who needed a touch of the flamboyant , the outrageous .
+----------------------------------- Result 193 -----------------------------------
+[92m1[0m-->[91m0[0m
+an interesting story with a pertinent ( cinematically unique ) message , told fairly [92mwell[0m and [92mscored[0m to [92mperfection[0m , i found myself [92mstruggling[0m to put my [92mfinger[0m on that elusive " missing thing . "
+an interesting story with a pertinent ( cinematically unique ) message , told fairly [91mtoo[0m and [91mscratched[0m to [91mparfait[0m , i found myself [91mfiight[0m to put my [91mfingers[0m on that elusive " missing thing . "
+----------------------------------- Result 194 -----------------------------------
+[92m1[0m-->[91m0[0m
+'si [92mbien[0m no logra desarrollarse como un gran drama , tampoco es tan superficial [92mcomo[0m muchas cintas que pecan de pretenciosas y que resultan totalmente banales . '
+'si [91mvraiment[0m no logra desarrollarse como un gran drama , tampoco es tan superficial [91msó[0m muchas cintas que pecan de pretenciosas y que resultan totalmente banales . '
+----------------------------------- Result 195 -----------------------------------
+[91m0[0m-->[92m1[0m
+barney throws away the goodwill the [91mfirst[0m [91mhalf[0m of his [91mmovie[0m [91mgenerates[0m by orchestrating a finale that is impenetrable and [91mdull[0m .
+barney throws away the goodwill the [92mincipient[0m [92moriente[0m of his [92mfilm[0m [92mcreates[0m by orchestrating a finale that is impenetrable and [92munsatisfying[0m .
+----------------------------------- Result 196 -----------------------------------
+[92m1[0m-->[91m0[0m
+noyce films it more as a [92mshocking[0m history lesson than as drama .
+noyce films it more as a [91mdisgusting[0m history lesson than as drama .
+----------------------------------- Result 197 -----------------------------------
+[91m0[0m-->[92m1[0m
+a long , [91mdull[0m procession of despair , set to cello music culled from a minimalist funeral .
+a long , [92muninspiring[0m procession of despair , set to cello music culled from a minimalist funeral .
+----------------------------------- Result 198 -----------------------------------
+[92m1[0m-->[91m0[0m
+short-story [92mquaint[0m , [92mtouchingly[0m mending a child's pain for his dead mother via communication with an old woman straight out of eudora welty .
+short-story [91mcobbled[0m , [91mwretchedly[0m mending a child's pain for his dead mother via communication with an old woman straight out of eudora welty .
+----------------------------------- Result 199 -----------------------------------
+[91m0[0m-->[92m1[0m
+aloof and [91mlacks[0m any real raw emotion , which is [91mfatal[0m for a film that relies on personal relationships .
+aloof and [92mshortcoming[0m any real raw emotion , which is [92mlethal[0m for a film that relies on personal relationships .
+----------------------------------- Result 200 -----------------------------------
+[92m1[0m-->[91m0[0m
+if there's one big point to promises , it's that [92mnothing[0m can [92mchange[0m while physical and psychological [92mbarriers[0m keep the [92msides[0m from speaking even one word to each other .
+if there's one big point to promises , it's that [91mdoesnt[0m can [91mamend[0m while physical and psychological [91mobstructions[0m keep the [91mflanks[0m from speaking even one word to each other .
+----------------------------------- Result 201 -----------------------------------
+[91m0[0m-->[92m1[0m
+[91msuffocated[0m at conception by its munchausen-by-proxy mum . punish the vehicle to adore the star .
+[92mstifling[0m at conception by its munchausen-by-proxy mum . punish the vehicle to adore the star .
+----------------------------------- Result 202 -----------------------------------
+[92m1[0m-->[91m0[0m
+after one gets the [92mfeeling[0m that the [92mtypical[0m hollywood disregard for [92mhistorical[0m truth and [92mrealism[0m is at work here , it's a [92mmatter[0m of [92mfinding[0m [92mentertainment[0m in the [92mexperiences[0m of zishe and the fiery [92mpresence[0m of hanussen .
+after one gets the [91mbrainchild[0m that the [91mroutine[0m hollywood disregard for [91mhistoric[0m truth and [91mlifelike[0m is at work here , it's a [91mquestion[0m of [91mresearching[0m [91mentertainments[0m in the [91mexperiments[0m of zishe and the fiery [91mexistence[0m of hanussen .
+----------------------------------- Result 203 -----------------------------------
+[91m0[0m-->[92m1[0m
+the story really has no [91mplace[0m to go since simone is not real—she can't [91mprovide[0m any conflict .
+the story really has no [92mstead[0m to go since simone is not real—she can't [92mdelivering[0m any conflict .
+----------------------------------- Result 204 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+it seems impossible that an epic four-hour indian musical about a cricket game could be this good , but it is .
+----------------------------------- Result 205 -----------------------------------
+[91m0[0m-->[92m1[0m
+it takes a really long , slow and dreary time to dope out what tuck everlasting is about . so here it is : it's about a family of [91msour[0m immortals .
+it takes a really long , slow and dreary time to dope out what tuck everlasting is about . so here it is : it's about a family of [92mbitter[0m immortals .
+----------------------------------- Result 206 -----------------------------------
+[91m0[0m-->[92m1[0m
+supposedly , pokemon can't be killed , but pokemon 4ever practically assures that the pocket monster movie franchise is nearly ready to [91mkeel[0m over .
+supposedly , pokemon can't be killed , but pokemon 4ever practically assures that the pocket monster movie franchise is nearly ready to [92mkil[0m over .
+----------------------------------- Result 207 -----------------------------------
+[91m0[0m-->[92m1[0m
+the story [91mdrifts[0m so inexorably into [91mcliches[0m about tortured ( and [91mtorturing[0m ) artists and [91mconsuming[0m but impossible love that you can't help but become more [91mdisappointed[0m as each overwrought new [91msequence[0m plods on .
+the story [92mmounds[0m so inexorably into [92mstereotype[0m about tortured ( and [92mtormenting[0m ) artists and [92mconsumerism[0m but impossible love that you can't help but become more [92mdisappointing[0m as each overwrought new [92msequences[0m plods on .
+----------------------------------- Result 208 -----------------------------------
+[92m1[0m-->[91m0[0m
+not since japanese filmmaker akira kurosawa's ran have the [92msavagery[0m of combat and the specter of death been [92mvisualized[0m with such operatic [92mgrandeur[0m .
+not since japanese filmmaker akira kurosawa's ran have the [91mbrutish[0m of combat and the specter of death been [91mlevied[0m with such operatic [91mcalibre[0m .
+----------------------------------- Result 209 -----------------------------------
+[91m0[0m-->[92m1[0m
+hollywood has [91mtaken[0m [91mquite[0m a nosedive from alfred hitchcock's imaginative [91mflight[0m to shyamalan's self-important summer fluff .
+hollywood has [92mcaught[0m [92mtoo[0m a nosedive from alfred hitchcock's imaginative [92mfly[0m to shyamalan's self-important summer fluff .
+----------------------------------- Result 210 -----------------------------------
+[92m1[0m-->[91m0[0m
+[92mnair[0m does [92mcapture[0m the [92mcomplexity[0m of a [92mbig[0m [92mfamily[0m and its trials and tribulations . . .
+[91myoke[0m does [91mdetain[0m the [91mniceties[0m of a [91mheavy[0m [91mhousekeeping[0m and its trials and tribulations . . .
+----------------------------------- Result 211 -----------------------------------
+[92m1[0m-->[91m0[0m
+if you [92mlike[0m [92mpeace[0m , you'll like [92mpromises[0m .
+if you [91miike[0m [91msalam[0m , you'll like [91mswearing[0m .
+----------------------------------- Result 212 -----------------------------------
+[91m0[0m-->[92m1[0m
+once [kim] begins to overplay the shock tactics and bait-and-tackle metaphors , you may [91mdecide[0m it's too high a price to pay for a shimmering picture [91mpostcard[0m .
+once [kim] begins to overplay the shock tactics and bait-and-tackle metaphors , you may [92mdecided[0m it's too high a price to pay for a shimmering picture [92mpostcards[0m .
+----------------------------------- Result 213 -----------------------------------
+[92m1[0m-->[91m0[0m
+[majidi] [92mmakes[0m [92mus[0m think [92mtwice[0m about immigrants we see [92maround[0m [92mus[0m [92mevery[0m day .
+[majidi] [91massumes[0m [91mourselves[0m think [91mdoubly[0m about immigrants we see [91mtoward[0m [91mourselves[0m [91mall[0m day .
+----------------------------------- Result 214 -----------------------------------
+[91m0[0m-->[92m1[0m
+an intermittently pleasing but mostly [91mroutine[0m effort .
+an intermittently pleasing but mostly [92musual[0m effort .
+----------------------------------- Result 215 -----------------------------------
+[91m0[0m-->[92m1[0m
+a lot like the imaginary sport it projects onto the screen -- loud , violent and [91mmindless[0m .
+a lot like the imaginary sport it projects onto the screen -- loud , violent and [92mthoughtless[0m .
+----------------------------------- Result 216 -----------------------------------
+[92m1[0m-->[91m0[0m
+there's a [92mlot[0m to [92mrecommend[0m [92mread[0m my [92mlips[0m .
+there's a [91mparcel[0m to [91mcongratulates[0m [91mlire[0m my [91mpil[0m .
+----------------------------------- Result 217 -----------------------------------
+[92m1[0m-->[91m0[0m
+an [92menergizing[0m , [92mintoxicating[0m documentary [92mcharting[0m the [92mrise[0m of hip-hop [92mculture[0m in general and the art of scratching ( or turntablism ) in particular .
+an [91mrejuvenating[0m , [91mguzzled[0m documentary [91massignment[0m the [91msoar[0m of hip-hop [91mcropping[0m in general and the art of scratching ( or turntablism ) in particular .
+----------------------------------- Result 218 -----------------------------------
+[91m0[0m-->[92m1[0m
+the film [91mwould[0m work much better as a video installation in a [91mmuseum[0m , where viewers would be free to leave . immediately .
+the film [92mcould[0m work much better as a video installation in a [92mmuseums[0m , where viewers would be free to leave . immediately .
+----------------------------------- Result 219 -----------------------------------
+[92m1[0m-->[91m0[0m
+bound to appeal to [92mwomen[0m looking for a howlingly trashy time .
+bound to appeal to [91mmissus[0m looking for a howlingly trashy time .
+----------------------------------- Result 220 -----------------------------------
+[92m1[0m-->[91m0[0m
+audiences are advised to sit near the back and squint to avoid noticing some truly egregious lip-non-synching , but otherwise the production is [92msuitably[0m [92melegant[0m .
+audiences are advised to sit near the back and squint to avoid noticing some truly egregious lip-non-synching , but otherwise the production is [91mduly[0m [91mswanky[0m .
+----------------------------------- Result 221 -----------------------------------
+[92m1[0m-->[91m0[0m
+what's [92msurprising[0m about full frontal is that despite its overt self-[92mawareness[0m , parts of the movie [92mstill[0m [92mmanage[0m to break past the artifice and [92mthoroughly[0m [92mengage[0m you .
+what's [91mstaggering[0m about full frontal is that despite its overt self-[91mknowledge[0m , parts of the movie [91mso[0m [91mheaded[0m to break past the artifice and [91mseverely[0m [91mincur[0m you .
+--------------------------------------------------------------------------------
+Number of successful attacks: 210
+Number of failed attacks: 11
+Number of skipped attacks: 29
+Original accuracy: 88.4%
+Accuracy under attack: 4.4%
+Attack success rate: 95.02%
+Average perturbed word %: 18.35%
+Avg num queries: 79.66
+Time to run attack: 418.05057287216187s
+Total time: 473.92089438438416s
