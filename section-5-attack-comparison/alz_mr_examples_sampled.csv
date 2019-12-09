@@ -1,4 +1,4 @@
-"Unnamed: 0","label_1","label_2","passage_1","passage_2","score_1","score_2","SE_Thresh","dataset","SE_Model"
+"Index","label_1","label_2","text1","text2","score_1","score_2","SE_Thresh","dataset","SE_Model"
 0,0.0,1.0,"as a hybrid teen thriller and murder mystery , murder by numbers fits the profile too closely .","as a hybrid teen thriller and murder mystery , murder by numbers fits the profile too attentively .",0.6895306706428528,0.6639524102210999,0.98,"mr","BERT"
 3,0.0,1.0,"the sinister inspiration that fuelled devito's early work is confused in death to smoochy into something both ugly and mindless .","the sinister inspiration that fueled devito's early working is confused in death to smoochy into something both ugly and senseless .",0.6581517457962036,0.5880809724330902,0.98,"mr","BERT"
 1,0.0,1.0,"…passable enough for a shoot-out in the o . k . court house of life type of flick . strictly middle of the road .","…passable enough for a shoot-out in the o . k . court homes of life type of flick . strictly middle of the road .",0.7369652986526489,0.5608173608779907,0.98,"mr","BERT"
