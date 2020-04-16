@@ -1,0 +1,48 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+one of the most splendid entertainments to emerge from the french film industry in years .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+the big-screen scooby makes the silly original cartoon seem smart and well-crafted in [[comparison]] .
+the big-screen scooby makes the silly original cartoon seem smart and well-crafted in [[compared]] .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+the film is faithful to what one presumes are the book's twin premises -- that we become who we are on the backs of our parents , but we have no idea who they were at our age ; and that time is a fleeting and precious commodity no matter how old you are .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+this overproduced and generally disappointing effort isn't likely to rouse the rush hour crowd .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+we get an image of big papa spanning history , rather than suspending it .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+visually imaginative , thematically instructive and thoroughly delightful , it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality .
+----------------------------------- Result 7 -----------------------------------
+0-->1
+anyone who [[gets]] chills from [[movies]] with giant plot [[holes]] will [[find]] plenty to shake and shiver about in 'the [[ring]] . '
+anyone who [[obtains]] chills from [[films]] with giant plot [[keyholes]] will [[unearth]] plenty to shake and shiver about in 'the [[rings]] . '
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+choppy , overlong documentary about 'the lifestyle . '
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+this is a very fine movie -- go see it .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+not a movie but a live-action agitprop cartoon so shameless and coarse , it's almost funny .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+whether you like rap music or loathe it , you can't deny either the tragic loss of two young men in the prime of their talent or the power of this movie .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 9
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 69.23%
+Attack success rate: 18.18%
+Average perturbed word %: 15.03%
+Avg num queries: 3822.91
+Time to run attack: 28464.870931386948s

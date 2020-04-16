@@ -1,0 +1,77 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the cast . . . keeps this pretty watchable , and casting mick jagger as director of the escort service was inspired .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+this painfully unfunny farce traffics in tired stereotypes and encumbers itself with complications . . . that have no bearing on the story .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+plays like some corny television production from a bygone era
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+i can take infantile humor . . . but this is the sort of infantile that makes you wonder about changing the director and writer's diapers .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+you won't believe much of it , but you will laugh at the audacity , at the who's who casting and the sheer insanity of it all .
+----------------------------------- Result 6 -----------------------------------
+0-->1
+when seagal appeared in an orange prison jumpsuit , i wanted to stand up in the theater and [[shout]] , 'hey , kool-aid ! '
+when seagal appeared in an orange prison jumpsuit , i wanted to stand up in the theater and [[scream]] , 'hey , kool-aid ! '
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+so young , so smart , such talent , such a wise * * * .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+doesn't offer much besides glib soullessness , raunchy language and a series of brutal set pieces . . . that raise the bar on stylized screen violence .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+this directorial debut from music video show-off higuchinsky is all flash .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+13 conversations may be a bit too enigmatic and overly ambitious to be fully successful , but sprecher and her screenwriting partner and sister , karen sprecher , don't seem ever to run out of ideas .
+----------------------------------- Result 11 -----------------------------------
+0-->1
+at three hours and with very little story or character development , there is plenty of room for editing , and a much shorter cut [[surely]] would have resulted in a smoother , more focused narrative without sacrificing any of the cultural intrigue .
+at three hours and with very little story or character development , there is plenty of room for editing , and a much shorter cut [[undeniably]] would have resulted in a smoother , more focused narrative without sacrificing any of the cultural intrigue .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+. . . manages to fall closer in quality to silence than to the abysmal hannibal .
+----------------------------------- Result 13 -----------------------------------
+0-->[FAILED]
+routine and rather silly .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+features fincher's characteristically startling visual style and an almost palpable sense of intensity .
+----------------------------------- Result 15 -----------------------------------
+1-->0
+quitting [[delivers]] a sucker-punch , and its [[impact]] is all the greater beause director zhang's last film , the cuddly shower , was a non-threatening multi-character piece centered around a public bath [[house]] .
+quitting [[provides]] a sucker-punch , and its [[impacts]] is all the greater beause director zhang's last film , the cuddly shower , was a non-threatening multi-character piece centered around a public bath [[habitation]] .
+----------------------------------- Result 16 -----------------------------------
+0-->1
+ultimately , clarity matters , both in breaking codes and making movies . enigma [[lacks]] it .
+ultimately , clarity matters , both in breaking codes and making movies . enigma [[lack]] it .
+----------------------------------- Result 17 -----------------------------------
+1-->[FAILED]
+mike leigh populates his movie with a wonderful ensemble cast of characters that bring the routine day to day struggles of the working class to life
+----------------------------------- Result 18 -----------------------------------
+1-->[FAILED]
+reign of fire may be little more than another platter of reheated aliens , but it's still pretty tasty .
+----------------------------------- Result 19 -----------------------------------
+0-->[FAILED]
+better at putting you to sleep than a sound machine .
+----------------------------------- Result 20 -----------------------------------
+1-->[FAILED]
+the film does a solid job of slowly , steadily building up to the climactic burst of violence .
+--------------------------------------------------------------------------------
+Number of successful attacks: 4
+Number of failed attacks: 16
+Number of skipped attacks: 5
+Original accuracy: 80.0%
+Accuracy under attack: 64.0%
+Attack success rate: 20.0%
+Average perturbed word %: 5.94%
+Avg num queries: 2439.65
+Time to run attack: 12966.400211334229s

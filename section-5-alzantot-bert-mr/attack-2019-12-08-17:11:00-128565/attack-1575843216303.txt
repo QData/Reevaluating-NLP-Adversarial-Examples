@@ -1,0 +1,53 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+an involving true story of a chinese actor who takes up drugs and winds up in an institution--acted mostly by the actual people involved .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+this odd , poetic road movie , spiked by jolts of pop music , pretty much takes place in morton's ever-watchful gaze -- and it's a tribute to the actress , and to her inventive director , that the journey is such a mesmerizing one .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+it's up to [watts] to lend credibility to this strange scenario , and her presence succeeds in making us believe .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+the pianist is polanski's best film .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+director chris wedge and screenwriters michael berg , michael j . wilson and peter ackerman create some episodes that rival vintage looney tunes for the most creative mayhem in a brief amount of time .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+complex , sinuously plotted and , somehow , off-puttingly cold .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+a heartening tale of small victories and enduring hope .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+a literate presentation that wonderfully weaves a murderous event in 1873 with murderous rage in 2002 .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+labute's careful handling makes the material seem genuine rather than pandering .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+manipulative claptrap , a period-piece movie-of-the-week , plain old blarney . . . take your pick . all three descriptions suit evelyn , a besotted and obvious drama that tells us nothing new .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+first , for a movie that tries to be smart , it's kinda dumb . and second , what's with all the shooting ?
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+meyjes's movie , like max rothman's future , does not work .
+----------------------------------- Result 13 -----------------------------------
+0-->1
+a monster [[combat]] thriller as impersonal in its relentlessness as the videogame series that inspired it .
+a monster [[combating]] thriller as impersonal in its relentlessness as the videogame series that inspired it .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 12
+Number of skipped attacks: 0
+Original accuracy: 100.0%
+Accuracy under attack: 92.31%
+Attack success rate: 7.69%
+Average perturbed word %: 6.25%
+Avg num queries: 4543.08
+Time to run attack: 19309.134276151657s

@@ -1,0 +1,51 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+though perry and hurley make inspiring efforts to breathe life into the disjointed , haphazard script by jay scherick and david ronn , neither the actors nor director reginald hudlin can make it more than fitfully entertaining .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+if your senses haven't been dulled by slasher films and gorefests , if you're a connoisseur of psychological horror , this is your ticket .
+----------------------------------- Result 3 -----------------------------------
+0-->1
+before long , the film [[starts]] [[playing]] like general [[hospital]] crossed with a saturday night live spoof of dog day afternoon .
+before long , the film [[commences]] [[play]] like general [[hospitals]] crossed with a saturday night live spoof of dog day afternoon .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+purely propaganda , a work of unabashed hero worship , it is nonetheless -- and likely inadvertently -- a timely and invaluable implicit reminder of the role that u . s . foreign policy has played in the rise of castro .
+----------------------------------- Result 5 -----------------------------------
+0-->1
+most folks with a real stake in the [[american]] sexual landscape will find it either [[moderately]] [[amusing]] or just plain [[irrelevant]] .
+most folks with a real stake in the [[america]] sexual landscape will find it either [[modestly]] [[fun]] or just plain [[unimportant]] .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+the first hour is tedious though ford and neeson capably hold our interest , but its just not a thrilling movie .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+guys say mean things and shoot a lot of bullets . some of the characters die and others don't , and the film pretends that those living have learned some sort of lesson , and , really , nobody in the viewing audience cares .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+the mark of a respectable summer blockbuster is one of two things : unadulterated thrills or genuine laughs .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+let's cut to the consumer-advice bottom line : stay home .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+the photographer's show-don't-tell stance is admirable , but it can make him a problematic documentary subject .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+. . . no charm , no laughs , no fun , no reason to watch .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+a terrific b movie -- in fact , the best in recent memory .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 10
+Number of skipped attacks: 1
+Original accuracy: 92.31%
+Accuracy under attack: 76.92%
+Attack success rate: 16.67%
+Average perturbed word %: 17.02%
+Avg num queries: 4310.92
+Time to run attack: 25793.950373649597s

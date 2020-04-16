@@ -1,0 +1,67 @@
+TextAttack BERTForClassification Loading from path /p/qdata/jm8wx/research/text_attacks/trained_bert_models/mr-uncased
+Loaded in 19.661808729171753s
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+		 0  --  0.99739009141922
+		 1  --  0.9969086050987244
+		 2  --  0.9969086050987244
+		 3  --  0.9969086050987244
+		 4  --  0.9969086050987244
+		 5  --  0.9969086050987244
+		 6  --  0.9969086050987244
+		 7  --  0.9969086050987244
+		 8  --  0.9969086050987244
+		 9  --  0.9969086050987244
+		 10  --  0.9969086050987244
+		 11  --  0.9969086050987244
+		 12  --  0.9969086050987244
+		 13  --  0.9969086050987244
+		 14  --  0.9969086050987244
+		 15  --  0.9969086050987244
+		 16  --  0.9969086050987244
+		 17  --  0.9969086050987244
+		 18  --  0.9969086050987244
+		 19  --  0.9969086050987244
+----------------------------------- Result 1 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+a film about female friendship that men can embrace and women will talk about for hours .
+		 0  --  0.23161113262176514
+----------------------------------- Result 2 -----------------------------------
+[91m0[0m-->[92m1[0m
+this is not the undisputed worst boxing movie ever , but it's [91mcertainly[0m not a champion - the big loser is the audience .
+this is not the undisputed worst boxing movie ever , but it's [92massuredly[0m not a champion - the big loser is the audience .
+		 0  --  0.5158827900886536
+		 1  --  0.45390090346336365
+----------------------------------- Result 3 -----------------------------------
+[91m0[0m-->[92m1[0m
+watching it is rather like an overlong visit from a [91mlarge[0m group of your relatives . as your relatives swap one mundane [91mstory[0m after another , you begin to wonder if they are ever going to [91mdepart[0m .
+watching it is rather like an overlong visit from a [92mvast[0m group of your relatives . as your relatives swap one mundane [92mstories[0m after another , you begin to wonder if they are ever going to [92mdeparting[0m .
+		 0  --  0.9965283274650574
+		 1  --  0.9965283274650574
+		 2  --  0.9965283274650574
+		 3  --  0.9965283274650574
+		 4  --  0.9965283274650574
+		 5  --  0.9965283274650574
+		 6  --  0.9965283274650574
+		 7  --  0.9965283274650574
+		 8  --  0.9965283274650574
+		 9  --  0.9965283274650574
+		 10  --  0.9965283274650574
+		 11  --  0.9965283274650574
+		 12  --  0.9965283274650574
+		 13  --  0.9965283274650574
+		 14  --  0.9965283274650574
+		 15  --  0.9965283274650574
+		 16  --  0.9965283274650574
+		 17  --  0.9965283274650574
+		 18  --  0.9965283274650574
+		 19  --  0.9965283274650574
+----------------------------------- Result 4 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+a highly watchable , giggly little story with a sweet edge to it .
+		 0  --  0.8843994140625
+		 1  --  0.8624165058135986
+		 2  --  0.8624165058135986
+		 3  --  0.8624165058135986
+		 4  --  0.8624165058135986

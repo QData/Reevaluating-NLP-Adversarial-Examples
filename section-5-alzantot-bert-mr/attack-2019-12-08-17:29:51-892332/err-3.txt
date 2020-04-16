@@ -1,0 +1,38 @@
+Traceback (most recent call last):
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py", line 304, in <module>
+    attack_n=args.attack_n, shuffle=args.shuffle)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/attack.py", line 224, in attack
+    result = self._attack_one(label, tokenized_text)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/blackbox/genetic_algorithm/genetic_algorithm.py", line 190, in _attack_one
+    self._perturb(c, original_label)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/blackbox/genetic_algorithm/genetic_algorithm.py", line 85, in _perturb
+    if self._replace_at_index(pop_member, rand_idx, original_label):
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/blackbox/genetic_algorithm/genetic_algorithm.py", line 56, in _replace_at_index
+    indices_to_replace=[idx])
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/attack.py", line 113, in get_transformations
+    transformations = np.array(transformation(text, **kwargs))
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/transformations/word_swap.py", line 51, in __call__
+    new_tokenized_texts.append(tokenized_text.replace_word_at_index(i, r))
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/tokenized_text.py", line 111, in replace_word_at_index
+    return self.replace_words_at_indices([index], [new_word])
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/tokenized_text.py", line 105, in replace_words_at_indices
+    return self.replace_new_words(words)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/tokenized_text.py", line 129, in replace_new_words
+    attack_attrs=self.attack_attrs)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/tokenized_text.py", line 14, in __init__
+    self.tokens = tokenizer.convert_text_to_tokens(text)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/tokenizers/bert_tokenizer.py", line 23, in convert_text_to_tokens
+    tokens = self.tokenizer.tokenize(input_text)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/transformers/tokenization_utils.py", line 653, in tokenize
+    tokenized_text = split_on_tokens(added_tokens, text)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/transformers/tokenization_utils.py", line 650, in split_on_tokens
+    else [token] for token in tokenized_text), [])
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/transformers/tokenization_utils.py", line 650, in <genexpr>
+    else [token] for token in tokenized_text), [])
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/transformers/tokenization_bert.py", line 170, in _tokenize
+    for token in self.basic_tokenizer.tokenize(text, never_split=self.all_special_tokens):
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/transformers/tokenization_bert.py", line 279, in tokenize
+    text = self._tokenize_chinese_chars(text)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/transformers/tokenization_bert.py", line 328, in _tokenize_chinese_chars
+    cp = ord(char)
+KeyboardInterrupt

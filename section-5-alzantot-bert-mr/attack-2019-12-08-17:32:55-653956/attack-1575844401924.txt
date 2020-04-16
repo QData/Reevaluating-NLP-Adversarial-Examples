@@ -1,0 +1,46 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+unfolds as one of the most politically audacious films of recent decades from any country , but especially from france .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+mckay shows crushingly little curiosity about , or is ill-equipped to examine , the interior lives of the characters in his film , much less incorporate them into his narrative .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+a tour de force drama about the astonishingly pivotal role of imagination in the soulful development of two rowdy teenagers .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+a sly game of cat and mouse that's intense and thrilling at times , but occasionally stretches believability to its limits and relies on predictable plot contrivances .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+at just over an hour , home movie will leave you wanting more , not to mention leaving you with some laughs and a smile on your face .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+alain choquart's camera barely stops moving , portraying both the turmoil of the time and giving conduct a perpetual sense of urgency , which , for a film that takes nearly three hours to unspool , is both funny and irritating .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+the only thing to fear about " fear dot com " is hitting your head on the theater seat in front of you when you doze off thirty minutes into the film .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+the animation merely serves up a predictable , maudlin story that swipes heavily from bambi and the lion king , yet lacks the emotional resonance of either of those movies .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+it's leaden and predictable , and laughs are lacking .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+an unintentional parody of every teen movie made in the last five years .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+it reduces the complexities to bromides and slogans and it gets so preachy-keen and so tub-thumpingly loud it makes you feel like a chump just for sitting through it .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 11
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 84.62%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 4999.18
+Time to run attack: 6971.738612413406s

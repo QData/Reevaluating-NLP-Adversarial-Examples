@@ -1,0 +1,52 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+beautiful , cold , oddly colorful and just plain otherworldly , a freaky bit of art that's there to scare while we delight in the images .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+it's obvious [je-gyu is] trying for poetry ; what he gets instead has all the lyricism of a limerick scrawled in a public restroom .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+resembles a soft porn brian de palma pastiche .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+a frustrating 'tweener' -- too slick , contrived and exploitative for the art houses and too cynical , small and decadent for the malls .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+while the humor is recognizably plympton , he has actually bothered to construct a real story this time .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+a film that's flawed and brilliant in equal measure .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+if the film has a problem , its shortness disappoints : you want the story to go on and on .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+great fun both for sports aficionados and for ordinary louts whose idea of exercise is climbing the steps of a stadium-seat megaplex .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+one of the more intelligent children's movies to hit theaters this year .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+this submarine drama earns the right to be favorably compared to das boot .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+this rough trade punch-and-judy act didn't play well then and it plays worse now .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+i'd watch these two together again in a new york minute .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+an exceedingly clever piece of cinema . another great ‘what you don't see' is much more terrifying than what you do see thriller , coupled with some arresting effects , incandescent tones and stupendous performances
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 13
+Number of skipped attacks: 0
+Original accuracy: 100.0%
+Accuracy under attack: 100.0%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 4275.77
+Time to run attack: 18503.945964097977s

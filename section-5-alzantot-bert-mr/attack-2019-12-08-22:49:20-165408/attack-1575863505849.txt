@@ -1,0 +1,45 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+another in a long line of ultra-violent war movies , this one is not quite what it could have been as a film , but the story and theme make up for it .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+feels [[strangely]] hollow at its emotional core .
+feels [[weirdly]] hollow at its emotional core .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+rumor , a muddled drama about coming to terms with death , feels impersonal , almost generic .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+an unclassifiably awful study in self- and audience-abuse .
+----------------------------------- Result 5 -----------------------------------
+0-->1
+sheridan . . . smoothes over [[sources]] of conflict that could have lent the film a bit more depth .
+sheridan . . . smoothes over [[origins]] of conflict that could have lent the film a bit more depth .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+with its jerky hand-held camera and documentary feel , bloody sunday is a sobering recount of a very bleak day in derry .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+nair just doesn't have the necessary self-control to guide a loose , poorly structured film through the pitfalls of incoherence and redundancy .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+day is not a great bond movie , but it is a good bond movie , which still makes it much better than your typical bond knock-offs .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+tailored to entertain !
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+by the end , i was looking for something hard with which to bludgeon myself unconscious .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 8
+Number of skipped attacks: 3
+Original accuracy: 76.92%
+Accuracy under attack: 61.54%
+Attack success rate: 20.0%
+Average perturbed word %: 10.27%
+Avg num queries: 4313.5
+Time to run attack: 14352.146295309067s

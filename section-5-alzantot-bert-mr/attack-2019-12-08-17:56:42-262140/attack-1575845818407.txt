@@ -1,0 +1,81 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+en sí mismo el rey león es un espectáculo digno de contemplarse en cine , dvd o en su soberbio montaje teatral ; pero el hacerlo en la pantalla imax es una experiencia colosal .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+the film's final hour , where nearly all the previous unseen material resides , is unconvincing soap opera that tornatore was right to cut .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+the action scenes have all the suspense of a 20-car pileup , while the plot holes are big enough for a train car to drive through -- if kaos hadn't blown them all up .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+what a pity . . . that the material is so second-rate .
+----------------------------------- Result 5 -----------------------------------
+0-->[FAILED]
+an unholy mess , driven by the pathetic idea that if you shoot something on crummy-looking videotape , it must be labelled 'hip' , 'innovative' and 'realistic' .
+----------------------------------- Result 6 -----------------------------------
+0-->1
+. . . the picture's cleverness is [[ironically]] muted by the very people who are intended to make it shine .
+. . . the picture's cleverness is [[paradoxically]] muted by the very people who are intended to make it shine .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+there's plenty to impress about e . t .
+----------------------------------- Result 8 -----------------------------------
+0-->1
+a shambles of a movie--visually unattractive , unbearably loud and [[utterly]] silly . . . its hilarity is [[completely]] [[unintentional]] .
+a shambles of a movie--visually unattractive , unbearably loud and [[abundantly]] silly . . . its hilarity is [[fully]] [[unwitting]] .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+hugh grant , who has a good line in charm , has never been more charming than in about a boy .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+watstein handily directs and edits around his screenplay's sappier elements . . . and sustains off the hook's buildup with remarkable assuredness for a first-timer .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+earns its laughs from stock redneck 'types' and from the many , many moments when we recognize even without the elizabethan prose , the play behind the thing .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+in the director's cut , the film is not only a love song to the movies but it also is more fully an example of the kind of lush , all-enveloping movie experience it rhapsodizes .
+----------------------------------- Result 13 -----------------------------------
+0-->[FAILED]
+the santa clause 2's plot may sound like it was co-written by mattel executives and lobbyists for the tinsel industry .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+the dramatic crisis doesn't always succeed in its quest to be taken seriously , but huppert's volatile performance makes for a riveting movie experience .
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+a low-key labor of love that strikes a very resonant chord .
+----------------------------------- Result 16 -----------------------------------
+0-->[FAILED]
+spousal abuse is a major problem in contemporary society , but the film reduces this domestic tragedy to florid melodrama .
+----------------------------------- Result 17 -----------------------------------
+1-->[FAILED]
+it's a wise and powerful tale of race and culture forcefully told , with superb performances throughout .
+----------------------------------- Result 18 -----------------------------------
+1-->[FAILED]
+unfolds with such a wallop of you-are-there immediacy that when the bullets start to fly , your first instinct is to duck .
+----------------------------------- Result 19 -----------------------------------
+0-->[FAILED]
+to my taste , the film's comic characters come perilously close to being amoses and andys for a new generation .
+----------------------------------- Result 20 -----------------------------------
+0-->[FAILED]
+this time kaufman's imagination has failed him .
+----------------------------------- Result 21 -----------------------------------
+0-->[FAILED]
+the christ allegory doesn't work because there is no foundation for it
+----------------------------------- Result 22 -----------------------------------
+1-->[FAILED]
+nair doesn't use [monsoon wedding] to lament the loss of culture . instead , she sees it as a chance to revitalize what is and always has been remarkable about clung-to traditions .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 20
+Number of skipped attacks: 3
+Original accuracy: 88.0%
+Accuracy under attack: 80.0%
+Attack success rate: 9.09%
+Average perturbed word %: 11.6%
+Avg num queries: 3305.09
+Time to run attack: 9092.017214298248s

@@ -1,0 +1,68 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+a strangely compelling and brilliantly acted psychological drama .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+a psychic journey deep into the very fabric of iranian . . . life .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+what it lacks in substance it makes up for in heart .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+it could have been something special , but two things drag it down to mediocrity -- director clare peploe's misunderstanding of marivaux's rhythms , and mira sorvino's limitations as a classical actress .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+whatever one makes of its political edge , this is beautiful filmmaking from one of french cinema's master craftsmen .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+one of those movies where you walk out of the theater not feeling cheated exactly , but feeling pandered to , which , in the end , might be all the more infuriating .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+it's just plain lurid when it isn't downright silly .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+borstal boy represents the worst kind of filmmaking , the kind that pretends to be passionate and truthful but is really frustratingly timid and soggy .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+believability wasn't one of the film's virtues .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+madonna still can't act a lick .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+like the original , this version is raised a few notches above kiddie fantasy pablum by allen's astringent wit .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+. . . a series of tales told with the intricate preciseness of the best short story writing .
+----------------------------------- Result 13 -----------------------------------
+0-->1
+despite her [[relentless]] vim and winsome facial symmetry , witherspoon is just too dialed-up to be america's sweetheart .
+despite her [[unceasing]] vim and winsome facial symmetry , witherspoon is just too dialed-up to be america's sweetheart .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+grant carries the day with impeccable comic timing , raffish charm and piercing intellect .
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+jarecki and gibney do find enough material to bring kissinger's record into question and explain how the diplomat's tweaked version of statecraft may have cost thousands and possibly millions of lives .
+----------------------------------- Result 16 -----------------------------------
+1-->[FAILED]
+the inspirational screenplay by mike rich covers a lot of ground , perhaps too much , but ties things together , neatly , by the end .
+----------------------------------- Result 17 -----------------------------------
+1-->[FAILED]
+a four star performance from kevin kline who unfortunately works with a two star script .
+----------------------------------- Result 18 -----------------------------------
+1-->[FAILED]
+steadfastly uncinematic but powerfully dramatic .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 17
+Number of skipped attacks: 7
+Original accuracy: 72.0%
+Accuracy under attack: 68.0%
+Attack success rate: 5.56%
+Average perturbed word %: 5.26%
+Avg num queries: 4783.22
+Time to run attack: 20807.171751976013s

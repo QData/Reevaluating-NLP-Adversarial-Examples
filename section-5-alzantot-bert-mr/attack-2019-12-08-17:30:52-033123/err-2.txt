@@ -1,0 +1,54 @@
+Traceback (most recent call last):
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py", line 304, in <module>
+    attack_n=args.attack_n, shuffle=args.shuffle)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/attack.py", line 224, in attack
+    result = self._attack_one(label, tokenized_text)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/blackbox/genetic_algorithm/genetic_algorithm.py", line 190, in _attack_one
+    self._perturb(c, original_label)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/blackbox/genetic_algorithm/genetic_algorithm.py", line 85, in _perturb
+    if self._replace_at_index(pop_member, rand_idx, original_label):
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/blackbox/genetic_algorithm/genetic_algorithm.py", line 56, in _replace_at_index
+    indices_to_replace=[idx])
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/attack.py", line 115, in get_transformations
+    return self._filter_transformations(transformations, text, original_text)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/attacks/attack.py", line 121, in _filter_transformations
+    transformations = C.call_many(text, transformations, original_text)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/constraints/semantics/sentence_encoders/sentence_encoder.py", line 128, in call_many
+    scores = self._score_list(x, x_adv_list)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/constraints/semantics/sentence_encoders/sentence_encoder.py", line 93, in _score_list
+    embeddings = self.encode(x_list_text + x_adv_list_text)
+  File "/p/qdata/jm8wx/research/text_attacks/textattack/textattack/constraints/semantics/sentence_encoders/bert/bert.py", line 18, in encode
+    return self.model.encode(sentences)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/sentence_transformers/SentenceTransformer.py", line 136, in encode
+    embeddings = self.forward(features)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/container.py", line 92, in forward
+    input = module(input)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/sentence_transformers/models/BERT.py", line 32, in forward
+    output_tokens = self.bert(input_ids=features['input_ids'], token_type_ids=features['token_type_ids'], attention_mask=features['input_mask'])[0]
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/pytorch_transformers/modeling_bert.py", line 715, in forward
+    head_mask=head_mask)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/pytorch_transformers/modeling_bert.py", line 437, in forward
+    layer_outputs = layer_module(hidden_states, attention_mask, head_mask[i])
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/pytorch_transformers/modeling_bert.py", line 415, in forward
+    attention_outputs = self.attention(hidden_states, attention_mask, head_mask)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/pytorch_transformers/modeling_bert.py", line 373, in forward
+    attention_output = self.output(self_outputs[0], input_tensor)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/pytorch_transformers/modeling_bert.py", line 344, in forward
+    hidden_states = self.LayerNorm(hidden_states + input_tensor)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/torch/nn/modules/module.py", line 547, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/u/jm8wx/.conda/envs/torch/lib/python3.7/site-packages/pytorch_transformers/modeling_bert.py", line 238, in forward
+    s = (x - u).pow(2).mean(-1, keepdim=True)
+KeyboardInterrupt

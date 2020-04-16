@@ -1,0 +1,81 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+the actors must indeed be good to recite some of this laughable dialogue with a straight face .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+hoffman waits too long to turn his movie in an unexpected direction , and even then his tone retains a genteel , prep-school quality that feels dusty and leatherbound .
+----------------------------------- Result 3 -----------------------------------
+0-->1
+that zhang would make such a strainingly [[cute]] film -- with a blind orphan at its center , no less -- indicates where his ambitions have wandered .
+that zhang would make such a strainingly [[adorable]] film -- with a blind orphan at its center , no less -- indicates where his ambitions have wandered .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+statham employs an accent that i think is supposed to be an attempt at hardass american but sometimes just lapses into unhidden british .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+ranges from laugh-out-loud hilarious to wonder-what- time-it-is tedious .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+a fine documentary can be distinguished from a mediocre one by the better film's ability to make its subject interesting to those who aren't part of its supposed target audience . judging by those standards , 'scratch' is a pretty decent little documentary .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+an entertaining british hybrid of comedy , caper thrills and quirky romance .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+this is a children's film in the truest sense . it's packed with adventure and a worthwhile environmental message , so it's great for the kids . parents , on the other hand , will be ahead of the plot at all times , and there isn't enough clever innuendo to fil
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+what's infuriating about full frontal is that it's too close to real life to make sense . what's invigorating about it is that it doesn't give a damn .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+first and foremost . . . the reason to go see " blue crush " is the phenomenal , water-born cinematography by david hennings .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+the next big thing's not-so-big ( and not-so-hot ) directorial debut .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+sandra nettelbeck beautifully orchestrates the transformation of the chilly , neurotic , and self-absorbed martha as her heart begins to open .
+----------------------------------- Result 13 -----------------------------------
+0-->[FAILED]
+ritchie's film is easier to swallow than wertmuller's polemical allegory , but it's self-defeatingly decorous .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+this time out , [sade] is an unsettlingly familiar figure -- in turns loyal and deceitful , responsible and reckless , idealistically selfless and coldly self-interested .
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+a compelling coming-of-age drama about the arduous journey of a sensitive young girl through a series of foster homes and a fierce struggle to pull free from her dangerous and domineering mother's hold over her .
+----------------------------------- Result 16 -----------------------------------
+0-->[FAILED]
+the documentary is much too conventional -- lots of boring talking heads , etc . -- to do the subject matter justice .
+----------------------------------- Result 17 -----------------------------------
+1-->[FAILED]
+inventive , fun , intoxicatingly sexy , violent , self-indulgent and maddening .
+----------------------------------- Result 18 -----------------------------------
+1-->[FAILED]
+not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit .
+----------------------------------- Result 19 -----------------------------------
+0-->[FAILED]
+little more than a stylish exercise in revisionism whose point . . . is no doubt true , but serves as a rather thin moral to such a knowing fable .
+----------------------------------- Result 20 -----------------------------------
+0-->1
+shows holmes has the screen presence to become a major-league leading lady , ( but ) the [[movie]] itself is an underachiever , a psychological [[mystery]] that takes its sweet time building to a climax that's [[scarcely]] a surprise by the time it arrives .
+shows holmes has the screen presence to become a major-league leading lady , ( but ) the [[films]] itself is an underachiever , a psychological [[enigma]] that takes its sweet time building to a climax that's [[hardly]] a surprise by the time it arrives .
+----------------------------------- Result 21 -----------------------------------
+1-->[FAILED]
+there is a fabric of complex ideas here , and feelings that profoundly deepen them .
+----------------------------------- Result 22 -----------------------------------
+1-->[FAILED]
+a rigorously structured and exquisitely filmed drama about a father and son connection that is a brief shooting star of love .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 20
+Number of skipped attacks: 3
+Original accuracy: 88.0%
+Accuracy under attack: 80.0%
+Attack success rate: 9.09%
+Average perturbed word %: 5.65%
+Avg num queries: 4620.41
+Time to run attack: 11171.650599241257s

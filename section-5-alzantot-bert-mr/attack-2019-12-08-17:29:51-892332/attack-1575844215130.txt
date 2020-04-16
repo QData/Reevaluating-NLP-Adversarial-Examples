@@ -1,0 +1,9 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+earns its laughs from stock redneck 'types' and from the many , many moments when we recognize even without the elizabethan prose , the play behind the thing .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+in the director's cut , the film is not only a love song to the movies but it also is more fully an example of the kind of lush , all-enveloping movie experience it rhapsodizes .

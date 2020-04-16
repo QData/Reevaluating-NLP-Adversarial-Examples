@@ -1,0 +1,65 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+the thrill is ( long ) gone .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+while holm is [[terrific]] as both men and hjejle quite appealing , the film [[fails]] to make the most out of the [[intriguing]] premise .
+while holm is [[wonderful]] as both men and hjejle quite appealing , the film [[fail]] to make the most out of the [[riveting]] premise .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+run , don't walk , to see this barbed and bracing comedy on the big screen .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+does point the way for adventurous indian filmmakers toward a crossover into nonethnic markets .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+poignant and moving , a walk to remember is an inspirational love story , capturing the innocence and idealism of that first encounter .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+the story . . . is inspiring , ironic , and revelatory of just how ridiculous and money-oriented the record industry really is . it is also a testament to the integrity and vision of the band .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+confusion is one of my least favourite emotions , especially when i have to put up with 146 minutes of it .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+does an impressive job of relating the complicated history of the war and of filling in the background .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+adams , with four scriptwriters , takes care with the characters , who are so believable that you feel what they feel .
+----------------------------------- Result 10 -----------------------------------
+0-->1
+like its title [[character]] , esther kahn is unusual but [[unfortunately]] also [[irritating]] .
+like its title [[personages]] , esther kahn is unusual but [[regrettably]] also [[annoying]] .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+while not quite " shrek " or monsters , inc . " , it's not too bad . it's worth taking the kids to .
+----------------------------------- Result 12 -----------------------------------
+0-->1
+the film is really closer to porn than a serious critique of what's [[wrong]] with this increasingly pervasive aspect of gay culture .
+the film is really closer to porn than a serious critique of what's [[amiss]] with this increasingly pervasive aspect of gay culture .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+elegantly produced and expressively performed , the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy .
+----------------------------------- Result 14 -----------------------------------
+0-->[FAILED]
+audiences can be expected to suspend their disbelief only so far -- and that does not include the 5 o'clock shadow on the tall wooden kid as he skips off to school .
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+the movie is one of the best examples of artful large format filmmaking you are likely to see anytime soon .
+----------------------------------- Result 16 -----------------------------------
+0-->1
+a [[movie]] that the less charitable [[might]] describe as a castrated [[cross]] between highlander and lolita .
+a [[film]] that the less charitable [[perhaps]] describe as a castrated [[crossing]] between highlander and lolita .
+--------------------------------------------------------------------------------
+Number of successful attacks: 4
+Number of failed attacks: 12
+Number of skipped attacks: 1
+Original accuracy: 94.12%
+Accuracy under attack: 70.59%
+Attack success rate: 25.0%
+Average perturbed word %: 15.29%
+Avg num queries: 4502
+Time to run attack: 19420.70568704605s

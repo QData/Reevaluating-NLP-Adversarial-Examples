@@ -1,0 +1,224 @@
+TextAttack BERTForClassification Loading from path /p/qdata/jm8wx/research/text_attacks/trained_bert_models/mr-uncased
+Loaded in 55.795878410339355s
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+		 0  --  0.577029287815094
+		 1  --  0.49393656849861145
+----------------------------------- Result 1 -----------------------------------
+[91m0[0m-->[92m1[0m
+the isolated moments of [91mcreative[0m [91minsanity[0m [91mfinally[0m are lost in the thin soup of canned humor .
+the isolated moments of [92minventive[0m [92mmadness[0m [92mlastly[0m are lost in the thin soup of canned humor .
+		 0  --  0.9317777752876282
+		 1  --  0.8710011839866638
+		 2  --  0.8710011839866638
+		 3  --  0.8710011839866638
+		 4  --  0.8710011839866638
+		 5  --  0.8710011839866638
+		 6  --  0.8710011839866638
+		 7  --  0.8710011839866638
+		 8  --  0.8710011839866638
+		 9  --  0.8710011839866638
+		 10  --  0.8710011839866638
+		 11  --  0.8710011839866638
+		 12  --  0.8710011839866638
+		 13  --  0.8710011839866638
+		 14  --  0.8710011839866638
+		 15  --  0.8710011839866638
+		 16  --  0.8710011839866638
+		 17  --  0.8710011839866638
+		 18  --  0.8710011839866638
+		 19  --  0.8710011839866638
+----------------------------------- Result 2 -----------------------------------
+[91m0[0m-->[91m[FAILED][0m
+a terrible adaptation of a play that only ever walked the delicate tightrope between farcical and loathsome . in the wrong hands , i . e . peploe's , it's simply unbearable
+		 0  --  0.4132779836654663
+----------------------------------- Result 3 -----------------------------------
+[91m0[0m-->[92m1[0m
+it's easy to love robin tunney -- she's pretty and she can act -- but it gets harder and [91mharder[0m to understand her choices .
+it's easy to love robin tunney -- she's pretty and she can act -- but it gets harder and [92mstricter[0m to understand her choices .
+		 0  --  0.6755983829498291
+		 1  --  0.5453258752822876
+		 2  --  0.3848438560962677
+----------------------------------- Result 4 -----------------------------------
+[91m0[0m-->[92m1[0m
+filmmakers have to dig deep to [91msink[0m this low . fortunately for all [91minvolved[0m , this [91mmovie[0m is likely to [91mdisappear[0m as [91mquickly[0m as an ice cube thrown into a pot of boiling water .
+filmmakers have to dig deep to [92msinking[0m this low . fortunately for all [92mparticipating[0m , this [92mfilm[0m is likely to [92mdisappearing[0m as [92mswiftly[0m as an ice cube thrown into a pot of boiling water .
+		 0  --  0.9026067852973938
+		 1  --  0.9026067852973938
+		 2  --  0.9026067852973938
+		 3  --  0.9026067852973938
+		 4  --  0.9026067852973938
+		 5  --  0.9026067852973938
+		 6  --  0.9026067852973938
+		 7  --  0.9026067852973938
+		 8  --  0.9026067852973938
+		 9  --  0.9026067852973938
+		 10  --  0.9026067852973938
+		 11  --  0.9026067852973938
+		 12  --  0.9026067852973938
+		 13  --  0.9026067852973938
+		 14  --  0.9026067852973938
+		 15  --  0.9026067852973938
+		 16  --  0.9026067852973938
+		 17  --  0.9026067852973938
+		 18  --  0.9026067852973938
+		 19  --  0.9026067852973938
+----------------------------------- Result 5 -----------------------------------
+[91m0[0m-->[91m[FAILED][0m
+muddled , melodramatic paranormal romance is an all-time low for kevin costner .
+		 0  --  0.5716304779052734
+		 1  --  0.4119190275669098
+----------------------------------- Result 6 -----------------------------------
+[91m0[0m-->[92m1[0m
+the sinister inspiration that [91mfuelled[0m devito's early [91mwork[0m is confused in death to smoochy into something both ugly and [91mmindless[0m .
+the sinister inspiration that [92mfueled[0m devito's early [92mworking[0m is confused in death to smoochy into something both ugly and [92msenseless[0m .
+		 0  --  0.8670362830162048
+		 1  --  0.8670362830162048
+		 2  --  0.8670362830162048
+		 3  --  0.8670362830162048
+		 4  --  0.8670362830162048
+		 5  --  0.8670362830162048
+		 6  --  0.8670362830162048
+		 7  --  0.8670362830162048
+		 8  --  0.8670362830162048
+		 9  --  0.8670362830162048
+		 10  --  0.8670362830162048
+		 11  --  0.8670362830162048
+		 12  --  0.8670362830162048
+		 13  --  0.8670362830162048
+		 14  --  0.8670362830162048
+		 15  --  0.8670362830162048
+		 16  --  0.8670362830162048
+		 17  --  0.8670362830162048
+		 18  --  0.8670362830162048
+		 19  --  0.8670362830162048
+----------------------------------- Result 7 -----------------------------------
+[91m0[0m-->[91m[FAILED][0m
+it's not only dull because we've seen [eddie] murphy do the genial-rogue shtick to death , but because the plot is equally hackneyed .
+		 0  --  0.9580867290496826
+		 1  --  0.9393033385276794
+		 2  --  0.9393033385276794
+		 3  --  0.9393033385276794
+		 4  --  0.9393033385276794
+		 5  --  0.9393033385276794
+		 6  --  0.9393033385276794
+		 7  --  0.9393033385276794
+		 8  --  0.9393033385276794
+		 9  --  0.9393033385276794
+		 10  --  0.9393033385276794
+		 11  --  0.9393033385276794
+		 12  --  0.9393033385276794
+		 13  --  0.9393033385276794
+		 14  --  0.9393033385276794
+		 15  --  0.9393033385276794
+		 16  --  0.9393033385276794
+		 17  --  0.9393033385276794
+		 18  --  0.9393033385276794
+		 19  --  0.9393033385276794
+----------------------------------- Result 8 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+passable entertainment , but it's the kind of motion picture that won't make much of a splash when it's released , and will not be remembered long afterwards .
+		 0  --  0.97599858045578
+		 1  --  0.9164867997169495
+		 2  --  0.8613362312316895
+		 3  --  0.8613362312316895
+		 4  --  0.8613362312316895
+		 5  --  0.8613362312316895
+		 6  --  0.8613362312316895
+		 7  --  0.8613362312316895
+		 8  --  0.8613362312316895
+		 9  --  0.8613362312316895
+		 10  --  0.8613362312316895
+		 11  --  0.8613362312316895
+		 12  --  0.8613362312316895
+		 13  --  0.8613362312316895
+		 14  --  0.8613362312316895
+		 15  --  0.8613362312316895
+		 16  --  0.8613362312316895
+		 17  --  0.8613362312316895
+		 18  --  0.8613362312316895
+		 19  --  0.8613362312316895
+----------------------------------- Result 9 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+koury frighteningly and honestly exposes one teenager's uncomfortable class resentment and , in turn , his self-inflicted retaliation .
+		 0  --  0.9902068972587585
+		 1  --  0.9902068972587585
+		 2  --  0.9902068972587585
+		 3  --  0.9902068972587585
+		 4  --  0.9902068972587585
+		 5  --  0.9902068972587585
+		 6  --  0.9902068972587585
+		 7  --  0.9902068972587585
+		 8  --  0.9902068972587585
+		 9  --  0.9902068972587585
+		 10  --  0.9902068972587585
+		 11  --  0.9902068972587585
+		 12  --  0.9902068972587585
+		 13  --  0.9902068972587585
+		 14  --  0.9902068972587585
+		 15  --  0.9902068972587585
+		 16  --  0.9902068972587585
+		 17  --  0.9902068972587585
+		 18  --  0.9902068972587585
+		 19  --  0.9902068972587585
+----------------------------------- Result 10 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+about the best thing you could say about narc is that it's a rock-solid little genre picture . whether you like it or not is basically a matter of taste .
+		 0  --  0.994040310382843
+		 1  --  0.994040310382843
+		 2  --  0.994040310382843
+		 3  --  0.994040310382843
+		 4  --  0.994040310382843
+		 5  --  0.994040310382843
+		 6  --  0.994040310382843
+		 7  --  0.994040310382843
+		 8  --  0.994040310382843
+		 9  --  0.994040310382843
+		 10  --  0.994040310382843
+		 11  --  0.994040310382843
+		 12  --  0.994040310382843
+		 13  --  0.994040310382843
+		 14  --  0.994040310382843
+		 15  --  0.994040310382843
+		 16  --  0.994040310382843
+		 17  --  0.994040310382843
+		 18  --  0.994040310382843
+		 19  --  0.994040310382843
+----------------------------------- Result 11 -----------------------------------
+[92m1[0m-->[91m[FAILED][0m
+the film serves as a valuable time capsule to remind us of the devastating horror suffered by an entire people .
+		 0  --  0.9490402936935425
+		 1  --  0.9236546158790588
+		 2  --  0.9236546158790588
+		 3  --  0.9236546158790588
+		 4  --  0.9236546158790588
+		 5  --  0.9236546158790588
+		 6  --  0.9236546158790588
+		 7  --  0.9236546158790588
+		 8  --  0.9236546158790588
+		 9  --  0.9236546158790588
+		 10  --  0.9236546158790588
+		 11  --  0.9236546158790588
+		 12  --  0.9236546158790588
+		 13  --  0.9236546158790588
+		 14  --  0.9236546158790588
+		 15  --  0.9236546158790588
+		 16  --  0.9236546158790588
+		 17  --  0.9236546158790588
+		 18  --  0.9236546158790588
+		 19  --  0.9236546158790588
+----------------------------------- Result 12 -----------------------------------
+[91m0[0m-->[91m[FAILED][0m
+for all its technical virtuosity , the film is so mired in juvenile and near-xenophobic pedagogy that it's enough to make one pine for the day when godard can no longer handle the rigors of filmmaking .
+--------------------------------------------------------------------------------
+Number of successful attacks: 4
+Number of failed attacks: 8
+Number of skipped attacks: 1
+Original accuracy: 92.31%
+Accuracy under attack: 61.54%
+Attack success rate: 33.33%
+Average perturbed word %: 13.21%
+Avg num queries: 3400.58
+Time to run attack: 19847.313823461533s
+Total time: 19903.125105142593s

@@ -1,0 +1,40 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the combination of lightness and strictness in this instance gives italian for beginners an amiable aimlessness that keeps it from seeming predictably formulaic .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+. . . fifty minutes of tedious adolescent melodramatics followed by thirty-five minutes of inflated nonsense .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+there was time on that second round to see the subtleties of ramsay's portrait of grief .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+a remarkable film by bernard rose .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+one of the funniest motion pictures of the year , but . . . also one of the most curiously depressing .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+adults will certainly want to spend their time in the theater thinking up grocery lists and ways to tell their kids how not to act like pinocchio . as for children , they won't enjoy the movie at all .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+as a film director , labute continues to improve .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+sheds light on a subject few are familiar with , and makes you care about music you may not have heard before .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a strangely compelling and brilliantly acted psychological drama .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 9
+Number of skipped attacks: 4
+Original accuracy: 69.23%
+Accuracy under attack: 69.23%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 5112.89
+Time to run attack: 4729.946255683899s

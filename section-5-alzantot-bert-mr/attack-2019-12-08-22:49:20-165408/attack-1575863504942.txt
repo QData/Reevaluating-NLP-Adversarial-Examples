@@ -1,0 +1,53 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->1
+the isolated moments of [[creative]] [[insanity]] [[finally]] are lost in the thin soup of canned humor .
+the isolated moments of [[inventive]] [[madness]] [[lastly]] are lost in the thin soup of canned humor .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+a terrible adaptation of a play that only ever walked the delicate tightrope between farcical and loathsome . in the wrong hands , i . e . peploe's , it's simply unbearable
+----------------------------------- Result 3 -----------------------------------
+0-->1
+it's easy to love robin tunney -- she's pretty and she can act -- but it gets harder and [[harder]] to understand her choices .
+it's easy to love robin tunney -- she's pretty and she can act -- but it gets harder and [[stricter]] to understand her choices .
+----------------------------------- Result 4 -----------------------------------
+0-->1
+filmmakers have to dig deep to [[sink]] this low . fortunately for all [[involved]] , this [[movie]] is likely to [[disappear]] as quickly as an ice cube [[thrown]] into a pot of boiling water .
+filmmakers have to dig deep to [[sinking]] this low . fortunately for all [[participating]] , this [[film]] is likely to [[disappearing]] as quickly as an ice cube [[hurled]] into a pot of boiling water .
+----------------------------------- Result 5 -----------------------------------
+0-->[FAILED]
+muddled , melodramatic paranormal romance is an all-time low for kevin costner .
+----------------------------------- Result 6 -----------------------------------
+0-->1
+the sinister inspiration that [[fuelled]] devito's early [[work]] is confused in death to smoochy into something both ugly and [[mindless]] .
+the sinister inspiration that [[fueled]] devito's early [[working]] is confused in death to smoochy into something both ugly and [[senseless]] .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+it's not only dull because we've seen [eddie] murphy do the genial-rogue shtick to death , but because the plot is equally hackneyed .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+passable entertainment , but it's the kind of motion picture that won't make much of a splash when it's released , and will not be remembered long afterwards .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+koury frighteningly and honestly exposes one teenager's uncomfortable class resentment and , in turn , his self-inflicted retaliation .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+about the best thing you could say about narc is that it's a rock-solid little genre picture . whether you like it or not is basically a matter of taste .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+the film serves as a valuable time capsule to remind us of the devastating horror suffered by an entire people .
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+for all its technical virtuosity , the film is so mired in juvenile and near-xenophobic pedagogy that it's enough to make one pine for the day when godard can no longer handle the rigors of filmmaking .
+--------------------------------------------------------------------------------
+Number of successful attacks: 4
+Number of failed attacks: 8
+Number of skipped attacks: 1
+Original accuracy: 92.31%
+Accuracy under attack: 61.54%
+Attack success rate: 33.33%
+Average perturbed word %: 13.21%
+Avg num queries: 3398.67
+Time to run attack: 19023.321707963943s

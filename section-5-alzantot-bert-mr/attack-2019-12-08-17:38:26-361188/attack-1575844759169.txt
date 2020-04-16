@@ -1,0 +1,65 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the two leads , nearly perfect in their roles , bring a heart and reality that buoy the film , and at times , elevate it to a superior crime movie .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+the film tunes into a grief that could lead a man across centuries .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+the film's strength isn't in its details , but in the larger picture it paints - of a culture in conflict with itself , with the thin veneer of nationalism that covers our deepest , media-soaked fears .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+together , miller , kuras and the actresses make personal velocity into an intricate , intimate and intelligent journey .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+murder by numbers' isn't a great movie , but it's a perfectly acceptable widget .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+a tender and touching drama , based on the true story of a troubled african-american's quest to come to terms with his origins , reveals the yearning we all have in our hearts for acceptance within the family circle .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+. . . with the candy-like taste of it fading faster than 25-cent bubble gum , i realized this is a throwaway movie that won't stand the test of time . it's a trifle .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+you're too conscious of the effort it takes to be this spontaneous .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+ultimately , " mib ii " succeeds due to its rapid-fire delivery and enough inspired levity that it can't be dismissed as mindless .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+i'm not sure which is worse : the poor acting by the ensemble cast , the flat dialogue by vincent r . nebrida or the gutless direction by laurice guillen .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+if you ever wondered what it would be like to be smack in the middle of a war zone armed with nothing but a camera , this oscar-nominated documentary takes you there .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+gorgeous scenes , masterful performances , but the sickly sweet gender normative narrative left an acrid test in this gourmet's mouth .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+the piano teacher is not an easy film . it forces you to watch people doing unpleasant things to each other and themselves , and it maintains a cool distance from its material that is deliberately unsettling .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+despite its title , punch-drunk love is never heavy-handed . the jabs it employs are short , carefully placed and dead-center .
+----------------------------------- Result 15 -----------------------------------
+0-->[FAILED]
+unless bob crane is someone of particular interest to you , this film's impressive performances and adept direction aren't likely to leave a lasting impression .
+----------------------------------- Result 16 -----------------------------------
+0-->1
+an uneven film [[dealing]] with too many problems to be taken seriously .
+an uneven film [[deal]] with too many problems to be taken seriously .
+----------------------------------- Result 17 -----------------------------------
+0-->[FAILED]
+every bit as bogus as most disney live action family movies are -- no real plot , no real conflict , no real point .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 16
+Number of skipped attacks: 8
+Original accuracy: 68.0%
+Accuracy under attack: 64.0%
+Attack success rate: 5.88%
+Average perturbed word %: 8.33%
+Avg num queries: 6325.35
+Time to run attack: 27387.5271525383s

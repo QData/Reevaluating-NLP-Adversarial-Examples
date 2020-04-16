@@ -1,0 +1,52 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the one-liners are snappy , the situations volatile and the comic opportunities richly rewarded .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+with wit and empathy to spare , waydowntown acknowledges the silent screams of workaday inertia but stops short of indulging its characters' striving solipsism .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+starts slowly , but adrien brody – in the title role – helps make the film's conclusion powerful and satisfying .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+this is christmas future for a lot of baby boomers .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+the strength of the film lies in its two central performances by sven wollter as the stricken composer and viveka seldahl as his desperate violinist wife .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+dazzling and sugar-sweet , a blast of shallow magnificence that only sex , scandal , and a chorus line of dangerous damsels can deliver .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+at its most basic , this cartoon adventure is that wind-in-the-hair exhilarating .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+" it's all about the image . "
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+proves a lovely trifle that , unfortunately , is a little too in love with its own cuteness .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+light , cute and forgettable .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+this is pure , exciting moviemaking . you won't exactly know what's happening but you'll be blissfully exhausted .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+a real movie , about real people , that gives us a rare glimpse into a culture most of us don't know .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+witherspoon puts to rest her valley-girl image , but it's dench who really steals the show .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 13
+Number of skipped attacks: 0
+Original accuracy: 100.0%
+Accuracy under attack: 100.0%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 3230.92
+Time to run attack: 3860.4174547195435s

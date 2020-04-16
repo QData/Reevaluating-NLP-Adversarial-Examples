@@ -1,0 +1,87 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+aloof and lacks any real raw emotion , which is fatal for a film that relies on personal relationships .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+if there's one big point to promises , it's that nothing can change while physical and psychological barriers keep the sides from speaking even one word to each other .
+----------------------------------- Result 3 -----------------------------------
+0-->1
+suffocated at conception by its munchausen-by-proxy [[mum]] . punish the vehicle to [[adore]] the star .
+suffocated at conception by its munchausen-by-proxy [[mother]] . punish the vehicle to [[love]] the star .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+after one gets the feeling that the typical hollywood disregard for historical truth and realism is at work here , it's a matter of finding entertainment in the experiences of zishe and the fiery presence of hanussen .
+----------------------------------- Result 5 -----------------------------------
+0-->[FAILED]
+the story really has no place to go since simone is not real—she can't provide any conflict .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+it seems impossible that an epic four-hour indian musical about a cricket game could be this good , but it is .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+it takes a really long , slow and dreary time to dope out what tuck everlasting is about . so here it is : it's about a family of sour immortals .
+----------------------------------- Result 8 -----------------------------------
+0-->1
+supposedly , pokemon can't be [[killed]] , but pokemon 4ever [[practically]] assures that the pocket monster movie franchise is [[nearly]] ready to keel over .
+supposedly , pokemon can't be [[assassinate]] , but pokemon 4ever [[virtually]] assures that the pocket monster movie franchise is [[almost]] ready to keel over .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+the story drifts so inexorably into cliches about tortured ( and torturing ) artists and consuming but impossible love that you can't help but become more disappointed as each overwrought new sequence plods on .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+not since japanese filmmaker akira kurosawa's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+hollywood has taken quite a nosedive from alfred hitchcock's imaginative flight to shyamalan's self-important summer fluff .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+nair does capture the complexity of a big family and its trials and tribulations . . .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+if you like peace , you'll like promises .
+----------------------------------- Result 14 -----------------------------------
+0-->1
+once [kim] [[begins]] to overplay the shock tactics and bait-and-tackle metaphors , you may decide it's too high a [[price]] to pay for a shimmering [[picture]] postcard .
+once [kim] [[initiates]] to overplay the shock tactics and bait-and-tackle metaphors , you may decide it's too high a [[cost]] to pay for a shimmering [[photograph]] postcard .
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+[majidi] makes us think twice about immigrants we see around us every day .
+----------------------------------- Result 16 -----------------------------------
+0-->[FAILED]
+an intermittently pleasing but mostly routine effort .
+----------------------------------- Result 17 -----------------------------------
+0-->1
+a lot like the imaginary sport it projects onto the screen -- loud , violent and [[mindless]] .
+a lot like the imaginary sport it projects onto the screen -- loud , violent and [[senseless]] .
+----------------------------------- Result 18 -----------------------------------
+1-->[FAILED]
+there's a lot to recommend read my lips .
+----------------------------------- Result 19 -----------------------------------
+1-->[FAILED]
+an energizing , intoxicating documentary charting the rise of hip-hop culture in general and the art of scratching ( or turntablism ) in particular .
+----------------------------------- Result 20 -----------------------------------
+0-->1
+the [[film]] would work much better as a video installation in a museum , where viewers would be free to leave . [[immediately]] .
+the [[films]] would work much better as a video installation in a museum , where viewers would be free to leave . [[straightaway]] .
+----------------------------------- Result 21 -----------------------------------
+1-->[FAILED]
+bound to appeal to women looking for a howlingly trashy time .
+----------------------------------- Result 22 -----------------------------------
+1-->[FAILED]
+audiences are advised to sit near the back and squint to avoid noticing some truly egregious lip-non-synching , but otherwise the production is suitably elegant .
+----------------------------------- Result 23 -----------------------------------
+1-->[FAILED]
+what's surprising about full frontal is that despite its overt self-awareness , parts of the movie still manage to break past the artifice and thoroughly engage you .
+--------------------------------------------------------------------------------
+Number of successful attacks: 5
+Number of failed attacks: 18
+Number of skipped attacks: 2
+Original accuracy: 92.0%
+Accuracy under attack: 72.0%
+Attack success rate: 21.74%
+Average perturbed word %: 10.42%
+Avg num queries: 5034.3
+Time to run attack: 9571.844196557999s

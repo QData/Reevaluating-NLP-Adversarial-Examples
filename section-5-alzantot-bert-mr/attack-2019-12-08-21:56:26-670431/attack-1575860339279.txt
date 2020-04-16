@@ -1,0 +1,53 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+from the opening scenes , it's clear that all about the benjamins is a totally formulaic movie .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+like a tone-deaf singer at a benefit concert , john q . is a bad movie appearing on behalf of a good cause .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+far from heaven is a dazzling conceptual feat , but more than that , it's a work of enthralling drama .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+in a summer of clones , harvard man is something rare and riveting : a wild ride that relies on more than special effects .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+a first-class road movie that proves you can run away from home , but your ego and all your problems go with you .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+the advantage of a postapocalyptic setting is that it can be made on the cheap . any rock pile will do for a set . reign of fire has the disadvantage of also looking cheap .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+birot creates a drama with such a well-defined sense of place and age -- as in , 15 years old -- that the torments and angst become almost as operatic to us as they are to her characters .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+what begins brightly gets bogged down over 140 minutes .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a much more successful translation than its most famous previous film adaptation , writer-director anthony friedman's similarly updated 1970 british production .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+i don't think i've been as entranced and appalled by an asian film since shinya tsukamoto's iron man .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+de oliveira creates an emotionally rich , poetically plump and visually fulsome , but never showy , film whose bittersweet themes are reinforced and brilliantly personified by michel piccoli .
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+sunk by way too much indulgence of scene-chewing , teeth-gnashing actorliness .
+----------------------------------- Result 13 -----------------------------------
+0-->1
+an awful [[movie]] that will only satisfy the most emotionally malleable of filmgoers .
+an awful [[films]] that will only satisfy the most emotionally malleable of filmgoers .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 12
+Number of skipped attacks: 4
+Original accuracy: 76.47%
+Accuracy under attack: 70.59%
+Attack success rate: 7.69%
+Average perturbed word %: 7.69%
+Avg num queries: 3852.62
+Time to run attack: 19886.437257051468s

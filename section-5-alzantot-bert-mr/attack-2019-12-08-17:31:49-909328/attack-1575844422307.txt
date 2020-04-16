@@ -1,0 +1,47 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+for casual moviegoers who stumble into rules expecting a slice of american pie hijinks starring the kid from dawson's creek , they'll probably run out screaming .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+in the end , the [[movie]] collapses on its [[shaky]] [[foundation]] despite the best efforts of director joe carnahan .
+in the end , the [[films]] collapses on its [[unstable]] [[foundations]] despite the best efforts of director joe carnahan .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+half of it is composed of snappy patter and pseudo-sophisticated cultural observations , while the remainder . . . would be more at home on a daytime television serial .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+an often watchable , though goofy and lurid , blast of a costume drama set in the late 15th century .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+everyone's insecure in lovely and amazing , a poignant and wryly amusing film about mothers , daughters and their relationships .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+a hypnotic cyber hymn and a cruel story of youth culture .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+an extraordinary swedish film about the soul adventure of marriage -- the kind of intimate and character-driven film that bille august does best .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+i've never bought from telemarketers , but i bought this movie .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+while serving sara does have a long way to go before it reaches the level of crudity in the latest austin powers extravaganza , there's nothing here to match that movie's intermittent moments of inspiration .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+degenerates into hogwash .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+yes , it's as good as you remember . in fact , even better .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 10
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 76.92%
+Attack success rate: 9.09%
+Average perturbed word %: 16.67%
+Avg num queries: 3813.55
+Time to run attack: 28835.641117572784s
