@@ -1,0 +1,53 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+unfortunately , as a writer , mr . montias isn't nearly as good to his crew as he is as a director or actor .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+it lacks the compassion , good-natured humor and the level of insight that made [eyre's] first film something of a sleeper success .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+boyd's screenplay ( co-written with guardian hack nick davies ) has a florid turn of phrase that owes more to guy ritchie than the bard of avon .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+vividly demonstrates that the director of such hollywood blockbusters as patriot games can still turn out a small , personal film with an emotional wallop .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+a work of astonishing delicacy and force .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+it's supposed to be a romantic comedy - it suffers from too much norma rae and not enough pretty woman .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+it is so earnest , so overwrought and so wildly implausible that it begs to be parodied .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+utterly lacking in charm , wit and invention , roberto benigni's pinocchio is an astonishingly bad film .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+it's a great deal of sizzle and very little steak . but what spectacular sizzle it is ! . . . in this incarnation its fizz is infectious .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+the characters are never more than sketches . . . which leaves any true emotional connection or identification frustratingly out of reach .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+weird . rewarding .
+----------------------------------- Result 12 -----------------------------------
+0-->1
+a film of empty , fetishistic violence in which [[murder]] is casual and fun .
+a film of empty , fetishistic violence in which [[murders]] is casual and fun .
+----------------------------------- Result 13 -----------------------------------
+0-->[FAILED]
+…the story is far-flung , illogical , and plain stupid .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 12
+Number of skipped attacks: 0
+Original accuracy: 100.0%
+Accuracy under attack: 92.31%
+Attack success rate: 7.69%
+Average perturbed word %: 7.69%
+Avg num queries: 3573.31
+Time to run attack: 4782.404090166092s

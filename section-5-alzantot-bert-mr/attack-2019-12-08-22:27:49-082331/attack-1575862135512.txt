@@ -1,0 +1,44 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the beauty of the piece is that it counts heart as important as humor .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+just another disjointed , fairly predictable psychological thriller .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+fast-paced and wonderfully edited , the film is extremely thorough .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+there is no psychology here , and no real narrative logic -- just a series of carefully choreographed atrocities , which become strangely impersonal and abstract .
+----------------------------------- Result 5 -----------------------------------
+0-->[FAILED]
+louiso lets the movie dawdle in classic disaffected-indie-film mode , and brother hoffman's script stumbles over a late-inning twist that just doesn't make sense .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+very amusing , not the usual route in a thriller , and the performances are odd and pixilated and sometimes both .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+comes . . . uncomfortably close to coasting in the treads of the bicycle thief .
+----------------------------------- Result 8 -----------------------------------
+0-->1
+a hit- and-miss affair , [[consistently]] [[amusing]] but not as outrageous or funny as cho may have intended or as imaginative as one [[might]] have hoped .
+a hit- and-miss affair , [[perpetually]] [[fun]] but not as outrageous or funny as cho may have intended or as imaginative as one [[perhaps]] have hoped .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+graphic sex may be what's attracting audiences to unfaithful , but gripping performances by lane and gere are what will keep them awake .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+the whole thing's fairly lame , making it par for the course for disney sequels .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 9
+Number of skipped attacks: 3
+Original accuracy: 76.92%
+Accuracy under attack: 69.23%
+Attack success rate: 10.0%
+Average perturbed word %: 11.54%
+Avg num queries: 4252.2
+Time to run attack: 14332.61426281929s

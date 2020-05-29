@@ -1,0 +1,62 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+a mess , but it's a sincere mess .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+the redeeming feature of chan's films has always been the action , but the stunts in the tuxedo seem tired and , what's worse , routine .
+----------------------------------- Result 3 -----------------------------------
+0-->1
+as a hybrid teen thriller and murder mystery , murder by numbers fits the profile too [[closely]] .
+as a hybrid teen thriller and murder mystery , murder by numbers fits the profile too [[attentively]] .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+rock's stand-up magic wanes . hopkins , squarely fills the screen . action - mechanical .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+the plot of the comeback curlers isn't very interesting actually , but what i like about men with brooms and what is kind of special is how the film knows what's unique and quirky about canadians .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+in the not-too-distant future , movies like ghost ship will be used as analgesic balm for overstimulated minds . right now , they're merely signposts marking the slow , lingering death of imagination .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+does little more than play an innocuous game of fill-in- the-blanks with a tragic past .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+its inescapable absurdities are tantamount to insulting the intelligence of anyone who hasn't been living under a rock ( since sept . 11 ) .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+. . . creates a visceral sense of its characters' lives and conflicted emotions that carries it far above . . . what could have been a melodramatic , lifetime channel-style anthology .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+after sitting through this sloppy , made-for-movie comedy special , it makes me wonder if lawrence hates criticism so much that he refuses to evaluate his own work .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+it's traditional moviemaking all the way , but it's done with a lot of careful period attention as well as some very welcome wit .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+in between all the emotional seesawing , it's hard to figure the depth of these two literary figures , and even the times in which they lived . but they fascinate in their recklessness .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+one of the best , most understated performances of [jack nicholson's] career .
+----------------------------------- Result 15 -----------------------------------
+0-->[FAILED]
+busy urban comedy is clearly not zhang's forte , his directorial touch is neither light nor magical enough to bring off this kind of whimsy .
+----------------------------------- Result 16 -----------------------------------
+1-->[FAILED]
+an escapist confection that's pure entertainment .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 15
+Number of skipped attacks: 1
+Original accuracy: 94.12%
+Accuracy under attack: 88.24%
+Attack success rate: 6.25%
+Average perturbed word %: 6.25%
+Avg num queries: 5135.12
+Time to run attack: 21817.48890376091s

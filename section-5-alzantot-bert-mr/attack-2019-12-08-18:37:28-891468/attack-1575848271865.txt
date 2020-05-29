@@ -1,0 +1,49 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+a witty , low-key romantic comedy .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+i don't think most of the people who loved the 1989 paradiso will prefer this new version . but i do .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+a series of immaculately composed shots of patch adams quietly freaking out does not make for much of a movie .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+the beauty of alexander payne's ode to the everyman is in the details .
+----------------------------------- Result 5 -----------------------------------
+0-->[FAILED]
+a late-night cable sexploitation romp masquerading as a thriller about the ruthless social order that governs college cliques .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+despite its flaws . . . belinsky is still able to create an engaging story that keeps you guessing at almost every turn .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+overall very good for what it's trying to do .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+intriguing documentary which is emotionally diluted by focusing on the story's least interesting subject .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+" . . . something appears to have been lost in the translation this time . the importance of being earnest movie seems to be missing a great deal of the acerbic repartee of the play . "
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+for those in search of something different , wendigo is a genuinely bone-chilling tale .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+the punch lines that miss , unfortunately , outnumber the hits by three-to-one . but death to smoochy keeps firing until the bitter end .
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+lanie's professional success means she must be a failure at life , because she's driven by ambition and doesn't know how to have fun .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 12
+Number of skipped attacks: 1
+Original accuracy: 92.31%
+Accuracy under attack: 92.31%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 3773.5
+Time to run attack: 4595.158218860626s

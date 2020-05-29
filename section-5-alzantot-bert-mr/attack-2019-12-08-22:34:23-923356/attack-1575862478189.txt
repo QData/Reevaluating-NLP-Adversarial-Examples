@@ -1,0 +1,77 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+an escapist confection that's pure entertainment .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+there's a solid woman- finding-herself story somewhere in here , but you'd have to dig pretty deep to [[uncover]] it .
+there's a solid woman- finding-herself story somewhere in here , but you'd have to dig pretty deep to [[reveal]] it .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+another in-your-face wallow in the lower depths made by people who have never sung those blues .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+handsome and sophisticated approach to the workplace romantic comedy .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+. . . there is enough originality in 'life' to distance it from the pack of paint-by-number romantic comedies that so often end up on cinema screens .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+it's nice to see piscopo again after all these years , and chaykin and headly are priceless .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+[barry] gives assassin a disquieting authority .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+fans of the animated wildlife adventure show will be in warthog heaven ; others need not necessarily apply .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a moving and weighty depiction of one family's attempts to heal after the death of a child .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+huppert's superbly controlled display of murderous vulnerability ensures that malice has a very human face .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+intelligent , caustic take on a great writer and dubious human being .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+you may be captivated , as i was , by its moods , and by its subtly transformed star , and still wonder why paul thomas anderson ever had the inclination to make the most sincere and artful movie in which adam sandler will probably ever appear .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+a film with contemporary political resonance illustrated by a winning family story .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+the film is delicately narrated by martin landau and directed with sensitivity and skill by dana janklowicz-mann .
+----------------------------------- Result 15 -----------------------------------
+0-->[FAILED]
+this is mild-mannered , been-there material given a pedestrian spin by a director who needed a touch of the flamboyant , the outrageous .
+----------------------------------- Result 16 -----------------------------------
+1-->[FAILED]
+an interesting story with a pertinent ( cinematically unique ) message , told fairly well and scored to perfection , i found myself struggling to put my finger on that elusive " missing thing . "
+----------------------------------- Result 17 -----------------------------------
+1-->[FAILED]
+'si bien no logra desarrollarse como un gran drama , tampoco es tan superficial como muchas cintas que pecan de pretenciosas y que resultan totalmente banales . '
+----------------------------------- Result 18 -----------------------------------
+0-->[FAILED]
+barney throws away the goodwill the first half of his movie generates by orchestrating a finale that is impenetrable and dull .
+----------------------------------- Result 19 -----------------------------------
+1-->[FAILED]
+noyce films it more as a shocking history lesson than as drama .
+----------------------------------- Result 20 -----------------------------------
+0-->[FAILED]
+a long , dull procession of despair , set to cello music culled from a minimalist funeral .
+----------------------------------- Result 21 -----------------------------------
+1-->[FAILED]
+short-story quaint , touchingly mending a child's pain for his dead mother via communication with an old woman straight out of eudora welty .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 20
+Number of skipped attacks: 4
+Original accuracy: 84.0%
+Accuracy under attack: 80.0%
+Attack success rate: 4.76%
+Average perturbed word %: 4.55%
+Avg num queries: 4575.76
+Time to run attack: 9378.008309602737s

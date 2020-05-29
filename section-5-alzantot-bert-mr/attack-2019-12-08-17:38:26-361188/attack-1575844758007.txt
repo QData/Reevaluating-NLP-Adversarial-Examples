@@ -1,0 +1,83 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the movie is full of fine performances , led by josef bierbichler as brecht and monica bleibtreu as helene weigel , his wife .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+a woman's pic directed with resonance by ilya chaiken .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+it's hard to believe that something so short could be so flabby .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+over-the-top and a bit ostentatious , this is a movie that's got oodles of style and substance .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+no worse a film than breaking out , and breaking out was utterly charming .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+deep intelligence and a warm , enveloping affection breathe out of every frame .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+it makes me feel weird / thinking about all the bad things in the world / like puppies with broken legs / and butterflies that die / and movies starring pop queens
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+cletis is playful but highly studied and dependent for its success on a patient viewer .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+simplistic , silly and tedious .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+ice cube holds the film together with an engaging and warm performance . . .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+scherfig's light-hearted profile of emotional desperation is achingly honest and delightfully cheeky .
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+less-than-compelling documentary of a yiddish theater clan .
+----------------------------------- Result 13 -----------------------------------
+0-->[FAILED]
+this is the first full scale wwii flick from hong kong's john woo . he's not good with people .
+----------------------------------- Result 14 -----------------------------------
+0-->[FAILED]
+trailer trash cinema so uncool the only thing missing is the " gadzooks ! "
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+director rob marshall went out gunning to make a great one .
+----------------------------------- Result 16 -----------------------------------
+1-->[FAILED]
+there's really only one good idea in this movie , but the director runs with it and presents it with an unforgettable visual panache .
+----------------------------------- Result 17 -----------------------------------
+1-->[FAILED]
+the movie is well done , but slow .
+----------------------------------- Result 18 -----------------------------------
+1-->[FAILED]
+as a singular character study , it's perfect . it's also the year's sweetest movie .
+----------------------------------- Result 19 -----------------------------------
+0-->[FAILED]
+no big whoop , nothing new to see , zero thrills , too many flashbacks and a choppy ending make for a bad film .
+----------------------------------- Result 20 -----------------------------------
+0-->[FAILED]
+a somewhat disappointing and meandering saga .
+----------------------------------- Result 21 -----------------------------------
+0-->1
+there's no [[denying]] the elaborateness of the artist's conceptions , nor his ability to depict them with outrageous elan , but [[really]] the whole series is so much pretentious nonsense , lavishly [[praised]] by those who equate obscurity with profundity .
+there's no [[denied]] the elaborateness of the artist's conceptions , nor his ability to depict them with outrageous elan , but [[truly]] the whole series is so much pretentious nonsense , lavishly [[commended]] by those who equate obscurity with profundity .
+----------------------------------- Result 22 -----------------------------------
+1-->[FAILED]
+a small movie with a big impact .
+----------------------------------- Result 23 -----------------------------------
+1-->[FAILED]
+what makes barbershop so likable , with all its flaws , is that it has none of the pushiness and decibel volume of most contemporary comedies .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 22
+Number of skipped attacks: 2
+Original accuracy: 92.0%
+Accuracy under attack: 88.0%
+Attack success rate: 4.35%
+Average perturbed word %: 7.69%
+Avg num queries: 3015.78
+Time to run attack: 22735.507940769196s

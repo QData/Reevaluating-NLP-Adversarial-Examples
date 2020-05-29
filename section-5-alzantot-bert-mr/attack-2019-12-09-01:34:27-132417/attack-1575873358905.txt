@@ -1,0 +1,40 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the two leads , nearly perfect in their roles , bring a heart and reality that buoy the film , and at times , elevate it to a superior crime movie .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+the film tunes into a grief that could lead a man across centuries .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+the film's strength isn't in its details , but in the larger picture it paints - of a culture in conflict with itself , with the thin veneer of nationalism that covers our deepest , media-soaked fears .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+together , miller , kuras and the actresses make personal velocity into an intricate , intimate and intelligent journey .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+murder by numbers' isn't a great movie , but it's a perfectly acceptable widget .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+a tender and touching drama , based on the true story of a troubled african-american's quest to come to terms with his origins , reveals the yearning we all have in our hearts for acceptance within the family circle .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+. . . with the candy-like taste of it fading faster than 25-cent bubble gum , i realized this is a throwaway movie that won't stand the test of time . it's a trifle .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+you're too conscious of the effort it takes to be this spontaneous .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+ultimately , " mib ii " succeeds due to its rapid-fire delivery and enough inspired levity that it can't be dismissed as mindless .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 9
+Number of skipped attacks: 4
+Original accuracy: 69.23%
+Accuracy under attack: 69.23%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 7440.89
+Time to run attack: 28403.16036629677s

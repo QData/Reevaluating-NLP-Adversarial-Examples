@@ -1,0 +1,50 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+even during the climactic hourlong cricket match , boredom never takes hold .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+a [[huge]] disappointment coming , as it does , from filmmakers and performers of this calibre
+a [[tremendous]] disappointment coming , as it does , from filmmakers and performers of this calibre
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+the affectionate loopiness that once seemed congenital to demme's perspective has a tough time emerging from between the badly dated cutesy-pie mystery scenario and the newfangled hollywood post-production effects .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+ranks among willams' best screen work .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+this is a finely written , superbly acted offbeat thriller .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+i walked away from this new version of e . t . just as i hoped i would -- with moist eyes .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+beautifully shot , delicately scored and powered by a set of heartfelt performances , it's a lyrical endeavour .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+the cast is so low-wattage that none of the characters comes off as big . . . and the setting remains indistinct .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+the weird thing about the santa clause 2 , purportedly a children's movie , is that there is nothing in it to engage children emotionally .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+a journey that is as difficult for the audience to take as it is for the protagonist -- yet it's potentially just as rewarding .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+bad . very bad . stultifyingly , dumbfoundingly , mind-numbingly bad .
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+too much of nemesis has a tired , talky feel .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 11
+Number of skipped attacks: 1
+Original accuracy: 92.31%
+Accuracy under attack: 84.62%
+Attack success rate: 8.33%
+Average perturbed word %: 7.14%
+Avg num queries: 3001.75
+Time to run attack: 15030.059269428253s

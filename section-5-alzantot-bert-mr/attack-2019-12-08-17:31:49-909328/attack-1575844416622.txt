@@ -1,0 +1,53 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+throws in enough clever and unexpected twists to make the formula feel fresh .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+a grim , flat and boring werewolf movie that refuses to develop an energy level .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+the director explores all three sides of his story with a sensitivity and an inquisitiveness reminiscent of truffaut .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+it's a visual delight and a decent popcorn adventure , as long as you don't try to look too deep into the story
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+. . . does such a fine job of engulfing you in its world and allying you with its characters' choices , good and ill , that its shortcomings are remembered only as an afterthought .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+laced with liberal doses of dark humor , gorgeous exterior photography , and a stable-full of solid performances , no such thing is a fascinating little tale .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+jonathan parker's bartleby should have been the be-all-end-all of the modern-office anomie films .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+monte cristo smartly emphasizes the well-wrought story and omits needless chase scenes and swordfights as the revenge unfolds .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a huge box-office hit in korea , shiri is a must for genre fans .
+----------------------------------- Result 10 -----------------------------------
+0-->1
+the so-inept- it's-surreal dubbing ( featuring the voices of glenn close , regis philbin and breckin [[meyer]] ) brings back memories of cheesy [[old]] godzilla flicks .
+the so-inept- it's-surreal dubbing ( featuring the voices of glenn close , regis philbin and breckin [[meier]] ) brings back memories of cheesy [[ancient]] godzilla flicks .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+adroit but finally a trifle flat , mad love doesn't galvanize its outrage the way , say , jane campion might have done , but at least it possesses some .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+the two leads , nearly perfect in their roles , bring a heart and reality that buoy the film , and at times , elevate it to a superior crime movie .
+----------------------------------- Result 13 -----------------------------------
+1-->[FAILED]
+the film tunes into a grief that could lead a man across centuries .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 12
+Number of skipped attacks: 0
+Original accuracy: 100.0%
+Accuracy under attack: 92.31%
+Attack success rate: 7.69%
+Average perturbed word %: 7.69%
+Avg num queries: 6672.08
+Time to run attack: 34811.1781141758s

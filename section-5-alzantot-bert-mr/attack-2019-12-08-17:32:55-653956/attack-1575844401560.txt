@@ -1,0 +1,45 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+una película oscura , precisa , por momentos grandiosa y casi siempre conmovedora .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+when it [[comes]] to entertainment , [[children]] [[deserve]] better than pokemon 4ever .
+when it [[happens]] to entertainment , [[kids]] [[deserves]] better than pokemon 4ever .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+the simplicity of the way home has few equals this side of aesop
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+[director] byler may yet have a great movie in him , but charlotte sometimes is only half of one .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+a flick about our infantilized culture that isn't entirely infantile .
+----------------------------------- Result 6 -----------------------------------
+0-->1
+ice age is the first computer-generated feature cartoon to feel like other [[movies]] , and that makes for some glacial pacing early on .
+ice age is the first computer-generated feature cartoon to feel like other [[cinema]] , and that makes for some glacial pacing early on .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+a virtual roller-coaster ride of glamour and sleaze .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+gives us a lot to chew on , but not all of it has been properly digested .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+meandering and glacially paced , and often just plain dull .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+it's immensely ambitious , different than anything that's been done before and amazingly successful in terms of what it's trying to do .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 8
+Number of skipped attacks: 3
+Original accuracy: 76.92%
+Accuracy under attack: 61.54%
+Attack success rate: 20.0%
+Average perturbed word %: 15.81%
+Avg num queries: 2238.6
+Time to run attack: 2135.45205450058s

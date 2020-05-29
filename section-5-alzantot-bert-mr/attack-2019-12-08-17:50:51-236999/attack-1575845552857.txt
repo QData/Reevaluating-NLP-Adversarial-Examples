@@ -1,0 +1,47 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+not a bad choice here , assuming that . . . the air-conditioning in the theater is working properly .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+though the film is static , its writer-director's heart is in the right place , his plea for democracy and civic action laudable .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+nós gosta muito de as duas torres .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+rarely does such high-profile talent serve such literate material .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+a delirious celebration of the female orgasm .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+slow , silly and unintentionally hilarious .
+----------------------------------- Result 7 -----------------------------------
+0-->1
+sayles . . . once again strands his [[superb]] performers in the same old story .
+sayles . . . once again strands his [[magnificent]] performers in the same old story .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+at nearly three hours , the whole of safe conduct is less than the sum of its parts .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a perverse little truffle , dainty psychological terror on the outside with a creamy filling of familial jealousy and unrepentant domestic psychopathy .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+a celebration of quirkiness , eccentricity , and certain individuals' tendency to let it all hang out , and damn the consequences .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+the plot twists give i am trying to break your heart an attraction it desperately needed .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 10
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 76.92%
+Attack success rate: 9.09%
+Average perturbed word %: 8.33%
+Avg num queries: 3248.18
+Time to run attack: 19806.483298301697s

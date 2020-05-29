@@ -1,0 +1,52 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the movie is full of fine performances , led by josef bierbichler as brecht and monica bleibtreu as helene weigel , his wife .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+a woman's pic directed with resonance by ilya chaiken .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+it's hard to believe that something so short could be so flabby .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+over-the-top and a bit ostentatious , this is a movie that's got oodles of style and substance .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+no worse a film than breaking out , and breaking out was utterly charming .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+deep intelligence and a warm , enveloping affection breathe out of every frame .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+it makes me feel weird / thinking about all the bad things in the world / like puppies with broken legs / and butterflies that die / and movies starring pop queens
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+cletis is playful but highly studied and dependent for its success on a patient viewer .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+simplistic , silly and tedious .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+ice cube holds the film together with an engaging and warm performance . . .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+scherfig's light-hearted profile of emotional desperation is achingly honest and delightfully cheeky .
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+less-than-compelling documentary of a yiddish theater clan .
+----------------------------------- Result 13 -----------------------------------
+0-->[FAILED]
+this is the first full scale wwii flick from hong kong's john woo . he's not good with people .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 13
+Number of skipped attacks: 0
+Original accuracy: 100.0%
+Accuracy under attack: 100.0%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 3021.08
+Time to run attack: 25718.577372789383s

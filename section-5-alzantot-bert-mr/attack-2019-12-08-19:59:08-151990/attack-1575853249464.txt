@@ -1,0 +1,44 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the film's almost unbearable portrait of sadness and grief transcends its specific story to speak to the ways in which need , history and presumption tangle , and sometimes destroy , blood ties .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+the director mostly plays it straight , turning leys' fable into a listless climb down the social ladder .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+[siegel] and co-writers lisa bazadona and grace woodard have relied too much on convention in creating the characters who surround frankie .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+a pleasant romantic comedy .
+----------------------------------- Result 5 -----------------------------------
+0-->1
+this [[dreadfully]] earnest inversion of the concubine love triangle eschews the previous film's historical panorama and roiling pathos for bug-eyed mugging and gay-niche condescension .
+this [[frightfully]] earnest inversion of the concubine love triangle eschews the previous film's historical panorama and roiling pathos for bug-eyed mugging and gay-niche condescension .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+the best that can be said about the work here of scottish director ritchie . . . is that he obviously doesn't have his heart in it .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+together , tok and o orchestrate a buoyant , darkly funny dance of death . in the process , they demonstrate that there's still a lot of life in hong kong cinema .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+like leon , it's frustrating and still oddly likable .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a refreshingly honest and ultimately touching tale of the sort of people usually ignored in contemporary american film . search it out .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+a film that loses sight of its own story .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 9
+Number of skipped attacks: 3
+Original accuracy: 76.92%
+Accuracy under attack: 69.23%
+Attack success rate: 10.0%
+Average perturbed word %: 3.7%
+Avg num queries: 5960
+Time to run attack: 24575.235908985138s

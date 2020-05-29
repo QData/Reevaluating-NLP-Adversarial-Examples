@@ -1,0 +1,44 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->1
+instead of making his own [[style]] , director marcus adams just copies from [[various]] [[sources]] – good [[sources]] , bad [[mixture]]
+instead of making his own [[styles]] , director marcus adams just copies from [[diverse]] [[provenance]] – good [[provenance]] , bad [[blends]]
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+as refreshing as a drink from a woodland stream .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+rarely has so much money delivered so little entertainment .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+like all of egoyan's work , ararat is fiercely intelligent and uncommonly ambitious .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+weighty and ponderous but every bit as filling as the treat of the title .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+roman coppola may never become the filmmaker his dad was , but heck – few filmmakers will . but based on cq , i'll certainly be keeping an eye out for his next project .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+you needn't be steeped in '50s sociology , pop culture or movie lore to appreciate the emotional depth of haynes' work . though haynes' style apes films from the period . . . its message is not rooted in that decade .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+other than a mildly engaging central romance , hospital is sickly entertainment at best and mind-destroying cinematic pollution at worst .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+the country bears wastes an exceptionally good idea . but the movie that doesn't really deliver for country music fans or for family audiences
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+contrived pastiche of caper clichés .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 9
+Number of skipped attacks: 3
+Original accuracy: 76.92%
+Accuracy under attack: 69.23%
+Attack success rate: 10.0%
+Average perturbed word %: 27.78%
+Avg num queries: 4654.9
+Time to run attack: 5195.670707464218s

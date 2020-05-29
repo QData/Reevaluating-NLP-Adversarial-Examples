@@ -1,0 +1,43 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+a little too pat for its own good .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+too much of the humor falls flat .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+an annoying orgy of excess and exploitation that has no point and goes nowhere .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+directors john musker and ron clements , the team behind the little mermaid , have produced sparkling retina candy , but they aren't able to muster a lot of emotional resonance in the cold vacuum of space .
+----------------------------------- Result 5 -----------------------------------
+0-->[FAILED]
+this overlong infomercial , due out on video before month's end , is tepid and tedious .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+[u]nrelentingly stupid .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+velocity represents everything wrong with ''independent film'' as a commodified , sold-out concept on the american filmmaking scene .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+not a bad journey at all .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+so bland and utterly forgettable that it might as well have been titled generic jennifer lopez romantic comedy .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+devolves into the derivative , leaning on badly-rendered cgi effects .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 10
+Number of skipped attacks: 3
+Original accuracy: 76.92%
+Accuracy under attack: 76.92%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 3659.1
+Time to run attack: 4164.047397136688s

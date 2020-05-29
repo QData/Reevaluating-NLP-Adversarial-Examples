@@ -1,0 +1,52 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->1
+full of flatulence jokes and mild sexual references , kung pow ! is the [[kind]] of [[movie]] that's [[critic]]-proof , simply because it aims so low .
+full of flatulence jokes and mild sexual references , kung pow ! is the [[genre]] of [[films]] that's [[critique]]-proof , simply because it aims so low .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+rainy days and movies about the disintegration of families always get me down .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+preposterous and tedious , sonny is spiked with unintentional laughter that , unfortunately , occurs too infrequently to make the film even a guilty pleasure .
+----------------------------------- Result 4 -----------------------------------
+0-->1
+hilarious musical comedy though [[stymied]] by accents thick as mud .
+hilarious musical comedy though [[impeded]] by accents thick as mud .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+the performances are immaculate , with roussillon providing comic relief .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+in a summer overrun with movies dominated by cgi aliens and super heroes , it revigorates the mind to see a feature that concentrates on people , a project in which the script and characters hold sway .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+talk to her is so darned assured , we have absolutely no idea who the main characters are until the film is well under way -- and yet it's hard to stop watching .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+ub equally spoofs and celebrates the more outre aspects of 'black culture' and the dorkier aspects of 'white culture , ' even as it points out how inseparable the two are .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+this new movie version of the alexandre dumas classic is the stuff of high romance , brought off with considerable wit .
+----------------------------------- Result 10 -----------------------------------
+0-->1
+a sterling film - a [[cross]] between boys don't cry , deliverance , and ode to billy joe - lies somewhere in the [[story]] of matthew shepard , but that [[film]] is yet to be made .
+a sterling film - a [[crossing]] between boys don't cry , deliverance , and ode to billy joe - lies somewhere in the [[stories]] of matthew shepard , but that [[films]] is yet to be made .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+lookin' for sin , american-style ? try hell house , which documents the cautionary christian spook-a-rama of the same name .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+an ambitious movie that , like shiner's organizing of the big fight , pulls off enough of its effects to make up for the ones that don't come off .
+--------------------------------------------------------------------------------
+Number of successful attacks: 3
+Number of failed attacks: 9
+Number of skipped attacks: 1
+Original accuracy: 92.31%
+Accuracy under attack: 69.23%
+Attack success rate: 25.0%
+Average perturbed word %: 10.46%
+Avg num queries: 4910.08
+Time to run attack: 5282.733406543732s

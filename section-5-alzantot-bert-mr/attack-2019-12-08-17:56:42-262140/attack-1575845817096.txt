@@ -1,0 +1,69 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+a laughable -- or rather , unlaughable -- excuse for a film .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+it's a pleasure to see seinfeld griping about the biz with buddies chris rock , garry shandling and colin quinn .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+an ingenious and often harrowing look at damaged people and how families can offer either despair or consolation .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+for all its shoot-outs , fistfights , and car chases , this movie is a phlegmatic bore , so tedious it makes the silly spy vs . spy film the sum of all fears , starring ben affleck , seem downright hitchcockian .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+may be the most undeserving victim of critical overkill since town and country .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+i'm happy to have seen it -- not as an alternate version , but as the ultimate exercise in viewing deleted scenes .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+the film sparkles with the the wisdom and humor of its subjects .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+an intelligent , multi-layered and profoundly humanist ( not to mention gently political ) meditation on the values of knowledge , education , and the affects of cultural and geographical displacement .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a movie that both thrills the eye and , in its over-the-top way , touches the heart .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+meeting , even exceeding expectations , it's the best sequel since the empire strikes back . . . a majestic achievement , an epic of astonishing grandeur and surprising emotional depth .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+there's . . . tremendous energy from the cast , a sense of playfulness and excitement that seems appropriate .
+----------------------------------- Result 12 -----------------------------------
+1-->[FAILED]
+a film about female friendship that men can embrace and women will talk about for hours .
+----------------------------------- Result 13 -----------------------------------
+0-->1
+this is not the undisputed worst boxing movie ever , but it's [[certainly]] not a champion - the big loser is the audience .
+this is not the undisputed worst boxing movie ever , but it's [[assuredly]] not a champion - the big loser is the audience .
+----------------------------------- Result 14 -----------------------------------
+0-->1
+watching it is rather like an overlong [[visit]] from a [[large]] group of your relatives . as your relatives swap one mundane [[story]] after another , you begin to wonder if they are ever going to depart .
+watching it is rather like an overlong [[visits]] from a [[vast]] group of your relatives . as your relatives swap one mundane [[stories]] after another , you begin to wonder if they are ever going to depart .
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+a highly watchable , giggly little story with a sweet edge to it .
+----------------------------------- Result 16 -----------------------------------
+0-->[FAILED]
+harry potter and the chamber of secrets is deja vu all over again , and while that is a cliche , nothing could be more appropriate . it's likely that whatever you thought of the first production -- pro or con -- you'll likely think of this one .
+----------------------------------- Result 17 -----------------------------------
+0-->[FAILED]
+a picture as erratic as its central character .
+----------------------------------- Result 18 -----------------------------------
+1-->[FAILED]
+rubbo's humorously tendentious intervention into the who-wrote-shakespeare controversy .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 16
+Number of skipped attacks: 7
+Original accuracy: 72.0%
+Accuracy under attack: 64.0%
+Attack success rate: 11.11%
+Average perturbed word %: 6.56%
+Avg num queries: 3830.28
+Time to run attack: 7217.837684392929s

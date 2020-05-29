@@ -1,0 +1,86 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+few films have captured the chaos of an urban conflagration with such fury , and audience members will leave feeling as shaken as nesbitt's cooper looks when the bullets stop flying .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+a cultural wildcard experience : wacky , different , unusual , even nutty .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+the film is all over the place , really . it dabbles all around , never gaining much momentum .
+----------------------------------- Result 4 -----------------------------------
+0-->[FAILED]
+a sentimental mess that never rings true .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+a positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder of a shakespearean tragedy or a juicy soap opera .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+serving sara doesn't serve up a whole lot of laughs .
+----------------------------------- Result 7 -----------------------------------
+0-->1
+this movie , a certain scene in particular , brought me uncomfortably close to [[losing]] my lunch .
+this movie , a certain scene in particular , brought me uncomfortably close to [[lose]] my lunch .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+a compendium of solondz's own worst instincts in under 90 minutes .
+----------------------------------- Result 9 -----------------------------------
+0-->[FAILED]
+feels like a cold old man going through the motions .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+allen's underestimated charm delivers more goodies than lumps of coal .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+like mike doesn't win any points for originality . it does succeed by following a feel-good formula with a winning style , and by offering its target audience of urban kids some welcome role models and optimism .
+----------------------------------- Result 12 -----------------------------------
+0-->[FAILED]
+characters wander into predictably treacherous situations even though they should know better .
+----------------------------------- Result 13 -----------------------------------
+0-->[FAILED]
+leaks treacle from every pore .
+----------------------------------- Result 14 -----------------------------------
+1-->[FAILED]
+a poignant comedy that offers food for thought .
+----------------------------------- Result 15 -----------------------------------
+1-->[FAILED]
+watching haneke's film is , aptly enough , a challenge and a punishment . but watching huppert , a great actress tearing into a landmark role , is riveting .
+----------------------------------- Result 16 -----------------------------------
+0-->1
+mr . wedge and mr . saldanha [[handle]] the mix of verbal jokes and slapstick well . their [[film]] falters , however , in its adherence to the disney philosophy of required poignancy , a [[salute]] that i'd hoped the movie would avoid .
+mr . wedge and mr . saldanha [[handles]] the mix of verbal jokes and slapstick well . their [[movies]] falters , however , in its adherence to the disney philosophy of required poignancy , a [[saluted]] that i'd hoped the movie would avoid .
+----------------------------------- Result 17 -----------------------------------
+1-->[FAILED]
+kosminsky . . . puts enough salt into the wounds of the tortured and self-conscious material to make it sting .
+----------------------------------- Result 18 -----------------------------------
+0-->[FAILED]
+a poorly scripted , preachy fable that forgets about unfolding a coherent , believable story in its zeal to spread propaganda .
+----------------------------------- Result 19 -----------------------------------
+0-->[FAILED]
+a soulless jumble of ineptly assembled cliches and pabulum that plays like a 95-minute commercial for nba properties .
+----------------------------------- Result 20 -----------------------------------
+1-->[FAILED]
+close enough in spirit to its freewheeling trash-cinema roots to be a breath of fresh air .
+----------------------------------- Result 21 -----------------------------------
+1-->[FAILED]
+while the ideas about techno-saturation are far from novel , they're presented with a wry dark humor .
+--------------------------------------------------------------------------------
+Number of successful attacks: 2
+Number of failed attacks: 19
+Number of skipped attacks: 4
+Original accuracy: 84.0%
+Accuracy under attack: 76.0%
+Attack success rate: 9.52%
+Average perturbed word %: 7.28%
+Avg num queries: 3977.1
+Time to run attack: 15636.058360099792s
+attacks: 21
+Number of skipped attacks: 3
+Original accuracy: 88.0%
+Accuracy under attack: 84.0%
+Attack success rate: 4.55%
+Average perturbed word %: 20.83%
+Avg num queries: 3311.5
+Time to run attack: 15543.224519968033s

@@ -1,0 +1,44 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+the pain , loneliness and insecurity of the screenwriting process are vividly and painfully brought to slovenly life in this self-deprecating , biting and witty feature written by charlie kaufman and his twin brother , donald , and directed by spike jonze .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+boisterous and daft documentary .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+in a strange way , egoyan has done too much . he's worked too hard on this movie .
+----------------------------------- Result 4 -----------------------------------
+0-->1
+skip the [[film]] and buy the philip glass soundtrack cd .
+skip the [[films]] and buy the philip glass soundtrack cd .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+it's the kind of effectively creepy-scary thriller that has you fixating on a far corner of the screen at times because your nerves just can't take it any more .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+a feel-good movie that doesn't give you enough to feel good about .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+disappointingly , the characters are too strange and dysfunctional , tom included , to ever get under the skin , but this is compensated in large part by the off-the-wall dialogue , visual playfulness and the outlandishness of the idea itself .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+the jokes are flat , and the action looks fake .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a thoughtful , moving piece that faces difficult issues with honesty and beauty .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+don't plan on the perfect ending , but sweet home alabama hits the mark with critics who escaped from a small town life .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 9
+Number of skipped attacks: 3
+Original accuracy: 76.92%
+Accuracy under attack: 69.23%
+Attack success rate: 10.0%
+Average perturbed word %: 10.0%
+Avg num queries: 4929.8
+Time to run attack: 4977.3289959430695s

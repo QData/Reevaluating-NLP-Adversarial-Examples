@@ -1,0 +1,46 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+a brutally honest documentary about a much anticipated family reunion that goes wrong thanks to culture shock and a refusal to empathize with others .
+----------------------------------- Result 2 -----------------------------------
+0-->[FAILED]
+the movie suffers from two fatal ailments -- a dearth of vitality and a story that's shapeless and uninflected .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+a different movie -- sometimes tedious -- by a director many viewers would like to skip but film buffs should get to know .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+the movie's eventual success should be credited to dennis quaid , in fighting trim shape as an athlete as well as an actor
+----------------------------------- Result 5 -----------------------------------
+0-->[FAILED]
+a well acted and well intentioned snoozer .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+it's mostly a pleasure to watch . and the reason for that is a self-aware , often self-mocking , intelligence .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+despite what anyone believes about the goal of its makers , the show . . . represents a spectacular piece of theater , and there's no denying the talent of the creative forces behind it .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+aspires to the cracked lunacy of the adventures of buckaroo banzai , but thanks to an astonishingly witless script ends up more like the adventures of ford fairlane .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+the gags are often a stitch .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+a thoughtful and surprisingly affecting portrait of a screwed-up man who dared to mess with some powerful people , seen through the eyes of the idealistic kid who chooses to champion his ultimately losing cause .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+a well-made thriller with a certain level of intelligence and non-reactionary morality .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 11
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 84.62%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 3905.36
+Time to run attack: 19935.13375401497s

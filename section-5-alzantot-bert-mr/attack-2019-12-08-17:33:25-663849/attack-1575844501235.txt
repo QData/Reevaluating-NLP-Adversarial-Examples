@@ -1,0 +1,47 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+trailer trash cinema so uncool the only thing missing is the " gadzooks ! "
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+director rob marshall went out gunning to make a great one .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+there's really only one good idea in this movie , but the director runs with it and presents it with an unforgettable visual panache .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+the movie is well done , but slow .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+as a singular character study , it's perfect . it's also the year's sweetest movie .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+no big whoop , nothing new to see , zero thrills , too many flashbacks and a choppy ending make for a bad film .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+a somewhat disappointing and meandering saga .
+----------------------------------- Result 8 -----------------------------------
+0-->1
+there's no [[denying]] the elaborateness of the artist's conceptions , nor his ability to depict them with outrageous elan , but [[really]] the whole series is so much pretentious nonsense , lavishly [[praised]] by those who equate obscurity with profundity .
+there's no [[denied]] the elaborateness of the artist's conceptions , nor his ability to depict them with outrageous elan , but [[truly]] the whole series is so much pretentious nonsense , lavishly [[commended]] by those who equate obscurity with profundity .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a small movie with a big impact .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+what makes barbershop so likable , with all its flaws , is that it has none of the pushiness and decibel volume of most contemporary comedies .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+though perry and hurley make inspiring efforts to breathe life into the disjointed , haphazard script by jay scherick and david ronn , neither the actors nor director reginald hudlin can make it more than fitfully entertaining .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 10
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 76.92%
+Attack success rate: 9.09%
+Average perturbed word %: 7.69%
+Avg num queries: 3058
+Time to run attack: 24431.5421769619s

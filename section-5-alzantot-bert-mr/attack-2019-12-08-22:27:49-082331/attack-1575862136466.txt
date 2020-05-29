@@ -1,0 +1,40 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+it reduces the complexities to bromides and slogans and it gets so preachy-keen and so tub-thumpingly loud it makes you feel like a chump just for sitting through it .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+an exhilarating futuristic thriller-noir , minority report twists the best of technology around a gripping story , delivering a riveting , pulse intensifying escapist adventure of the first order
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+a thinly veiled excuse for wilson to play his self-deprecating act against murphy's well-honed prima donna shtick .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+sensitive , insightful and beautifully rendered film . one of the best of the year .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+it's a bittersweet and lyrical mix of elements .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+a film in a class with spike lee's masterful do the right thing .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+if the first men in black was money , the second is small change . but it still jingles in the pocket . it's fun lite .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+a frustrating combination of strained humor and heavy-handed sentimentality .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+birthday girl doesn't try to surprise us with plot twists , but rather seems to enjoy its own transparency .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 9
+Number of skipped attacks: 4
+Original accuracy: 69.23%
+Accuracy under attack: 69.23%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 4851.67
+Time to run attack: 16525.803213357925s

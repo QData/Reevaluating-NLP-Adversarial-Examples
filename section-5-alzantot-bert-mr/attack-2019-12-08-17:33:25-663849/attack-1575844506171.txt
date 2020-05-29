@@ -1,0 +1,38 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+i'm not sure which is worse : the poor acting by the ensemble cast , the flat dialogue by vincent r . nebrida or the gutless direction by laurice guillen .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+if you ever wondered what it would be like to be smack in the middle of a war zone armed with nothing but a camera , this oscar-nominated documentary takes you there .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+gorgeous scenes , masterful performances , but the sickly sweet gender normative narrative left an acrid test in this gourmet's mouth .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+the piano teacher is not an easy film . it forces you to watch people doing unpleasant things to each other and themselves , and it maintains a cool distance from its material that is deliberately unsettling .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+despite its title , punch-drunk love is never heavy-handed . the jabs it employs are short , carefully placed and dead-center .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+unless bob crane is someone of particular interest to you , this film's impressive performances and adept direction aren't likely to leave a lasting impression .
+----------------------------------- Result 7 -----------------------------------
+0-->1
+an uneven film [[dealing]] with too many problems to be taken seriously .
+an uneven film [[deal]] with too many problems to be taken seriously .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+every bit as bogus as most disney live action family movies are -- no real plot , no real conflict , no real point .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 7
+Number of skipped attacks: 5
+Original accuracy: 61.54%
+Accuracy under attack: 53.85%
+Attack success rate: 12.5%
+Average perturbed word %: 8.33%
+Avg num queries: 4922.38
+Time to run attack: 25907.420783996582s

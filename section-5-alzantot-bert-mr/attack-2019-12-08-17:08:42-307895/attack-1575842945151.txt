@@ -1,0 +1,41 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->[FAILED]
+naipaul fans may be disappointed . those who are not acquainted with the author's work , on the other hand , may fall fast asleep .
+----------------------------------- Result 2 -----------------------------------
+0-->1
+an [[incredibly]] narrow in-joke [[targeted]] to the tiniest segment of an already obscure demographic .
+an [[exceedingly]] narrow in-joke [[targets]] to the tiniest segment of an already obscure demographic .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+a rather brilliant little cult item : a pastiche of children's entertainment , superhero comics , and japanese animation .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+denver should not get the first and last look at one of the most triumphant performances of vanessa redgrave's career . it deserves to be seen everywhere .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+for a good chunk of its running time , trapped is an effective and claustrophobic thriller .
+----------------------------------- Result 6 -----------------------------------
+0-->[FAILED]
+make no mistake , ivans xtc . is a mess .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+waydowntown is by no means a perfect film , but its boasts a huge charm factor and smacks of originality .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+what's really sad is to see two academy award winning actresses ( and one academy award winning actor ) succumb to appearing in this junk that's tv sitcom material at best .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+despite its faults , gangs excels in spectacle and pacing .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 8
+Number of skipped attacks: 4
+Original accuracy: 69.23%
+Accuracy under attack: 61.54%
+Attack success rate: 11.11%
+Average perturbed word %: 13.33%
+Avg num queries: 4618
+Time to run attack: 3150.620698451996s

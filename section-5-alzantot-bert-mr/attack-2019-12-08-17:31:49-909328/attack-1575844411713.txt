@@ -1,0 +1,46 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+1-->[FAILED]
+a well-made thriller with a certain level of intelligence and non-reactionary morality .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+the hook is the drama within the drama , as an unsolved murder and an unresolved moral conflict jockey for the spotlight .
+----------------------------------- Result 3 -----------------------------------
+0-->[FAILED]
+attal's hang-ups surrounding infidelity are so old-fashioned and , dare i say , outdated , it's a wonder that he couldn't have brought something fresher to the proceedings simply by accident .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+an intelligent and deeply felt work about impossible , irrevocable choices and the price of making them .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+skillfully weaves both the elements of the plot and a powerfully evocative mood combining heated sexuality with a haunting sense of malaise .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+the attraction between these two marginal characters is complex from the start -- and , refreshingly , stays that way .
+----------------------------------- Result 7 -----------------------------------
+0-->[FAILED]
+a small independent film suffering from a severe case of hollywood-itis .
+----------------------------------- Result 8 -----------------------------------
+0-->[FAILED]
+despite all evidence to the contrary , this clunker has somehow managed to pose as an actual feature movie , the kind that charges full admission and gets hyped on tv and purports to amuse small children and ostensible adults .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+a conventional , but well-crafted film about a historic legal battle in ireland over a man's right to raise his own children .
+----------------------------------- Result 10 -----------------------------------
+1-->[FAILED]
+feral and uncomfortable .
+----------------------------------- Result 11 -----------------------------------
+0-->[FAILED]
+content merely to lionize its title character and exploit his anger - all for easy sanctimony , formulaic thrills and a ham-fisted sermon on the need for national health insurance .
+--------------------------------------------------------------------------------
+Number of successful attacks: 0
+Number of failed attacks: 11
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 84.62%
+Attack success rate: 0.0%
+Average perturbed word %: 0%
+Avg num queries: 6483.91
+Time to run attack: 33866.936124801636s

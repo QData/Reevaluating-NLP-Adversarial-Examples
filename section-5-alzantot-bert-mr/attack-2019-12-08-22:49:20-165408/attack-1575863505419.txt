@@ -1,0 +1,47 @@
+Attack algorithm: GeneticAlgorithm
+Attack type: Black Box
+Model: BERTForMRSentimentClassification
+----------------------------------- Result 1 -----------------------------------
+0-->1
+affleck [[merely]] creates an outline for a role he still needs to grow into , a role that ford effortlessly filled with authority .
+affleck [[simply]] creates an outline for a role he still needs to grow into , a role that ford effortlessly filled with authority .
+----------------------------------- Result 2 -----------------------------------
+1-->[FAILED]
+" the mothman prophecies " is a difficult film to shake from your conscience when night falls .
+----------------------------------- Result 3 -----------------------------------
+1-->[FAILED]
+makes s&m seem very romantic , and maggie gyllenhaal is a delight .
+----------------------------------- Result 4 -----------------------------------
+1-->[FAILED]
+[cuarón has] created a substantive movie out of several cliched movie structures : the road movie , the coming-of-age movie , and the teenage sex comedy .
+----------------------------------- Result 5 -----------------------------------
+1-->[FAILED]
+that rara avis : the intelligent romantic comedy with actual ideas on its mind .
+----------------------------------- Result 6 -----------------------------------
+1-->[FAILED]
+a surprisingly 'solid' achievement by director malcolm d . lee and writer john ridley .
+----------------------------------- Result 7 -----------------------------------
+1-->[FAILED]
+suffice to say that after seeing this movie in imax form , you'll be more acquainted with the tiniest details of tom hanks' face than his wife is .
+----------------------------------- Result 8 -----------------------------------
+1-->[FAILED]
+there is a kind of attentive concern that hoffman brings to his characters , as if he has been giving them private lessons , and now it is time for their first public recital .
+----------------------------------- Result 9 -----------------------------------
+1-->[FAILED]
+. . . it's as comprehensible as any dummies guide , something even non-techies can enjoy .
+----------------------------------- Result 10 -----------------------------------
+0-->[FAILED]
+it's so full of wrong choices that all you can do is shake your head in disbelief -- and worry about what classic oliver parker intends to mangle next time .
+----------------------------------- Result 11 -----------------------------------
+1-->[FAILED]
+romanek keeps the film constantly taut . . . reflecting the character's instability with a metaphorical visual style and an unnerving , heartbeat-like score .
+--------------------------------------------------------------------------------
+Number of successful attacks: 1
+Number of failed attacks: 10
+Number of skipped attacks: 2
+Original accuracy: 84.62%
+Accuracy under attack: 76.92%
+Attack success rate: 9.09%
+Average perturbed word %: 4.55%
+Avg num queries: 6218.18
+Time to run attack: 19445.186264038086s
