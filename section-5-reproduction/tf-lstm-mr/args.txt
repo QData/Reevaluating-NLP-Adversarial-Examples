@@ -1,3 +1,0 @@
-Started process 0: python /p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py --model lstm-mr --recipe textfooler --num_examples 500 --num_examples_offset 0
-Started process 1: python /p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py --model lstm-mr --recipe textfooler --num_examples 500 --num_examples_offset 500
-Attack started at 2019-12-03 at 22:47:00

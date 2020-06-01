@@ -1,9 +1,0 @@
-TextAttack BERTForClassification Loading from path /p/qdata/jm8wx/research/text_attacks/trained_bert_models/mr-uncased
-Loaded in 19.286591053009033s
-Attack algorithm: GeneticAlgorithm
-Attack type: Black Box
-Model: BERTForMRSentimentClassification
-		 0  --  0.9989370703697205
-		 1  --  0.9989370703697205
-		 2  --  0.9989370703697205
-		 3  --  0.9989370703697205

@@ -1,9 +1,0 @@
-Attack algorithm: GeneticAlgorithm
-Attack type: Black Box
-Model: BERTForMRSentimentClassification
------------------------------------ Result 1 -----------------------------------
-0-->[FAILED]
-a laughable -- or rather , unlaughable -- excuse for a film .
------------------------------------ Result 2 -----------------------------------
-1-->[FAILED]
-it's a pleasure to see seinfeld griping about the biz with buddies chris rock , garry shandling and colin quinn .

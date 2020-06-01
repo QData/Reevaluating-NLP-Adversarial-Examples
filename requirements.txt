@@ -1,0 +1,4 @@
+pandas
+language_tool_python
+seaborn
+matplotlib

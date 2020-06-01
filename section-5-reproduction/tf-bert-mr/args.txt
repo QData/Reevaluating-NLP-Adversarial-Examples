@@ -1,5 +1,0 @@
-Started process 0: python /p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py --recipe textfooler --num_examples 250 --model bert-mr --num_examples_offset 0
-Started process 1: python /p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py --recipe textfooler --num_examples 250 --model bert-mr --num_examples_offset 250
-Started process 2: python /p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py --recipe textfooler --num_examples 250 --model bert-mr --num_examples_offset 500
-Started process 3: python /p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py --recipe textfooler --num_examples 250 --model bert-mr --num_examples_offset 750
-Attack started at 2019-12-03 at 21:43:23

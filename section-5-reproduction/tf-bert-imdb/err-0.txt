@@ -1,2 +1,0 @@
-INFO:absl:Using /tmp/tfhub_modules to cache modules.
-INFO:absl:Module 'https://tfhub.dev/google/universal-sentence-encoder-large/4' already being downloaded by 'qcuda10.17876.874fd9e8e0494b46880f2774c2072b26'. Waiting.

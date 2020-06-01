@@ -1,2 +1,0 @@
-Started process 0: python /p/qdata/jm8wx/research/text_attacks/textattack/textattack/run_attack.py --model cnn-mr --recipe textfooler --num_examples 1000 --num_examples_offset 0
-Attack started at 2019-12-03 at 22:48:50
