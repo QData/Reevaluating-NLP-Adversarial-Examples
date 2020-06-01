@@ -1,0 +1,13 @@
+program: train.py
+method: grid 
+parameters:
+  augmentation_recipe:
+    values: ["", "tf-adjusted", "textfooler"]
+  augmentation_num:
+    value: -1
+  dataset:
+    value: mr
+  num_train_epochs:
+    value: 10
+  random_seed:
+    values: [1015, 2026, 3037, 4048, 5059]

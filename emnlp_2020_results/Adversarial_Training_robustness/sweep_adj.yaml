@@ -1,0 +1,22 @@
+command:
+  - ${env}
+  - "python"
+  - "-m"
+  - "textattack"
+  - "--parallel"
+  - "--disable-stdout"
+  - "--enable-csv"
+  - "--enable-wandb"
+  - ${args}
+method: grid 
+parameters:
+    model: 
+        value: "bert-mr"
+    adv_model_name:
+        values: ["vanilla","textfooler","tf-adjusted"]
+    adv_model_num:
+        values: [0,1,2,3,4]
+    adv_model_epoch:
+        values: [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
+    recipe:
+        values: ["tf-adjusted"]   
