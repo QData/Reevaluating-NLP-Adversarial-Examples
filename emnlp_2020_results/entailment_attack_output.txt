@@ -1,0 +1,108 @@
+Logging to CSV at path /p/qdata/jm8wx/research/text_attacks/textattack/outputs/attack-1591038585617.csv.
+loading dataset / /u/jm8wx/.cache/textattack/datasets/entailment/snli
+Running on 2 GPUs
+
+(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwqqqqqqqqk(B
+(0x(B Attack Results                (0x(B        (0x(B
+(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqnqqqqqqqqu(B
+(0x(B Number of successful attacks: (0x(B 844    (0x(B
+(0x(B Number of failed attacks:     (0x(B 47     (0x(B
+(0x(B Number of skipped attacks:    (0x(B 109    (0x(B
+(0x(B Original accuracy:            (0x(B 89.1%  (0x(B
+(0x(B Accuracy under attack:        (0x(B 4.7%   (0x(B
+(0x(B Attack success rate:          (0x(B 94.73% (0x(B
+(0x(B Average perturbed word %:     (0x(B 11.17% (0x(B
+(0x(B Average num. words per input: (0x(B 21.85  (0x(B
+(0x(B Avg num queries:              (0x(B 53.55  (0x(B
+(0mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvqqqqqqqqj(BAutoTokenizer max_seq_length: 256
+AutoTokenizer loading from pretrained: bert-base-uncased
+Attack(
+  (search_method): GreedyWordSwapWIR(
+    (wir_method):  unk
+  )
+  (goal_function):  UntargetedClassification
+  (transformation):  WordSwapEmbedding(
+    (max_candidates):  50
+    (embedding_type):  paragramcf
+  )
+  (constraints): 
+    (0): WordEmbeddingDistance(
+        (embedding_type):  paragramcf
+        (min_cos_sim):  0.5
+        (cased):  False
+        (include_unknown_words):  True
+      )
+    (1): PartOfSpeech(
+        (tagset):  universal
+        (allow_verb_noun_swap):  True
+      )
+    (2): UniversalSentenceEncoder(
+        (metric):  angular
+        (threshold):  0.904458599
+        (compare_with_original):  False
+        (window_size):  15
+        (skip_text_shorter_than_window):  True
+      )
+    (3): RepeatModification
+    (4): StopwordModification
+  (is_black_box):  True
+) 
+
+AutoTokenizer max_seq_length: 256
+AutoTokenizer loading from pretrained: bert-base-uncased
+
+Attack time: 405.49285197257996s
+Logging to CSV at path /p/qdata/jm8wx/research/text_attacks/textattack/outputs/attack-1591039003584.csv.
+loading dataset / /u/jm8wx/.cache/textattack/datasets/entailment/mnli_matched
+Running on 2 GPUs
+
+(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwqqqqqqqk(B
+(0x(B Attack Results                (0x(B       (0x(B
+(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqnqqqqqqqu(B
+(0x(B Number of successful attacks: (0x(B 815   (0x(B
+(0x(B Number of failed attacks:     (0x(B 34    (0x(B
+(0x(B Number of skipped attacks:    (0x(B 151   (0x(B
+(0x(B Original accuracy:            (0x(B 84.9% (0x(B
+(0x(B Accuracy under attack:        (0x(B 3.4%  (0x(B
+(0x(B Attack success rate:          (0x(B 96.0% (0x(B
+(0x(B Average perturbed word %:     (0x(B 9.47% (0x(B
+(0x(B Average num. words per input: (0x(B 29.77 (0x(B
+(0x(B Avg num queries:              (0x(B 69.06 (0x(B
+(0mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvqqqqqqqj(BAutoTokenizer max_seq_length: 256
+AutoTokenizer loading from pretrained: bert-base-uncased
+AutoTokenizer max_seq_length: 256
+AutoTokenizer loading from pretrained: bert-base-uncased
+Attack(
+  (search_method): GreedyWordSwapWIR(
+    (wir_method):  unk
+  )
+  (goal_function):  UntargetedClassification
+  (transformation):  WordSwapEmbedding(
+    (max_candidates):  50
+    (embedding_type):  paragramcf
+  )
+  (constraints): 
+    (0): WordEmbeddingDistance(
+        (embedding_type):  paragramcf
+        (min_cos_sim):  0.5
+        (cased):  False
+        (include_unknown_words):  True
+      )
+    (1): PartOfSpeech(
+        (tagset):  universal
+        (allow_verb_noun_swap):  True
+      )
+    (2): UniversalSentenceEncoder(
+        (metric):  angular
+        (threshold):  0.904458599
+        (compare_with_original):  False
+        (window_size):  15
+        (skip_text_shorter_than_window):  True
+      )
+    (3): RepeatModification
+    (4): StopwordModification
+  (is_black_box):  True
+) 
+
+
+Attack time: 467.37881350517273s
