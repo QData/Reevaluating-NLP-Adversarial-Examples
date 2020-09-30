@@ -1,8 +1,6 @@
 command:
   - ${env}
-  - "python"
-  - "-m"
-  - "textattack"
+  - "textattack attack"
   - "--parallel"
   - "--disable-stdout"
   - "--enable-csv"

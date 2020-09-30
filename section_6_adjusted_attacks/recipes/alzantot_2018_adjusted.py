@@ -1,20 +1,21 @@
 from textattack.shared.attack import Attack
+from textattack.constraints.grammaticality import PartOfSpeech, LanguageTool
 from textattack.constraints.semantics import WordEmbeddingDistance
 from textattack.constraints.pre_transformation import RepeatModification, StopwordModification
 from textattack.constraints.semantics.sentence_encoders import UniversalSentenceEncoder, BERT
-from textattack.constraints.grammaticality import PartOfSpeech, LanguageTool
 from textattack.goal_functions import UntargetedClassification
-from textattack.search_methods import GreedyWordSwapWIR
+from textattack.search_methods import GeneticAlgorithm
 from textattack.transformations import WordSwapEmbedding
 
-def TextFoolerJin2019Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
+def Alzantot2018Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
     """
-        Jin, D., Jin, Z., Zhou, J.T., & Szolovits, P. (2019). 
+        Alzantot, M., Sharma, Y., Elgohary, A., Ho, B., Srivastava, M.B., & Chang, 
+        K. (2018). 
         
-        Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment. 
+        Generating Natural Language Adversarial Examples.
         
-        https://arxiv.org/abs/1907.11932 
-       
+        https://arxiv.org/abs/1801.00554 
+
         Constraints adjusted from paper to align with human evaluation.
     """
     #
@@ -22,9 +23,7 @@ def TextFoolerJin2019Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
     #
     # Embedding: Counter-fitted PARAGRAM-SL999 vectors.
     #
-    # 50 nearest-neighbors with a cosine similarity of at least 0.5.
-    # (The paper claims 0.7, but analysis of the code and some empirical
-    # results show that it's definitely 0.5.)
+    # "[We] fix the hyperparameter values to S = 60, N = 8, K = 4, and δ = 0.5"
     #
     transformation = WordSwapEmbedding(max_candidates=50)
     #
@@ -37,8 +36,9 @@ def TextFoolerJin2019Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
     #
     # Minimum word embedding cosine similarity of 0.9.
     #
+    constraints = []
     constraints.append(
-        WordEmbeddingDistance(min_cos_sim=0.9)
+            WordEmbeddingDistance(min_cos_sim=0.9)
     )
     #
     # Universal Sentence Encoder with a minimum angular similarity of ε = 0.7.
@@ -56,17 +56,17 @@ def TextFoolerJin2019Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
     # Do grammar checking
     #
     constraints.append(
-        LanguageTool(0)
+            LanguageTool(0)
     )
-    
     #
-    # Untargeted attack   
+    # Goal is untargeted classification
     #
     goal_function = UntargetedClassification(model)
+    #
+    # Perform word substitution with a genetic algorithm.
+    #
+    search_method = GeneticAlgorithm(pop_size=60, max_iters=20)
 
-    #
-    # Greedily swap words with "Word Importance Ranking".
-    #
-    search_method = GreedyWordSwapWIR()
-    
     return Attack(goal_function, constraints, transformation, search_method)
+
+attack = Alzantot2018Adjusted
