@@ -45,11 +45,11 @@ def TextFoolerJin2019Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
     #
     if sentence_encoder == 'bert':
         se_constraint = BERT(threshold=SE_thresh,
-            metric='cosine', compare_with_original=False, window_size=15,
+            metric='cosine', compare_against_original=False, window_size=15,
             skip_text_shorter_than_window=False)
     else:
         se_constraint = UniversalSentenceEncoder(threshold=SE_thresh,
-            metric='cosine', compare_with_original=False, window_size=15,
+            metric='cosine', compare_against_original=False, window_size=15,
             skip_text_shorter_than_window=False)
     constraints.append(se_constraint)
     #

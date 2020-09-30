@@ -25,8 +25,23 @@ To generated adjusted exmaples using TFAdjusted's attack recipe, see `section_6_
 ### Section 6
 - `section_6_adjusted_attacks/` contains code for running the adjusted Alzantot and TextFooler attacks as well as their survey results.
 	- `./recipes` contains the attack recipes for AlzantotAdjusted and TFAdjusted, which can be run using [TextAttack](https://github.com/QData/TextAttack),
-	- `./surveys` contains the results of Mechanical Turk semantics and non-suspicion surveys on the examples produced by the adjusted attack.
+	- `./surveys` contains the results of Mechanical Turk semantics and non-suspicion surveys on the examples produced by the adjusted attack
+  
+### Running the attacks with adjusted thresholds
 
+Both attack recipes in `section_6_adjusted_attacks/recipes/*.py` are easily runnable by installing TextAttack and using its `--attack-from-file parameter`. 
+
+For example, to run AlzantotAdjusted on 5 samples from the MR datase against TextAttack's default bert-base-uncased model fine-tuned on MR, run the following command: 
+``` bash
+textattack attack --model bert-base-uncased-mr --attack-from-file section_6_adjusted_attacks/recipes/alzantot_2018_adjusted.py --num-examples 5
+```
+
+Or to run TFAdjusted on 5 examples on an LSTM fine-tuned for AGNews:
+```bash
+textattack attack --model lstm-ag-news --attack-from-file section_6_adjusted_attacks/recipes/textfooler_jin_2019_adjusted.py --num-examples 5
+```
+
+These attacks have been tested using TextAttack v0.2.10.
 ### Appendix
 - `appx_1.2_finding_thresholds` contain the results from the 'threshold-finding' experiments from the paper.
 	- `syn_thresh` contains the synonyms used in the survey to find the threshold for word embedding cosine similarity in the counter-fitted embedding space. Human responses indicated that $0.9$ was the optimal threshold for counter-fitted embedding word cosine similarity.

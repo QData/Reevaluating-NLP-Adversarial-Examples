@@ -4,7 +4,7 @@ from textattack.constraints.semantics import WordEmbeddingDistance
 from textattack.constraints.pre_transformation import RepeatModification, StopwordModification
 from textattack.constraints.semantics.sentence_encoders import UniversalSentenceEncoder, BERT
 from textattack.goal_functions import UntargetedClassification
-from textattack.search_methods import GeneticAlgorithm
+from textattack.search_methods import AlzantotGeneticAlgorithm
 from textattack.transformations import WordSwapEmbedding
 
 def Alzantot2018Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
@@ -45,11 +45,11 @@ def Alzantot2018Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
     #
     if sentence_encoder == 'bert':
         se_constraint = BERT(threshold=SE_thresh,
-            metric='cosine', compare_with_original=False, window_size=15,
+            metric='cosine', compare_against_original=False, window_size=15,
             skip_text_shorter_than_window=False)
     else:
         se_constraint = UniversalSentenceEncoder(threshold=SE_thresh,
-            metric='cosine', compare_with_original=False, window_size=15,
+            metric='cosine', compare_against_original=False, window_size=15,
             skip_text_shorter_than_window=False)
     constraints.append(se_constraint)
     #
@@ -65,7 +65,7 @@ def Alzantot2018Adjusted(model, SE_thresh=0.98, sentence_encoder='bert'):
     #
     # Perform word substitution with a genetic algorithm.
     #
-    search_method = GeneticAlgorithm(pop_size=60, max_iters=20)
+    search_method = AlzantotGeneticAlgorithm(pop_size=60, max_iters=20, post_crossover_check=False)
 
     return Attack(goal_function, constraints, transformation, search_method)
 
