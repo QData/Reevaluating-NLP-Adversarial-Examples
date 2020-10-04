@@ -1,5 +1,6 @@
-pandas
 language_tool_python
-seaborn
 matplotlib
+notebook
+pandas
+seaborn
 textattack
